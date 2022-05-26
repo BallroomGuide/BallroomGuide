@@ -9,7 +9,7 @@ This repository contains a list of many available dance moves for the ballroom a
  - [Viennese Waltz](standard/viennese.md)
  - [Foxtrot](standard/foxtrot.md)
  - [Quickstep](standard/quickstep.md)
- - [Latin technique](standard/technique.md)
+ - [Ballroom technique](standard/technique.md)
 
 
 
