@@ -1,0 +1,32 @@
+<header>Open Impetus (Silver)
+---------------------
+
+ </header>### Man
+
+Commence in Closed Position, backing LOD
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td>Com to turn R</td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2</td> <td>RF closes to LF (Heel Turn)</td> <td>3/8 between 1-2</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>3</td> <td>LF to side</td> <td>1/8 to R, body turns more</td> <td>Facing LOD</td> <td style="text-align:center">DC</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>2 </td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Rise e/o 2</td> <td style="text-align:center">L</td> <td style="text-align:right">HT</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+
+1\) When preceded by an [Open Natural Turn](open_natural_turn.html) (Silver) or a [Curved Feather](curved_feather_back.html) (Gold), step 1 will be taken in CBMP with the Lady outside  
+ 2) In order to end moving toward Centre (or at a corner down new LOD), make only body turn between steps 2-3
+
+### Lady
+
+Commence in Closed Position, facing LOD
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd</td> <td>Com to turn R</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2</td> <td>LF to side, then brush RF to LF</td> <td>3/8 between 1-2</td> <td>Backing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>RF to side</td> <td>3/8 between 2-3, body turns less</td> <td>Facing Centre</td> <td style="text-align:center">DC</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Rise e/o 2</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+
+1\) When preceded by an [Open Natural Turn](open_natural_turn.html) (Silver) or a [Curved Feather](curved_feather_back.html) (Gold), step 1 will be taken in CBMP, OP  
+ 2) In order to end moving toward Centre (or at a corner down new LOD), turn 1/8 less between steps 2-3
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced Backing LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 1-3 [Natural Turn](natural_turn.html) </td> </tr> <tr> <td>Silver</td> <td> 1-6 [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td>Gold</td> <td> 1-3 [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Backing DW**</td> <td>**Turning 1/8 less between steps 1-2**</td> </tr> <tr> <td>Silver</td> <td> [Open Natural Turn](open_natural_turn.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td>**Ended Moving Centre**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html), [Weave from PP](weave_from_pp.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Moving DC**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html), [Weave from PP](weave_from_pp.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Zig-Zag from PP](zig_zag.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Moving down New LOD**</td> <td>**At a corner**</td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Open Natural Turn](open_natural_turn.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Zig-Zag from PP](zig_zag.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Moving DW of New**</td> <td>**At a corner**</td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Open Natural Turn](open_natural_turn.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Zig-Zag from PP](zig_zag.html) </td> </tr> </tbody></table>

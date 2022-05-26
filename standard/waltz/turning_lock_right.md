@@ -1,0 +1,30 @@
+<header>Turning Lock to Right (Gold)
+----------------------------
+
+ </header>### Man
+
+Commence in Closed Position, backing LOD
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF back, R side leading</td> <td>Com to turn R</td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2</td> <td>LF crosses in front of RF</td> <td>1/4 between 1-2</td> <td>Backing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>3</td> <td>RF to side &amp; slightly fwd</td> <td>1/4 between 2-3, body turns less</td> <td>Pointing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>LF to side</td> <td>Body turns to R</td> <td>Facing LOD</td> <td style="text-align:center">DC</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td>Com to rise e/o 1</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>2 </td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">3</td> <td style="text-align:center">PP</td> <td>Up. Lower e/o 4</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+
+1\) The Sway may be danced LLSS
+
+### Lady
+
+Commence in Closed Position, facing DC
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd, L side leading</td> <td>Com to turn R</td> <td> </td> <td style="text-align:center"> </td> </tr> <tr> <td>2</td> <td>RF crosses behind LF</td> <td>1/4 between 1-2</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>LF to side &amp; slightly back</td> <td>1/8 between 2-3</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>4</td> <td>RF to side &amp; slightly back</td> <td>3/8 between 3-4, body turns less</td> <td>Backing DW</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td>Com to rise e/o 1</td> <td style="text-align:center">L</td> <td style="text-align:right">T</td> </tr> <tr> <td>2 </td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center">L</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">3</td> <td style="text-align:center">PP</td> <td>Up. Lower e/o 4</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+
+1\) The Sway may be danced RRSS
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced Backing LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Natural Spin Turn](spin_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [Outside Spin](outside_spin.html) (at a corner) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Backing DW**</td> <td>**Turning 1/8 less between steps 1-2**</td> </tr> <tr> <td>PreBronze</td> <td> [Natural Spin Turn](spin_turn.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [Outside Spin](outside_spin.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td>**Ready to Move DC**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Chasse from PP](chasse_from_pp.html) </td> </tr> <tr> <td>Silver</td> <td> [Weave from PP](weave_from_pp.html); [Cross Hesitation](cross_hesitation.html); [Wing](wing.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ready to Move Down New LOD**</td> <td>**Turning 1/8 less between steps 2-3 (Lady between steps 3-4)**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Chasse from PP](chasse_from_pp.html) </td> </tr> <tr> <td>Silver</td> <td> [Weave from PP](weave_from_pp.html); [Cross Hesitation](cross_hesitation.html); [Wing](wing.html) </td> </tr> <tr> <td>Gold</td> <td> [Left Whisk](left_whisk.html) </td> </tr> </tbody></table>

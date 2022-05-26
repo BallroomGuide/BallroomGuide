@@ -1,0 +1,29 @@
+<header>Chicken Walks (Gold)
+--------------------
+
+ </header>Commence in Open Position with L to R Hand Hold
+
+### Man
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>LF back, small step, knee flexed, part weight</td> <td> </td> <td>Merengue step back</td> </tr> <tr> <td>2</td> <td>RF back, small step, knee flexed, part weight</td> <td> </td> <td>Merengue step back</td> </tr> <tr> <td>3</td> <td>LF back, small step, knee flexed, part weight</td> <td> </td> <td>Merengue step back</td> </tr> <tr> <td>4</td> <td>RF back, small step, knee flexed, part weight</td> <td> </td> <td>Merengue step back</td> </tr> <tr> <td>5</td> <td>LF back, small step, knee flexed, part weight</td> <td> </td> <td>Merengue step back</td> </tr> <tr> <td>6</td> <td>RF back, small step, knee flexed, part weight</td> <td> </td> <td>Merengue step back</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>5</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+
+1\) The alternate timing SSSS or QQQQ may be used  
+ 2) In the Merengue action, the heel is lowered and the knee is straightened as the following step is taken
+
+### Lady
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>Point RF fwd without weight, L knee flexed</td> <td> </td> <td>Point</td> </tr> <tr> <td>2</td> <td>Close RF halfway to LF, knee flexed, and point LF fwd without weight</td> <td> </td> <td>Step in place and point</td> </tr> <tr> <td>3</td> <td>Close LF halfway to RF, knee flexed, and point RF fwd without weight</td> <td> </td> <td>Step in place and point</td> </tr> <tr> <td>4</td> <td>Close RF halfway to LF, knee flexed, and point LF fwd without weight</td> <td> </td> <td>Step in place and point</td> </tr> <tr> <td>5</td> <td>Close LF halfway to RF, knee flexed, and point RF fwd without weight</td> <td> </td> <td>Step in place and point</td> </tr> <tr> <td>6</td> <td>Close RF halfway to LF, knee flexed, and LF fwd</td> <td> </td> <td>Step in place and fwd step</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td>Open</td> <td style="text-align:right">T</td> </tr> <tr> <td>2</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td>Open</td> <td style="text-align:right">BF &amp; T</td> </tr> <tr> <td>3</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF &amp; T</td> </tr> <tr> <td>4</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF &amp; T</td> </tr> <tr> <td>5</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF &amp; T</td> </tr> <tr> <td>6</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF &amp; BF</td> </tr> </tbody></table>
+
+1\) The alternate timing SSSS or QQQQ may be used
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Simple Spin](simple_spin.html) </td> </tr> <tr> <td>Gold</td> <td> [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.html); [Overturned Change of Places L to R](overturned_change_of_places_left_right.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Ended in Promenade Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> 3-8 [Change of Places L to R](change_LR.html) </td> </tr> <tr> <td>Gold</td> <td> 3-8 [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.html); 3-8 [Overturned Change of Places L to R](overturned_change_of_places_left_right.html) </td> </tr> </tbody></table>

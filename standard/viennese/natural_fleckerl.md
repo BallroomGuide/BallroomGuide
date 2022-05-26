@@ -1,0 +1,36 @@
+<header>Natural Fleckerl (Gold)
+-----------------------
+
+ </header>### Man
+
+Commence facing against LOD
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%;text-align:center">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd between Lady's feet</td> <td>1/8 to R before 1</td> <td>Facing DC against LOD</td> <td rowspan="6" style="text-align:center">All steps taken under the body</td> </tr> <tr> <td>2</td> <td>LF to side and slightly fwd, split weight</td> <td>1/2 to R between 1-2</td> <td>Facing DW</td> </tr> <tr> <td>3</td> <td>RF crosses in front of LF</td> <td>3/8 to R between 2-3</td> <td>Facing against LOD</td> </tr> <tr> <td>4</td> <td>LF to side and slightly fwd</td> <td>1/8 to R between 3-4</td> <td>Facing DC against LOD</td> </tr> <tr> <td>5</td> <td>RF crosses behind LF, split weight</td> <td>1/2 to R between 4-5</td> <td>Facing DW</td> </tr> <tr> <td>6</td> <td>LF to side, small step</td> <td>3/8 to R between 5-6</td> <td>Facing against LOD</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**CBM**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center">✓</td> <td style="text-align:center"></td> <td style="text-align:right">HB</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">HB</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> </tbody></table>
+
+1\) Whenever the RF is crossed in front of the LF, the toe of the RF remains in place on the floor as the feet swivel, and the turn to the R results in the crossed position  
+ 2) This figure shall be danced in the centre of the dance floor, so as not to obstruct traffic  
+ 3) The exact amount of turn made throughout the figure may vary  
+ 4) The alignments given are for reference, and may vary
+
+### Lady
+
+Commence facing LOD
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%;text-align:center">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF to side and slightly fwd</td> <td>1/8 to R before 1</td> <td>Facing DW</td> <td rowspan="6" style="text-align:center">All steps taken under the body</td> </tr> <tr> <td>2</td> <td>RF crosses behind LF, split weight</td> <td>1/2 to R between 1-2</td> <td>Facing DC against LOD</td> </tr> <tr> <td>3</td> <td>LF to side, small step</td> <td>3/8 to R between 2-3</td> <td>Facing against LOD</td> </tr> <tr> <td>4</td> <td>RF fwd between Man's feet</td> <td>1/8 to R between 3-4</td> <td>Facing DW</td> </tr> <tr> <td>5</td> <td>LF to side and slightly fwd, split weight</td> <td>1/2 to R between 4-5</td> <td>Facing DC against LOD</td> </tr> <tr> <td>6</td> <td>RF crosses in front of LF</td> <td>3/8 to R between 5-6</td> <td>Facing against LOD</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**CBM**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">HB</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center">✓</td> <td style="text-align:center"></td> <td style="text-align:right">HB</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> </tbody></table>
+
+1\) Whenever the RF is crossed in front of the LF, the toe of the RF remains in place on the floor as the feet swivel, and the turn to the R results in the crossed position  
+ 2) This figure shall be danced in the centre of the dance floor, so as not to obstruct traffic  
+ 3) The exact amount of turn made throughout the figure may vary  
+ 4) The alignments given are for reference, and may vary
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">Gold</td> <td> [Natural Fleckerl](natural_fleckerl.html); [Contra Check](contra_check.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td style="width:30%">Bronze</td> <td> [Natural Turn](natural_turn.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td> </td> </tr> <tr> <td>Bronze</td> <td> 4-6 [Natural Turn](natural_turn.html) </td> </tr> </tbody></table>

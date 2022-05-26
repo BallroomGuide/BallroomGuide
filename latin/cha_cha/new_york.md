@@ -1,0 +1,47 @@
+<header>New York (PreBronze)
+--------------------
+
+[New York to LSP](#lsp)  
+ [New York to RSP](#rsp)
+
+ </header><a id="lsp">New York to Left Side Position</a>
+----------------------------------------------
+
+Commence in Open CPP, with L to R hand hold
+
+### Man
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>LSP</td> <td>1/8 to R before 1</td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), LRL </td> <td>Closed Position</td> <td>1/4 to L between 2-3</td> </tr> </tbody></table>
+
+### Lady
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> RF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>LSP</td> <td>1/8 to L before 1</td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), RLR </td> <td>Closed Position</td> <td>1/4 to R between 2-3</td> </tr> </tbody></table>
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced in Open CPP**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Basic](closed_basic.html); [New York to RSP](new_york.html); [Spot Turn to L (Lady to R)](spot_turn.html); [Underarm Turn to R](underarm_turn.html); [R Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to LSP](hand_to_hand.html); [Side Steps to R commenced with RF](side_step.html); [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.html); [Alemana](alemana.html); [Hockey Stick](hockey_stick.html); [Natural Top](natural_top.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Aida](aida.html) with ending 1 or 2; [Curl](curl.html); [Spiral](spiral.html); [Rope Spinning](rope_spinning.html); [Cross Basic](cross_basic.html); [RF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html) </td> </tr> <tr> <td>Gold</td> <td> [Hip Twist Spiral](hip_spiral.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced in LSP**</td> <td>**Having maintained LSP from the previous figure, making no turn between the last step of the previous figure and step 1 of the New York**</td> </tr> <tr> <td>PreBronze</td> <td> [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td>**Ended in Closed Position**</td> <td>**As described above in the charts**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Basic](closed_basic.html) (from step 6); [Basic in Place](basic_in_place.html) (from step 6); [Underarm Turn to R](underarm_turn.html); [R Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to LSP](hand_to_hand.html); [Side Step to R commenced with RF](side_step.html); [Side Step to L commenced with RF](side_step.html); [Time Step](time_step.html) (from step 6) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) (from step 6) </td> </tr> <tr> <td>Silver</td> <td> [Aida](aida.html); [Cross Basic](cross_basic.html) (from step 6); [RF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with RF](cuban_breaks.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in Open PP**</td> <td>**Man turns 1/8 to L (Lady to R) over steps 3-5**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [New York to RSP](new_york.html); [Spot Turn to L (Lady to R)](spot_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Three Cha Chas in RSP](three_cha_chas_in_RSP_LSP.html) (from step 4); [Closed Hip Twist](closed_hip.html) (from step 6) </td> </tr> <tr> <td>Silver</td> <td> [RF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with RF](cuban_breaks.html) </td> </tr> </tbody></table>
+
+<a id="rsp">New York to Right Side Position
+-------------------------------
+
+</a>Commence in Open PP, with R to L hand hold
+
+### Man
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> RF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>RSP</td> <td>1/8 to L before 1</td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>RSP</td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), RLR </td> <td>Closed Position</td> <td>1/4 to R between 2-3</td> </tr> </tbody></table>
+
+### Lady
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>RSP</td> <td>1/8 to R before 1</td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>RSP</td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), LRL </td> <td>Closed Position</td> <td>1/4 to L between 2-3</td> </tr> </tbody></table>
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced in Open PP**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 1-5 [Closed Basic](closed_basic.html); [New York to LSP](new_york.html); [Spot Turn to R (Lady to L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); 1-5 [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Three Cha Chas in RSP](three_cha_chas_in_RSP_LSP.html) </td> </tr> <tr> <td>Silver</td> <td> 1-5 [Cross Basic](cross_basic.html); [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with RF](cuban_breaks.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced in RSP**</td> <td>**Having maintained LSP from the previous figure, making no turn between the last step of the previous figure and step 1 of the New York**</td> </tr> <tr> <td>PreBronze</td> <td> [Three Cha Chas in RSP](three_cha_chas_in_RSP_LSP.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td>**Ended in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Basic](closed_basic.html); [Basic in Place](basic_in_place.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Step to L commenced with LF](side_step.html); [Side Step to R commenced with LF](side_step.html); [There and Back](there_and_back.html); [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Top](reverse_top.html) (from step 6); [Cross Basic](cross_basic.html); [Rope Spinning](rope_spinning.html); [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in Open CPP**</td> <td>**Man turns 1/8 to R (Lady to L) over steps 3-5**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady to L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.html#lsp) (from step 4) </td> </tr> <tr> <td>Silver</td> <td> [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> </tbody></table>

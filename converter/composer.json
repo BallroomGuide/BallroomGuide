@@ -1,0 +1,12 @@
+{
+    "name": "djurre/ballroom-guide",
+    "authors": [
+        {
+            "name": "Djurre",
+            "email": "djurredenboer@gmail.com"
+        }
+    ],
+    "require": {
+        "league/html-to-markdown": "^5.1"
+    }
+}

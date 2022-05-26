@@ -1,0 +1,26 @@
+<header>Open Natural Turn (Silver)
+--------------------------
+
+ </header>### Man
+
+Commence in Closed Position, facing Wall, body facing DW against LOD
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd</td> <td>Com to turn R</td> <td>Facing Wall</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>LF to side and slightly back</td> <td>1/4 between 1-2</td> <td>Backing LOD</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>RF back, R side leading</td> <td>1/8 between 2-3</td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td>Com to rise e/o 1</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Cont to rise on 2</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+
+### Lady
+
+Commence in Promenade Position, facing LOD, body facing DC
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td>Com to turn R</td> <td>Facing LOD</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF fwd and slightly to R</td> <td> </td> <td>Facing LOD</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>LF fwd, L side leading</td> <td>1/8 to R between 2-3</td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> </tbody></table>
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td>Com to rise e/o 1</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Cont to rise on 2</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td>**Commenced Moving DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Silver</td> <td> [Open Telemark](open_telemark.html); [Hover Telemark](hover_telemark.html) ended in PP (at a corner); [Outside Swivel](outside_swivel.html) (at a corner); [Open Impetus](open_impetus.html) (at a corner) </td> </tr> <tr> <td>Gold</td> <td> [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.html) (at a corner) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Moving to Wall**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Open Telemark](open_telemark.html) (at a corner); [Outside Swivel](outside_swivel.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td>**Ended Backing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Impetus &amp; Feather Finish](closed_impetus.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Outside Swivel](outside_swivel.html); [Open Impetus](open_impetus.html) </td> </tr> </tbody></table>

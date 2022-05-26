@@ -1,0 +1,6 @@
+### [ Back to the Technique Page](../technique.html)
+
+ <header>Cha Cha/Rumba Walks Backward
+----------------------------
+
+ </header> <table> <tbody><tr> <td style="width:15%">1</td> <td>Commence, for example, with LF back, RF held forward with heel released and pressure on toe (Both legs straight)</td> </tr> <tr> <td>2</td> <td>Using the "settling" hip movement, commence to move RF back on ball of foot, knee slightly flexed, until it passes under body, then extend back to toe</td> </tr> <tr> <td>3</td> <td>With a smooth action, take weight over RF. Straighten right knee. Lower right heel, at a rate depending on the beat value of the step. A natural turn out of RF occurs, completing the rotational hip action</td> </tr> <tr> <td>4</td> <td>During the weight change, release left heel without bending the knee. Allow a slight straightening of LF</td> </tr> <tr> <td>5</td> <td>Retain tone in left leg with pressure on the left (both legs are now straight)</td> </tr> <tr> <td></td> <td>Continue with a LF Walk in the same manner</td> </tr> <tr> <td>**Note**</td> <td>Because of the turn out of the RF, the toe will end in line with the heel of the LF</td> </tr> </tbody></table>

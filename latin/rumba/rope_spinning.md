@@ -1,0 +1,22 @@
+<header>Rope Spinning (Silver)
+----------------------
+
+ </header>Commenced in Closed Position with L to R Hand Hold, with the Lady toward the Man's R Side
+
+### Man
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF to side, part weight</td> <td> </td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td>End in LSP</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF back</td> <td> </td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>LF to side</td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>RF fwd &amp; across toward Lady's R side</td> <td>End in Closed</td> <td> </td> </tr> </tbody></table>
+
+1\) Steps 1-3 are a [LF Cucaracha](cucaracha.html)
+
+### Lady
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF fwd</td> <td> </td> <td rowspan="3"> 7/8 to R underarm ([Spiral Action](../technique/cr_spiral_action.html)) before 1, then 5/8 to R gradually over 1-3 </td> </tr> <tr> <td>2</td> <td>3</td> <td>LF Fwd</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td>End in LSP</td> </tr> <tr> <td>4</td> <td>2</td> <td>LF Fwd</td> <td> </td> <td rowspan="3">1/2 to R gradually over 4-6</td> </tr> <tr> <td>5</td> <td>3</td> <td>RF fwd</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>LF Fwd toward Man's R side</td> <td>End in Closed</td> </tr> </tbody></table>
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Progressive Walks Back](progressive_walks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html); [Natural Top](natural_top.html) </td> </tr> <tr> <td>Silver</td> <td> [Rope Spinning](rope_spinning) </td> </tr> <tr> <td>Gold</td> <td> [Three Threes](three_threes.html); [Three Alemanas](three_alemanas.html); [Continuous Hip Twist](continuous_hip_twist.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position toward Partner's R Side**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Opening Out to R and L](opening_out_LR.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Spiral](spiral.html); [Rope Spinning](rope_spinning.html) </td> </tr> <tr> <td>Gold</td> <td> [Continuous Hip Twist](continuous_hip_twist.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended to Side in Closed Position**</td> <td>**Man transfers weight to LF on step 5, then on step 6 steps RF to side (Lady LF to side)**</td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](alternative_basic.html); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended to Side in Open CPP**</td> <td>**Man transfers weight to LF on step 5, then on step 6 steps RF to side turning 1/8 to R (Lady LF to side, making 1/8 less turn between 5-6)**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> </tbody></table>

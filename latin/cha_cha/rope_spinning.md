@@ -1,0 +1,26 @@
+<header> Rope Spinning (Silver)
+-----------------------
+
+ </header>Commence in Closed Position with L to R Hand Hold, with the Lady toward the Man's R side
+
+### Man
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF to side, part weight</td> <td> </td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Compact chasse](../technique/c_compact_chasse.html), LRL </td> <td>End in LSP</td> <td> </td> </tr> <tr> <td>6</td> <td>2</td> <td>RF diagonally back</td> <td> </td> <td> </td> </tr> <tr> <td>7</td> <td>3</td> <td>Transfer weight to LF</td> <td> </td> <td> </td> </tr> <tr> <td>8-10</td> <td>4&amp;1</td> <td> [Fwd Lock](../technique/c_lock.html#fwd) toward Lady's R side, RLR </td> <td>End in Closed</td> <td> </td> </tr> </tbody></table>
+
+1\) Steps 3-5 may be replaced by a [Slip Chasse](../technique/c_slip_chasse.html) or [Ronde Chasse](../technique/c_ronde_chasse.html)
+
+### Lady
+
+End the previous figure toward the Man's R side
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF fwd</td> <td> </td> <td rowspan="3"> 7/8 to R underarm ([Spiral Action](../technique/cr_spiral_action.html)) before 1, then 5/8 to R gradually over 1-5 </td> </tr> <tr> <td>2</td> <td>3</td> <td>LF fwd</td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Fwd Lock](../technique/c_lock.html#fwd), RLR </td> <td>End in LSP</td> </tr> <tr> <td>6</td> <td>2</td> <td>LF fwd</td> <td> </td> <td rowspan="3">1/2 to R gradually over 6-10</td> </tr> <tr> <td>7</td> <td>3</td> <td>RF fwd</td> <td> </td> </tr> <tr> <td>8-10</td> <td>4&amp;1</td> <td> [Fwd Lock](../technique/c_lock.html#fwd) toward Man's R side, LRL </td> <td>End in Closed</td> </tr> </tbody></table>
+
+1\) Steps 3-5 and 8-10 may be replaced by [Forward Runs](../technique/c_runs.html)
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Basic](closed_basic.html); [R Side Shoulder to Shoulder](shoulder_to_shoulder.html); [New York to RSP](new_york.html); [Spot Turn to L (Lady to R)](spot_turn.html); [Underarm Turn to R](underarm_turn.html); [Hand to Hand to LSP](hand_to_hand.html); [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.html#lsp); [Side Step to R commenced with RF](side_step.html); [Time Step](time_step.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Alemana](alemana.html); [Natural Top](natural_top.html) </td> </tr> <tr> <td>Silver</td> <td> [Rope Spinning](rope_spinning.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td rowspan="2">**As described in the charts above**</td> </tr> <tr> <td style="width:30%">**toward Partner's R Side**</td> </tr> <tr> <td>Bronze</td> <td> [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Spiral](spiral.html); [Rope Spinning](rope_spinning.html) </td> </tr> <tr> <td>Gold</td> <td> [Hip Twist Spiral](hip_spiral.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in Closed Position**</td> <td rowspan="2">**Man and Lady replace steps 8-10 with a Side Chasse**</td> </tr> <tr> <td style="width:30%">**to the Side**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Basic](closed_basic.html); [Basic in Place](basic_in_place.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Step to L commenced with LF](side_step.html); [Side Step to R commenced with LF](side_step.html); [There and Back](there_and_back.html); [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Top](reverse_top.html) (from step 6); [Cross Basic](cross_basic.html); [Rope Spinning](rope_spinning.html); [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Open CPP**</td> <td>**Man replaces steps 8-10 with a Side Chasse, turning 1/8 to R. Lady turns only 3/8 over steps 6-10, dancing a Side Chasse in Open CPP**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady to L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.html#lsp) (from step 4) </td> </tr> <tr> <td>Silver</td> <td> [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> </tbody></table>

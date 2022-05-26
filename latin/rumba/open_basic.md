@@ -1,0 +1,20 @@
+<header>Open Basic (PreBronze)
+----------------------
+
+ </header>Commence in Open Position with L to R Hand Hold
+
+### Man
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>LF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to LF</td> <td>Open</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>RF fwd</td> <td>Open</td> <td> </td> </tr> </tbody></table>
+
+### Lady
+
+ <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td>Open</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Open</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to RF</td> <td>Open</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>LF back</td> <td>Open</td> <td> </td> </tr> </tbody></table>
+
+### Preceding Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Hockey Stick](hockey_stick.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 4**</td> <td>**Commence the Open Basic from step 4**</td> </tr> <tr> <td>PreBronze</td> <td> [Progressive Walks Back](progressive_walks.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> </tbody></table>
+
+### Following Figures
+
+ <table> <tbody><tr> <td style="width:30%">**Ended in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [Three Alemanas](three_alemanas.html); [Three Threes](three_threes.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td>**Having danced only until step 3 of the Open Basic**</td> </tr> <tr> <td>PreBronze</td> <td> [Progressive Walks Back](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td>**Man steps LF to side on step 3, turning slightly to R. Lady ends with RF forward between Man's feet**</td> </tr> <tr> <td>Bronze</td> <td> [Natural Top](natural_top.html) </td> </tr> </tbody></table>
