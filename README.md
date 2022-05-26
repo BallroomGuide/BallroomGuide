@@ -4,23 +4,23 @@ This repository contains a list of many available dance moves for the ballroom a
 
 ## Ballroom/Standard dances
 
- [Waltz](standard/waltz.md)
- [Tango](standard/tango.md)
- [Viennese Waltz](standard/viennese.md)
- [Foxtrot](standard/foxtrot.md)
- [Quickstep](standard/quickstep.md)
- [Latin technique](standard/technique.md)
+ - [Waltz](standard/waltz.md)
+ - [Tango](standard/tango.md)
+ - [Viennese Waltz](standard/viennese.md)
+ - [Foxtrot](standard/foxtrot.md)
+ - [Quickstep](standard/quickstep.md)
+ - [Latin technique](standard/technique.md)
 
 
 
 ## Latin dances
 
- [Cha Cha](latin/cha_cha.md)
- [Samba](latin/samba.md)
- [Rumba](latin/rumba.md)
- [Paso Doble](latin/paso.md)
- [Jive](latin/jive.md)
- [Latin technique](latin/technique.md)
+ - [Cha Cha](latin/cha_cha.md)
+ - [Samba](latin/samba.md)
+ - [Rumba](latin/rumba.md)
+ - [Paso Doble](latin/paso.md)
+ - [Jive](latin/jive.md)
+ - [Latin technique](latin/technique.md)
 
 
 # Contributing
