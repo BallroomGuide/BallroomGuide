@@ -5,9 +5,19 @@
 
 Commence in Closed Position, facing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF back in CBMP</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF back</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>LF crosses in front of RF</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>RF diag back</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF back in CBMP |  | Backing DW | DW |
+| 2 | RF back |  | Backing DW | DW |
+| 3 | LF crosses in front of RF |  | Backing DW | Under Body |
+| 4 | RF diag back |  | Backing DW | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">OP</td> <td>Com to rise e/o 1, NFR</td> <td style="text-align:center"> </td> <td style="text-align:right">TH</td> </tr> <tr> <td>2 </td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"> </td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"> </td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 4</td> <td style="text-align:center"> </td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | OP | Com to rise e/o 1, NFR |  | TH |
+| 2 | 3 | Q | Closed | Cont to rise |  | T |
+| 3 | 4 | Q | Closed | Cont to rise |  | T |
+| 4 | 56 | S | Closed | Up. Lower e/o 4 |  | TH |
 
 **Step 1 of the following figure will be taken back in CBMP with the Lady OP**
 
@@ -19,9 +29,19 @@ Commence in Closed Position, facing DW
 
 Commence in Closed Position, backing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd in CBMP</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>LF diag fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>RF crosses behind LF</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>LF diag fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF fwd in CBMP |  | Facing DW | DW |
+| 2 | LF diag fwd |  | Facing DW | LOD |
+| 3 | RF crosses behind LF |  | Facing DW | Under Body |
+| 4 | LF diag fwd |  | Facing DW | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">OP</td> <td>Com to rise e/o 1</td> <td style="text-align:center"> </td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"> </td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"> </td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 4</td> <td style="text-align:center"> </td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | OP | Com to rise e/o 1 |  | HT |
+| 2 | 3 | Q | Closed | Cont to rise |  | T |
+| 3 | 4 | Q | Closed | Cont to rise |  | T |
+| 4 | 56 | S | Closed | Up. Lower e/o 4 |  | TH |
 
 **Step 1 of the following figure will be taken forward in CBMP, OP**
 
@@ -30,8 +50,28 @@ Commence in Closed Position, backing DW
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Backing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 1-3 [Natural Turn](natural_turn.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Back Lock](back_lock.html); [Progressive Chasse to R](chasse_right.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Backing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Back Lock](back_lock.html); [Progressive Chasse to R](chasse_right.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Preceding Step 2**</td> <td>**Commenced Backing LOD**</td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to L](tipsy_to_L.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Preceding Step 2**</td> <td>**Commenced Backing DW**</td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Closed Impetus](closed_impetus.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to L](tipsy_to_L.html) </td> </tr> </tbody></table>
+ | **Commenced Backing LOD** |  |
+|---|---|
+| PreBronze | 1-3 [Natural Turn](natural_turn.md) |
+| Bronze | [Back Lock](back_lock.md); [Progressive Chasse to R](chasse_right.md) |
+|  |  |
+| **Commenced Backing DW** | **As described in the charts above** |
+| Bronze | [Back Lock](back_lock.md); [Progressive Chasse to R](chasse_right.md) |
+|  |  |
+| **Preceding Step 2** | **Commenced Backing LOD** |
+| Gold | [Tipsy to L](tipsy_to_L.md) |
+|  |  |
+| **Preceding Step 2** | **Commenced Backing DW** |
+| Bronze | [Closed Impetus](closed_impetus.md) |
+| Gold | [Tipsy to L](tipsy_to_L.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td>**Ended Backing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Closed Impetus](closed_impetus.html); [Tipple Chasse to R](tipple.html); [Running Finish](running_finish.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to R](tipsy_to_R.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Backing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Impetus](closed_impetus.html); [Tipple Chasse to R](tipple.html); [Running Finish](running_finish.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to R](tipsy_to_R.html) </td> </tr> </tbody></table>
+ | **Ended Backing LOD** |  |
+|---|---|
+| Bronze | [Closed Impetus](closed_impetus.md); [Tipple Chasse to R](tipple.md); [Running Finish](running_finish.md) |
+| Gold | [Tipsy to R](tipsy_to_R.md) |
+|  |  |
+| **Ended Backing DW** | **As described in the charts above** |
+| PreBronze | [Closed Impetus](closed_impetus.md); [Tipple Chasse to R](tipple.md); [Running Finish](running_finish.md) |
+| Gold | [Tipsy to R](tipsy_to_R.md) |

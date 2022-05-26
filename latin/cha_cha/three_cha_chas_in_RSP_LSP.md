@@ -11,19 +11,46 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1-3</td> <td>4&amp;1</td> <td> [Forward Lock](../technique/c_lock.html), LRL </td> <td>RSP</td> <td> </td> </tr> <tr> <td>4-6</td> <td>2&amp;3</td> <td> [Forward Lock](../technique/c_lock.html), RLR </td> <td>RSP</td> <td> </td> </tr> <tr> <td>7-9</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), LRL </td> <td>Closed</td> <td>1/4 to R between 6-7</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1-3 | 4&amp;1 | [Forward Lock](../technique/c_lock.md), LRL | RSP |  |
+| 4-6 | 2&amp;3 | [Forward Lock](../technique/c_lock.md), RLR | RSP |  |
+| 7-9 | 4&amp;1 | [Side Chasse](../technique/c_side_chasse.md), LRL | Closed | 1/4 to R between 6-7 |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1-3</td> <td>4&amp;1</td> <td> [Forward Lock](../technique/c_lock.html), RLR </td> <td>RSP</td> <td> </td> </tr> <tr> <td>4-6</td> <td>2&amp;3</td> <td> [Forward Lock](../technique/c_lock.html), LRL </td> <td>RSP</td> <td> </td> </tr> <tr> <td>7-9</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), RLR </td> <td>Closed</td> <td>1/4 to L between 6-7</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1-3 | 4&amp;1 | [Forward Lock](../technique/c_lock.md), RLR | RSP |  |
+| 4-6 | 2&amp;3 | [Forward Lock](../technique/c_lock.md), LRL | RSP |  |
+| 7-9 | 4&amp;1 | [Side Chasse](../technique/c_side_chasse.md), RLR | Closed | 1/4 to L between 6-7 |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in RSP**</td> <td>**As described in the charts above, having ended the previous figure in Open Position**</td> </tr> <tr> <td>PreBronze</td> <td> 1-2 [Hand to Hand to RSP](hand_to_hand.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 4**</td> <td>**Commence the Three Cha Chas from step 4, having ended the previous figure in Open PP and then turning a further 1/8 to RSP**</td> </tr> <tr> <td>PreBronze</td> <td> 1-5 [Closed Basic](closed_basic.html); [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](spot_turn.html); [R Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Side Step to L commenced with LF](side_step.html); [Time Step](time_step.html) </td> </tr> <tr> <td>Silver</td> <td> [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with RF](cuban_breaks.html#split) </td> </tr> </tbody></table>
+ | **Commenced in RSP** | **As described in the charts above, having ended the previous figure in Open Position** |
+|---|---|
+| PreBronze | 1-2 [Hand to Hand to RSP](hand_to_hand.md) |
+|  |  |
+| **Preceding Step 4** | **Commence the Three Cha Chas from step 4, having ended the previous figure in Open PP and then turning a further 1/8 to RSP** |
+| PreBronze | 1-5 [Closed Basic](closed_basic.md); [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](spot_turn.md); [R Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Side Step to L commenced with LF](side_step.md); [Time Step](time_step.md) |
+| Silver | [LF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with RF](cuban_breaks.md#split) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td>**As described in the charts above, commencing the following figure in Closed Position**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Basic](closed_basic.html) (from step 6); [Basic in Place](basic_in_place.html); (from step 6); [Underarm Turn to R](spot_turn.html); [R Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to LSP](hand_to_hand.html); [Side Step to L commenced with RF](side_step.html); [Side Step to R commenced with RF](side_step.html); [Time Step](time_step.html) (from step 6) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) (from step 6) </td> </tr> <tr> <td>Silver</td> <td> [Aida](aida.html); [Cross Basic](cross_basic.html) (from step 6); [RF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with RF](cuban_breaks.html#split) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in Open PP**</td> <td>**Having turned only 1/8 between 6-7 to dance a Side Chasse in Open PP over 7-9**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to RSP](new_york.html); [Spot Turn to L (Lady to R)](spot_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Closed Hip Twist](closed_hip.html) (from step 6) </td> </tr> <tr> <td>Silver</td> <td> [RF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with RF](cuban_breaks.html#split) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in RSP**</td> <td>**Having made no turn between 6-7 to dance a Forward Lock in RSP over 7-9**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to RSP](new_york.html); [Spot Turn to L (Lady to R)](spot_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [RF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with RF](cuban_breaks.html#split) </td> </tr> </tbody></table>
+ | **Ended in Closed Position** | **As described in the charts above, commencing the following figure in Closed Position** |
+|---|---|
+| PreBronze | [Closed Basic](closed_basic.md) (from step 6); [Basic in Place](basic_in_place.md); (from step 6); [Underarm Turn to R](spot_turn.md); [R Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to LSP](hand_to_hand.md); [Side Step to L commenced with RF](side_step.md); [Side Step to R commenced with RF](side_step.md); [Time Step](time_step.md) (from step 6) |
+| Bronze | [Fan](fan.md) (from step 6) |
+| Silver | [Aida](aida.md); [Cross Basic](cross_basic.md) (from step 6); [RF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with RF](cuban_breaks.md#split) |
+|  |  |
+| **Ended in Open PP** | **Having turned only 1/8 between 6-7 to dance a Side Chasse in Open PP over 7-9** |
+| PreBronze | [New York to RSP](new_york.md); [Spot Turn to L (Lady to R)](spot_turn.md) |
+| Bronze | [Closed Hip Twist](closed_hip.md) (from step 6) |
+| Silver | [RF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with RF](cuban_breaks.md#split) |
+|  |  |
+| **Ended in RSP** | **Having made no turn between 6-7 to dance a Forward Lock in RSP over 7-9** |
+| PreBronze | [New York to RSP](new_york.md); [Spot Turn to L (Lady to R)](spot_turn.md) |
+| Silver | [RF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with RF](cuban_breaks.md#split) |
 
 <a id="lsp">Three Cha Chas in LSP (Bronze)
 ------------------------------
@@ -32,16 +59,44 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1-3</td> <td>4&amp;1</td> <td> [Forward Lock](../technique/c_lock.html), RLR </td> <td>LSP</td> <td> </td> </tr> <tr> <td>4-6</td> <td>2&amp;3</td> <td> [Forward Lock](../technique/c_lock.html), LRL </td> <td>LSP</td> <td> </td> </tr> <tr> <td>7-9</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), RLR </td> <td>Closed Position</td> <td>1/4 to L between 6-7</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1-3 | 4&amp;1 | [Forward Lock](../technique/c_lock.md), RLR | LSP |  |
+| 4-6 | 2&amp;3 | [Forward Lock](../technique/c_lock.md), LRL | LSP |  |
+| 7-9 | 4&amp;1 | [Side Chasse](../technique/c_side_chasse.md), RLR | Closed Position | 1/4 to L between 6-7 |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1-3</td> <td>4&amp;1</td> <td> [Forward Lock](../technique/c_lock.html), LRL </td> <td>LSP</td> <td> </td> </tr> <tr> <td>4-6</td> <td>2&amp;3</td> <td> [Forward Lock](../technique/c_lock.html), RLR </td> <td>LSP</td> <td> </td> </tr> <tr> <td>7-9</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), LRL </td> <td>Closed Position</td> <td>1/4 to R between 6-7</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1-3 | 4&amp;1 | [Forward Lock](../technique/c_lock.md), LRL | LSP |  |
+| 4-6 | 2&amp;3 | [Forward Lock](../technique/c_lock.md), RLR | LSP |  |
+| 7-9 | 4&amp;1 | [Side Chasse](../technique/c_side_chasse.md), LRL | Closed Position | 1/4 to R between 6-7 |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in LSP**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-2 [Hand to Hand to LSP](hand_to_hand.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 4**</td> <td>**Commence the Three Cha Chas from step 4, having ended the previous figure in Open CPP and then turning a further 1/8 to RSP**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Basic](closed_basic.html); [New York to RSP](new_york.html); [Spot Turn to L (Lady R)](spot_turn.html); [Underarm Turn to R](spot_turn.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Side Step to R commenced with RF](side_step.html); 1-5 [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html); [Hockey Stick](hockey_stick.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Reverse Top](reverse_top.html); [Aida](aida.html) ending 1 or 2; [Spiral](spiral.html); [Curl](curl.html); [Rope Spinning](rope_spinning.html); [Cross Basic](cross_basic.html); [RF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> <tr> <td>Gold</td> <td> [Hip Twist Spiral](hip_spiral.html) </td> </tr> </tbody></table>
+ | **Commenced in LSP** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-2 [Hand to Hand to LSP](hand_to_hand.md) |
+|  |  |
+| **Preceding Step 4** | **Commence the Three Cha Chas from step 4, having ended the previous figure in Open CPP and then turning a further 1/8 to RSP** |
+| PreBronze | [Closed Basic](closed_basic.md); [New York to RSP](new_york.md); [Spot Turn to L (Lady R)](spot_turn.md); [Underarm Turn to R](spot_turn.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Side Step to R commenced with RF](side_step.md); 1-5 [Time Step](time_step.md) |
+| Bronze | [Alemana](alemana.md); [Hockey Stick](hockey_stick.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Reverse Top](reverse_top.md); [Aida](aida.md) ending 1 or 2; [Spiral](spiral.md); [Curl](curl.md); [Rope Spinning](rope_spinning.md); [Cross Basic](cross_basic.md); [RF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with LF](cuban_breaks.md#split) |
+| Gold | [Hip Twist Spiral](hip_spiral.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td>**As described in the charts above, commencing the following figure in Closed Position**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Basic](closed_basic.html); [Basic in Place](basic_in_place.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Step to L commenced with LF](side_step.html); [Side Step to R commenced with LF](side_step.html); [There and Back](there_and_back.html); [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Top](reverse_top.html) (from step 6); [Cross Basic](cross_basic.html); [Rope Spinning](rope_spinning.html); [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in Open CPP**</td> <td>**Having turned only 1/8 between 6-7 to dance a Side Chasse in Open CPP over 7-9**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady to L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in LSP**</td> <td>**Having made no turn between 6-7 to dance a Forward Lock in LSP over 7-9**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady to L)](spot_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> </tbody></table>
+ | **Ended in Closed Position** | **As described in the charts above, commencing the following figure in Closed Position** |
+|---|---|
+| PreBronze | [Closed Basic](closed_basic.md); [Basic in Place](basic_in_place.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Step to L commenced with LF](side_step.md); [Side Step to R commenced with LF](side_step.md); [There and Back](there_and_back.md); [Time Step](time_step.md) |
+| Bronze | [Fan](fan.md) |
+| Silver | [Reverse Top](reverse_top.md) (from step 6); [Cross Basic](cross_basic.md); [Rope Spinning](rope_spinning.md); [LF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with LF](cuban_breaks.md#split) |
+|  |  |
+| **Ended in Open CPP** | **Having turned only 1/8 between 6-7 to dance a Side Chasse in Open CPP over 7-9** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady to L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |
+| Silver | [LF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with LF](cuban_breaks.md#split) |
+|  |  |
+| **Ended in LSP** | **Having made no turn between 6-7 to dance a Forward Lock in LSP over 7-9** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady to L)](spot_turn.md) |
+| Silver | [LF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with LF](cuban_breaks.md#split) |

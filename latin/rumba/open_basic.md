@@ -5,16 +5,51 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>LF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to LF</td> <td>Open</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>RF fwd</td> <td>Open</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | Open |  |
+| 2 | 3 | Transfer weight to RF | Open |  |
+| 3 | 41 | LF back | Open |  |
+| 4 | 2 | RF back | Open |  |
+| 5 | 3 | Transfer weight to LF | Open |  |
+| 6 | 41 | RF fwd | Open |  |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td>Open</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Open</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to RF</td> <td>Open</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>LF back</td> <td>Open</td> <td> </td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back | Open |  |
+| 2 | 3 | Transfer weight to LF | Open |  |
+| 3 | 41 | RF fwd | Open |  |
+| 4 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | Open |  |
+| 5 | 3 | Transfer weight to RF | Open |  |
+| 6 | 41 | LF back | Open |  |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Hockey Stick](hockey_stick.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 4**</td> <td>**Commence the Open Basic from step 4**</td> </tr> <tr> <td>PreBronze</td> <td> [Progressive Walks Back](progressive_walks.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> </tbody></table>
+ | **Commenced in Open Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [RF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Hockey Stick](hockey_stick.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl) |
+| Gold | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks); [Three Threes](three_threes.md); [Circular Hip Twist](circular_hip_twist.md) |
+|  |  |
+| **Preceding Step 4** | **Commence the Open Basic from step 4** |
+| PreBronze | [Progressive Walks Back](progressive_walks.md); [LF Cuban Rock](cuban_rocks.md) |
+| Gold | [RF Syncopated Cuban Rock](syncopated_cuban_rock.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [Three Alemanas](three_alemanas.html); [Three Threes](three_threes.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td>**Having danced only until step 3 of the Open Basic**</td> </tr> <tr> <td>PreBronze</td> <td> [Progressive Walks Back](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td>**Man steps LF to side on step 3, turning slightly to R. Lady ends with RF forward between Man's feet**</td> </tr> <tr> <td>Bronze</td> <td> [Natural Top](natural_top.html) </td> </tr> </tbody></table>
+ | **Ended in Open Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md) |
+| Bronze | [Alemana](alemana.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Curl](curl) |
+| Gold | [Three Alemanas](three_alemanas.md); [Three Threes](three_threes.md) |
+|  |  |
+| **Following Step 3** | **Having danced only until step 3 of the Open Basic** |
+| PreBronze | [Progressive Walks Back](progressive_walks.md); [RF Cuban Rock](cuban_rocks.md) |
+| Gold | [RF Syncopated Cuban Rock](syncopated_cuban_rock.md) |
+|  |  |
+| **Following Step 3** | **Man steps LF to side on step 3, turning slightly to R. Lady ends with RF forward between Man's feet** |
+| Bronze | [Natural Top](natural_top.md) |

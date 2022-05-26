@@ -3,19 +3,40 @@
 
  </header>Commence in Closed or Contact Position
 
- <table class="style1"> <tbody><tr> <td style="width:9%">**Man**</td> <td style="width:20%">**Foot Position**</td> <td style="width:20%">**Alignment**</td> <td style="width:15%">**Turn**</td> <td style="width:10%; text-align:center">**Foot-  
- work**</td> <td style="width:25%">**Lead &amp; Shape**</td> <td style="width:1%">**Count**</td> </tr> <tr> <td>1</td> <td> [Appel](../technique/p_appel.html) on RF </td> <td>Facing wall</td> <td>No turn or slight body turn to L</td> <td style="text-align:center">WF</td> <td>Commence PP Shape</td> <td style="text-align:right">1</td> </tr> <tr> <td>2</td> <td>LF to side in PP</td> <td>Moving along LOD, facing DW</td> <td>1/8 to L between 1&amp;2</td> <td style="text-align:center">HF</td> <td>Achieve PP Shape</td> <td style="text-align:right">2</td> </tr> <tr> <td>3</td> <td>RF fwd in PP and CBMP</td> <td>Facing DW</td> <td>Commence to turn R</td> <td style="text-align:center">HF</td> <td>Maintain PP Shape</td> <td style="text-align:right">3</td> </tr> <tr> <td>4</td> <td>LF to side and slightly back</td> <td>Backing LOD</td> <td>3/8 to R between 3&amp;4</td> <td style="text-align:center">BF</td> <td>Commence CPP Shape</td> <td style="text-align:right">4</td> </tr> <tr> <td>5</td> <td>Cross RF behind LF, slightly back</td> <td>"</td> <td>No turn</td> <td style="text-align:center">B</td> <td>Achieve CPP Shape</td> <td style="text-align:right">5</td> </tr> <tr> <td>6</td> <td>Twist to R with weight on both feet, allowing feet to uncross. End with weight on LF, slightly back</td> <td>End facing LOD</td> <td>1/2 to R between 5&amp;6</td> <td style="text-align:center">Pressure on B of both feet. End LF flat</td> <td>Commence PP Shape</td> <td style="text-align:right">6</td> </tr> <tr> <td>7</td> <td>RF to side</td> <td>Facing LOD</td> <td>No turn</td> <td style="text-align:center">B or BF</td> <td>Achieve PP Shape</td> <td style="text-align:right">7</td> </tr> <tr> <td>8</td> <td>Close LF to RF</td> <td>"</td> <td>"</td> <td style="text-align:center">B or BF</td> <td>Maintain PP Shape</td> <td style="text-align:right">8</td> </tr> </tbody></table>
+ | **Man** | **Foot Position** | **Alignment** | **Turn** | **Foot-    work** | **Lead &amp; Shape** | **Count** |
+|---|---|---|---|---|---|---|
+| 1 | [Appel](../technique/p_appel.md) on RF | Facing wall | No turn or slight body turn to L | WF | Commence PP Shape | 1 |
+| 2 | LF to side in PP | Moving along LOD, facing DW | 1/8 to L between 1&amp;2 | HF | Achieve PP Shape | 2 |
+| 3 | RF fwd in PP and CBMP | Facing DW | Commence to turn R | HF | Maintain PP Shape | 3 |
+| 4 | LF to side and slightly back | Backing LOD | 3/8 to R between 3&amp;4 | BF | Commence CPP Shape | 4 |
+| 5 | Cross RF behind LF, slightly back | " | No turn | B | Achieve CPP Shape | 5 |
+| 6 | Twist to R with weight on both feet, allowing feet to uncross. End with weight on LF, slightly back | End facing LOD | 1/2 to R between 5&amp;6 | Pressure on B of both feet. End LF flat | Commence PP Shape | 6 |
+| 7 | RF to side | Facing LOD | No turn | B or BF | Achieve PP Shape | 7 |
+| 8 | Close LF to RF | " | " | B or BF | Maintain PP Shape | 8 |
 
- <table class="style1"> <tbody><tr> <td style="width:9%">**Lady**</td> <td style="width:33%">**Foot Position**</td> <td style="width:20%">**Alignment**</td> <td style="width:25%">**Turn**</td> <td style="width:12%; text-align:center">**Footwork**</td> <td style="width:1%">**Count**</td> </tr> <tr> <td>1</td> <td> [Appel](../technique/p_appel.html) on LF </td> <td>Facing centre</td> <td>No turn or slight body turn to R</td> <td style="text-align:center">WF</td> <td style="text-align:right">1</td> </tr> <tr> <td>2</td> <td>RF to side in PP</td> <td>Along LOD, facing DC</td> <td>1/8 to R between 1&amp;2</td> <td style="text-align:center">HF</td> <td style="text-align:right">2</td> </tr> <tr> <td>3</td> <td>LF fwd and across in PP and CBMP</td> <td>Pointing LOD</td> <td>1/8 to R between 2&amp;3, body turns less</td> <td style="text-align:center">HF</td> <td style="text-align:right">3</td> </tr> <tr> <td>4</td> <td>RF fwd, facing LOD</td> <td>Facing LOD</td> <td>Body completes turn</td> <td style="text-align:center">HF</td> <td style="text-align:right">4</td> </tr> <tr> <td>5</td> <td>LF fwd, L side leading, preparing to step OP</td> <td>Down LOD, facing DW</td> <td>1/8 to R between 4&amp;5</td> <td style="text-align:center">HF</td> <td style="text-align:right">5</td> </tr> <tr> <td>6</td> <td>RF fwd in CBMP, OP</td> <td>Facing wall</td> <td>1/8 to R between 5&amp;6</td> <td style="text-align:center">HB, foot flat</td> <td style="text-align:right">6</td> </tr> <tr> <td>7</td> <td>LF to side</td> <td>Backing LOD</td> <td>1/4 to R between 6&amp;7</td> <td style="text-align:center">B or BF</td> <td style="text-align:right">7</td> </tr> <tr> <td>8</td> <td>Close RF to LF</td> <td>"</td> <td>No turn</td> <td style="text-align:center">B or BF</td> <td style="text-align:right">8</td> </tr> </tbody></table>
+ | **Lady** | **Foot Position** | **Alignment** | **Turn** | **Footwork** | **Count** |
+|---|---|---|---|---|---|
+| 1 | [Appel](../technique/p_appel.md) on LF | Facing centre | No turn or slight body turn to R | WF | 1 |
+| 2 | RF to side in PP | Along LOD, facing DC | 1/8 to R between 1&amp;2 | HF | 2 |
+| 3 | LF fwd and across in PP and CBMP | Pointing LOD | 1/8 to R between 2&amp;3, body turns less | HF | 3 |
+| 4 | RF fwd, facing LOD | Facing LOD | Body completes turn | HF | 4 |
+| 5 | LF fwd, L side leading, preparing to step OP | Down LOD, facing DW | 1/8 to R between 4&amp;5 | HF | 5 |
+| 6 | RF fwd in CBMP, OP | Facing wall | 1/8 to R between 5&amp;6 | HB, foot flat | 6 |
+| 7 | LF to side | Backing LOD | 1/4 to R between 6&amp;7 | B or BF | 7 |
+| 8 | Close RF to LF | " | No turn | B or BF | 8 |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">Silver-Gold</td> <td>Any syllabus figure ended with feet together, facing wall</td> </tr> </tbody></table>
+ | Silver-Gold | Any syllabus figure ended with feet together, facing wall |
+|---|---|
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">Silver</td> <td>1-4 Open Telemark</td> </tr> <tr> <td>Gold</td> <td>Fallaway Reverse Turn with Open Telemark ending - Outside Turn</td> </tr> </tbody></table>
+ | Silver | 1-4 Open Telemark |
+|---|---|
+| Gold | Fallaway Reverse Turn with Open Telemark ending - Outside Turn |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">Silver-Gold</td> <td>Any syllabus figure commenced with feet together, facing LOD</td> </tr> </tbody></table>
+ | Silver-Gold | Any syllabus figure commenced with feet together, facing LOD |
+|---|---|

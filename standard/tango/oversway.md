@@ -13,9 +13,19 @@
 
 Commence in Closed Position, facing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd in CBMP</td> <td>Com to turn L</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>RF to side</td> <td>1/4 between 1-2</td> <td>Backing DW</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>LF back to end to side</td> <td>1/8 between 2-3, then a further 1/4 on 3</td> <td>Backing LOD to facing Wall</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>Flex L knee and incline body to R</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd in CBMP | Com to turn L | Facing DC | DC |
+| 2 | RF to side | 1/4 between 1-2 | Backing DW | DC |
+| 3 | LF back to end to side | 1/8 between 2-3, then a further 1/4 on 3 | Backing LOD to facing Wall | LOD |
+| 4 | Flex L knee and incline body to R |  | Facing Wall |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">HF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BH</td> </tr> <tr> <td>3</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">i/e of BH</td> </tr> <tr> <td>4</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Closed | HF |
+| 2 | 2 | Q | Closed | BH |
+| 3 | 34 | S | Closed | i/e of BH |
+| 4 | 12 | S | Closed | WF (LF), i/e of B (RF) |
 
 1\) On step 4, turn the head to look at the Lady  
  2) Step 4 may be held for an additional two beats  
@@ -26,9 +36,19 @@ Commence in Closed Position, facing DC
 
 Commence in Closed Position, backing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF back in CBMP</td> <td>Com to turn L</td> <td>Backing DW</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>L heel closes to R heel</td> <td>3/8 between 1-2</td> <td>Pointing LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>3</td> <td>RF fwd to end to side</td> <td>1/4 to L on 3</td> <td>Facing LOD to backing Wall</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>Flex R knee and incline body to L</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF back in CBMP | Com to turn L | Backing DW | DC |
+| 2 | L heel closes to R heel | 3/8 between 1-2 | Pointing LOD | Under Body |
+| 3 | RF fwd to end to side | 1/4 to L on 3 | Facing LOD to backing Wall | LOD |
+| 4 | Flex R knee and incline body to L |  | Backing Wall |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BH</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">WF</td> </tr> <tr> <td>3</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BH</td> </tr> <tr> <td>4</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">WF (RF), i/e f B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Closed | BH |
+| 2 | 2 | Q | Closed | WF |
+| 3 | 34 | S | Closed | BH |
+| 4 | 12 | S | Closed | WF (RF), i/e f B (LF) |
 
 1\) Turn head to R between steps 2-3, and return it to L on step 4  
  2) Step 4 may be held for an additional two beats  
@@ -37,7 +57,11 @@ Commence in Closed Position, backing DC
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DC**</td> <td> </td> </tr> <tr> <td style="width:30%; height: 23px;">PreBronze</td> <td style="height: 23px"> [RF Walk](walk_RF.html) </td> </tr> <tr> <td>Silver</td> <td> [Promenade Link](promenade_link.html); [Outside Swivel](outside_swivel.html); [Brush Tap](brush_tap.html) </td> </tr> <tr> <td>Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html) </td> </tr> </tbody></table>
+ | **Commenced Facing DC** |  |
+|---|---|
+| PreBronze | [RF Walk](walk_RF.md) |
+| Silver | [Promenade Link](promenade_link.md); [Outside Swivel](outside_swivel.md); [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md) |
 
 <a id="#1">Ending 1: Transfer to Promenade Position</a>
 -------------------------------------------------------
@@ -46,21 +70,38 @@ Commence in Closed Position, backing DC
 
 Commence in Closed Position, facing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5 </td> <td>Transfer weight to RF</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>Place LF to side, L knee veering inward</td> <td>1/8 to L, body turns less</td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | Transfer weight to RF |  | Facing Wall | Against LOD |
+| 6 | Place LF to side, L knee veering inward | 1/8 to L, body turns less | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5 </td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (RF), i/e of B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed |  | BH |
+| 6 | 2 | Q | PP |  | WF (RF), i/e of B (LF) |
 
 ### Lady
 
 Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>Transfer weight to LF</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>2</td> <td>Place RF to side, R knee veering inward</td> <td>1/8 to R, body turns less</td> <td>Facing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | Transfer weight to LF |  | Backing Wall | Against LOD |
+| 2 | Place RF to side, R knee veering inward | 1/8 to R, body turns less | Facing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5 </td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed |  | BH |
+| 6 | 2 | Q | PP |  | WF (LF), i/e of B (RF) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Ready to Move LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Ready to Move LOD** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |
 
 <a id="#2">Ending 2: Close to Promenade Position</a>
 ----------------------------------------------------
@@ -69,21 +110,38 @@ Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversw
 
 Commence in Closed Position, facing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5 </td> <td>Close RF to LF, slightly behind</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>6</td> <td>Place LF to side, L knee veering inward</td> <td>1/8 to L, body turns less</td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | Close RF to LF, slightly behind |  | Facing Wall | Under Body |
+| 6 | Place LF to side, L knee veering inward | 1/8 to L, body turns less | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5 </td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (RF), i/e of B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | &amp; | &amp; | Closed |  | BH |
+| 6 | 12 | S | PP |  | WF (RF), i/e of B (LF) |
 
 ### Lady
 
 Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5 </td> <td>Close LF to RF, slightly in front</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>6</td> <td>Place RF to side, R knee veering inward</td> <td>1/8 to R, body turns less</td> <td>Facing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | Close LF to RF, slightly in front |  | Backing Wall | Under Body |
+| 6 | Place RF to side, R knee veering inward | 1/8 to R, body turns less | Facing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5 </td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | &amp; | &amp; | Closed |  | BH |
+| 6 | 12 | S | PP |  | WF (LF), i/e of B (RF) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Ready to Move LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Ready to Move LOD** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |
 
 <a id="#3">Ending 3: Chasse, Whisk, and Promenade Link</a>
 ----------------------------------------------------------
@@ -92,11 +150,25 @@ Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversw
 
 Commence in Closed Position, facing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>RF to side</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>Close LF to RF, slightly behind</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>7</td> <td>RF to side</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Cross LF behind RF</td> <td>1/8 to L between 3-4, body turns less</td> <td>Facing DW</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>9</td> <td>RF fwd in CBMP</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>10</td> <td>Place LF to side without weight</td> <td>Body turn to L</td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | RF to side |  | Facing Wall | Against LOD |
+| 6 | Close LF to RF, slightly behind |  | Facing Wall | Under Body |
+| 7 | RF to side |  | Facing Wall | Against LOD |
+| 8 | Cross LF behind RF | 1/8 to L between 3-4, body turns less | Facing DW | Against LOD |
+| 9 | RF fwd in CBMP |  | Facing DW | LOD |
+| 10 | Place LF to side without weight | Body turn to L | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>9</td> <td style="text-align:center">5</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center">✓</td> <td style="text-align:right">HF</td> </tr> <tr> <td>10</td> <td style="text-align:center">6</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (RF), i/e of B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed |  | BH |
+| 6 | &amp; | &amp; | Closed |  | BH |
+| 7 | 2 | Q | Closed |  | BH |
+| 8 | 34 | S | PP |  | B |
+| 9 | 5 | Q | PP | ✓ | HF |
+| 10 | 6 | Q | Closed |  | WF (RF), i/e of B (LF) |
 
-1\) Steps 5-6 are steps 2-3 of a [Promenade Link](promenade_link.html)  
+1\) Steps 5-6 are steps 2-3 of a [Promenade Link](promenade_link.md)  
  2) To end facing LOD, take step 5 Pointing LOD and complete body turn on step 6  
  3) To end in PP facing DW and ready to Move LOD, omit body turn on step 6 and place LF to side in PP, L knee veering inward
 
@@ -104,17 +176,55 @@ Commence in Closed Position, facing Wall, having danced steps 1-4 of the Overswa
 
 Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>LF to side</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>Close RF to LF, slightly in front</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>7</td> <td>LF to side</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Cross RF behind LF</td> <td>11/8 to R between 3-4, body turns less</td> <td>Facing DC</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>9</td> <td>LF fwd in CBMP</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>10</td> <td>Place RF to side without weight</td> <td>1/4 to L, body tuns less</td> <td>Backing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | LF to side |  | Backing Wall | Against LOD |
+| 6 | Close RF to LF, slightly in front |  | Backing Wall | Under Body |
+| 7 | LF to side |  | Backing Wall | Against LOD |
+| 8 | Cross RF behind LF | 11/8 to R between 3-4, body turns less | Facing DC | Against LOD |
+| 9 | LF fwd in CBMP |  | Facing DC | LOD |
+| 10 | Place RF to side without weight | 1/4 to L, body tuns less | Backing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>9</td> <td style="text-align:center">5</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB (Foot flat)</td> </tr> <tr> <td>10</td> <td style="text-align:center">6</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed |  | BH |
+| 6 | &amp; | &amp; | Closed |  | BH |
+| 7 | 2 | Q | Closed |  | BH |
+| 8 | 34 | S | PP |  | B |
+| 9 | 5 | Q | PP | ✓ | HB (Foot flat) |
+| 10 | 6 | Q | Closed |  | WF (LF), i/e of B (RF) |
 
-1\) Steps 5-6 are steps 2-3 of a [Promenade Link](promenade_link.html)  
+1\) Steps 5-6 are steps 2-3 of a [Promenade Link](promenade_link.md)  
  2) To end backing LOD, turn 3/8 to L on 6, body turns less  
  3) To end in PP facing DC and ready to Move LOD, omit turn on step 6 and place RF to side in PP, R knee veering inward
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Walk](walk_LF.html); [Progressive Side Step](side_step.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Brush Tap](brush_tap.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**Along the side of the floor**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Walk](walk_LF.html); [Progressive Side Step](side_step.html); [Point to PP](point_to_pp.html); [Progressive Link](progressive_link.html); [Back Corte](corte.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Four Step](four_step.html); [Four Step Change](four_step_change.html); [Brush Tap](brush_tap.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Four Step](fallaway_four_step.html); [Five Step](five_step.html); </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Point to PP](point_to_pp.html); [Progressive Link](progressive_link.html); [Back Corte](corte.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Four Step](four_step.html); [Four Step Change](four_step_change.html); [Brush Tap](brush_tap.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Four Step](fallaway_four_step.html); [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html); [Five Step](five_step.html); [Contra Check](contra_check.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Backing DC of new LOD**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Back Corte](corte.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [LF Rock](rock_LF.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in PP**</td> <td>**Ready to Move LOD**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Facing LOD** |  |
+|---|---|
+| PreBronze | [LF Walk](walk_LF.md); [Progressive Side Step](side_step.md) |
+| Silver | [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md) |
+|  |  |
+| **Ended Facing DW** | **Along the side of the floor** |
+| PreBronze | [LF Walk](walk_LF.md); [Progressive Side Step](side_step.md); [Point to PP](point_to_pp.md); [Progressive Link](progressive_link.md); [Back Corte](corte.md) |
+| Silver | [Four Step](four_step.md); [Four Step Change](four_step_change.md); [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Four Step](fallaway_four_step.md); [Five Step](five_step.md); |
+|  |  |
+| **Ended Facing DW** | **At a corner** |
+| PreBronze | [Point to PP](point_to_pp.md); [Progressive Link](progressive_link.md); [Back Corte](corte.md) |
+| Silver | [Four Step](four_step.md); [Four Step Change](four_step_change.md); [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Four Step](fallaway_four_step.md); [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md); [Five Step](five_step.md); [Contra Check](contra_check.md) |
+|  |  |
+| **Ended Backing DC of new LOD** | **At a corner** |
+| PreBronze | [Back Corte](corte.md) |
+| Bronze | [LF Rock](rock_LF.md) |
+|  |  |
+| **Ended in PP** | **Ready to Move LOD** |
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |
 
 <a id="#4">Ending 4: Chasse, Whisk, and Close to PP</a>
 -------------------------------------------------------
@@ -123,21 +233,54 @@ Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversw
 
 Commence in Closed Position, facing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>RF to side</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>Close LF to RF, slightly behind</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>7</td> <td>RF to side</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Cross LF behind RF</td> <td>1/8 to L between 3-4, body turns less</td> <td>Facing DW</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>9</td> <td>Close RF to LF, slightly behind</td> <td>1/8 to R between 4-5, body turns less</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>10</td> <td>Place LF to side, L knee veering inward</td> <td>1/8 to L, body turns less</td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | RF to side |  | Facing Wall | Against LOD |
+| 6 | Close LF to RF, slightly behind |  | Facing Wall | Under Body |
+| 7 | RF to side |  | Facing Wall | Against LOD |
+| 8 | Cross LF behind RF | 1/8 to L between 3-4, body turns less | Facing DW | Against LOD |
+| 9 | Close RF to LF, slightly behind | 1/8 to R between 4-5, body turns less | Facing DW | Under Body |
+| 10 | Place LF to side, L knee veering inward | 1/8 to L, body turns less | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>9</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>10</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (RF), i/e of B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed |  | BH |
+| 6 | &amp; | &amp; | Closed |  | BH |
+| 7 | 2 | Q | Closed |  | BH |
+| 8 | 34 | S | PP |  | B |
+| 9 | &amp; | &amp; | Closed |  | BH |
+| 10 | 12 | S | PP |  | WF (RF), i/e of B (LF) |
 
 ### Lady
 
 Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>LF to side</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>Close RF to LF, slightly in front</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>7</td> <td>LF to side</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Cross RF behind LF</td> <td>1/8 to R between 3-4, body turns less</td> <td>Facing DC</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>9</td> <td>Close LF, slightly behind</td> <td>1/8 to L between 4-5, body turns less</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>10</td> <td>Place RF to side, R knee veering inward</td> <td>1/8 to R, body turns less</td> <td>Facing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | LF to side |  | Backing Wall | Against LOD |
+| 6 | Close RF to LF, slightly in front |  | Backing Wall | Under Body |
+| 7 | LF to side |  | Backing Wall | Against LOD |
+| 8 | Cross RF behind LF | 1/8 to R between 3-4, body turns less | Facing DC | Against LOD |
+| 9 | Close LF, slightly behind | 1/8 to L between 4-5, body turns less | Facing DC | Under Body |
+| 10 | Place RF to side, R knee veering inward | 1/8 to R, body turns less | Facing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>6</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>9</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>10</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed |  | BH |
+| 6 | &amp; | &amp; | Closed |  | BH |
+| 7 | 2 | Q | Closed |  | BH |
+| 8 | 34 | S | PP |  | B |
+| 9 | &amp; | &amp; | Closed |  | BH |
+| 10 | 12 | S | PP |  | WF (LF), i/e of B (RF) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Ready to Move LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Ready to Move LOD** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |
 
 <a id="#5">Ending 5: Natural Spin to PP</a>
 -------------------------------------------
@@ -146,21 +289,46 @@ Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversw
 
 Commence in Closed Position, facing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>RF fwd, R side leading</td> <td>1/4 to R before step 1</td> <td>Facing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>LF back, L side leading</td> <td>1/2 to R between 1-2</td> <td>Backing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>7</td> <td>RF back &amp; slightly to side</td> <td>1/8 to R between 2-3</td> <td>Backing DC against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Place LF to side, L knee veering inward</td> <td>Body turns to R</td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | RF fwd, R side leading | 1/4 to R before step 1 | Facing against LOD | Against LOD |
+| 6 | LF back, L side leading | 1/2 to R between 1-2 | Backing against LOD | Against LOD |
+| 7 | RF back &amp; slightly to side | 1/8 to R between 2-3 | Backing DC against LOD | Against LOD |
+| 8 | Place LF to side, L knee veering inward | Body turns to R | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">BH</td> </tr> <tr> <td>7</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (RF), i/e of B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed | ✓ | HB |
+| 6 | 2 | Q | Closed | ✓ | BH |
+| 7 | 3 | Q | Closed |  | BH |
+| 8 | 4 | Q | PP |  | WF (RF), i/e of B (LF) |
 
 ### Lady
 
 Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>LF back, L side leading</td> <td>1/4 to R before step 1</td> <td>Backing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>RF fwd, R side leading</td> <td>1/2 to R between 1-2</td> <td>Facing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>7</td> <td>LF fwd &amp; slightly to side</td> <td>1/8 to R between 2-3</td> <td>Facing DC against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Place RF to side, R knee veering inward</td> <td>1/4 to R, body turns less</td> <td>Facing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | LF back, L side leading | 1/4 to R before step 1 | Backing against LOD | Against LOD |
+| 6 | RF fwd, R side leading | 1/2 to R between 1-2 | Facing against LOD | Against LOD |
+| 7 | LF fwd &amp; slightly to side | 1/8 to R between 2-3 | Facing DC against LOD | Against LOD |
+| 8 | Place RF to side, R knee veering inward | 1/4 to R, body turns less | Facing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">BHB</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB</td> </tr> <tr> <td>7</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed | ✓ | BHB |
+| 6 | 2 | Q | Closed | ✓ | HB |
+| 7 | 3 | Q | Closed |  | BH |
+| 8 | 4 | Q | PP |  | WF (LF), i/e of B (RF) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Ready to Move LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Ready to Move LOD** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |
 
 <a id="#6">Ending 6: Natural Spin, Chasse, Whisk, and Promenade Link</a>
 ------------------------------------------------------------------------
@@ -169,11 +337,29 @@ Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversw
 
 Commence in Closed Position, facing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>RF fwd, R side leading</td> <td>1/4 to R before step 1</td> <td>Facing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>LF back, L side leading</td> <td>1/2 to R between 1-2</td> <td>Backing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>7</td> <td>RF to side</td> <td>1/4 to R between 2-3</td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Close LF to RF, slightly behind</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>9</td> <td>RF to side</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>10</td> <td>Cross LF behind RF</td> <td>1/8 to L between 5-6, body turns less</td> <td>Facing DW</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>11</td> <td>RF fwd in CBMP</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>12</td> <td>Place LF to side without weight, knee veering inward</td> <td>Body turn to L</td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | RF fwd, R side leading | 1/4 to R before step 1 | Facing against LOD | Against LOD |
+| 6 | LF back, L side leading | 1/2 to R between 1-2 | Backing against LOD | Against LOD |
+| 7 | RF to side | 1/4 to R between 2-3 | Facing Wall | Against LOD |
+| 8 | Close LF to RF, slightly behind |  | Facing Wall | Under Body |
+| 9 | RF to side |  | Facing Wall | Against LOD |
+| 10 | Cross LF behind RF | 1/8 to L between 5-6, body turns less | Facing DW | Against LOD |
+| 11 | RF fwd in CBMP |  | Facing DW | LOD |
+| 12 | Place LF to side without weight, knee veering inward | Body turn to L | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">BH</td> </tr> <tr> <td>7</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>9</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>10</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>11</td> <td style="text-align:center">7</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center">✓</td> <td style="text-align:right">HF</td> </tr> <tr> <td>12</td> <td style="text-align:center">8</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (RF), i/e of B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed | ✓ | HB |
+| 6 | 2 | Q | Closed | ✓ | BH |
+| 7 | 3 | Q | Closed |  | BH |
+| 8 | &amp; | &amp; | Closed |  | BH |
+| 9 | 4 | Q | Closed |  | BH |
+| 10 | 56 | S | PP |  | B |
+| 11 | 7 | Q | PP | ✓ | HF |
+| 12 | 8 | Q | Closed |  | WF (RF), i/e of B (LF) |
 
-1\) Steps 7-8 are steps 2-3 of a [Promenade Link](promenade_link.html)  
+1\) Steps 7-8 are steps 2-3 of a [Promenade Link](promenade_link.md)  
  2) To end facing LOD, take step 7 Pointing LOD and complete body turn on step 8  
  3) To end in PP facing DW and ready to Move LOD, omit body turn on step 8 and place LF to side in PP, L knee veering inward
 
@@ -181,17 +367,59 @@ Commence in Closed Position, facing Wall, having danced steps 1-4 of the Overswa
 
 Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>LF back, L side leading</td> <td>1/4 to R before step 1</td> <td>Backing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>RF fwd, R side leading</td> <td>1/2 to R between 1-2</td> <td>Facing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>7</td> <td>LF to side</td> <td>1/4 to R between 2-3</td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Close RF to LF, slightly in front</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>9</td> <td>LF to side</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>10</td> <td>Cross RF behind LF</td> <td>1/8 to R between 5-6, body turns less</td> <td>Facing DC</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>11</td> <td>LF fwd in CBMP</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>12</td> <td>Place RF to side without weight, knee veering inward</td> <td>1/4 to L, body tuns less</td> <td>Backing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | LF back, L side leading | 1/4 to R before step 1 | Backing against LOD | Against LOD |
+| 6 | RF fwd, R side leading | 1/2 to R between 1-2 | Facing against LOD | Against LOD |
+| 7 | LF to side | 1/4 to R between 2-3 | Backing Wall | Against LOD |
+| 8 | Close RF to LF, slightly in front |  | Backing Wall | Under Body |
+| 9 | LF to side |  | Backing Wall | Against LOD |
+| 10 | Cross RF behind LF | 1/8 to R between 5-6, body turns less | Facing DC | Against LOD |
+| 11 | LF fwd in CBMP |  | Facing DC | LOD |
+| 12 | Place RF to side without weight, knee veering inward | 1/4 to L, body tuns less | Backing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">BHB</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB</td> </tr> <tr> <td>7</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>9</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>10</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>11</td> <td style="text-align:center">7</td> <td style="text-align:center">Q</td> <td style="text-align:center">PP</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB (Foot flat)</td> </tr> <tr> <td>12</td> <td style="text-align:center">8</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed | ✓ | BHB |
+| 6 | 2 | Q | Closed | ✓ | HB |
+| 7 | 3 | Q | Closed |  | BH |
+| 8 | &amp; | &amp; | Closed |  | BH |
+| 9 | 4 | Q | Closed |  | BH |
+| 10 | 56 | S | PP |  | B |
+| 11 | 7 | Q | PP | ✓ | HB (Foot flat) |
+| 12 | 8 | Q | Closed |  | WF (LF), i/e of B (RF) |
 
-1\) Steps 7-8 are steps 2-3 of a [Promenade Link](promenade_link.html)  
+1\) Steps 7-8 are steps 2-3 of a [Promenade Link](promenade_link.md)  
  2) To end backing LOD, turn 3/8 to L on 8, body turns less  
  3) To end in PP facing DC and ready to Move LOD, omit turn on step 8 and place RF to side in PP, R knee veering inward
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Walk](walk_LF.html); [Progressive Side Step](side_step.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Brush Tap](brush_tap.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**Along the side of the floor**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Walk](walk_LF.html); [Progressive Side Step](side_step.html); [Point to PP](point_to_pp.html); [Progressive Link](progressive_link.html); [Back Corte](corte.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Four Step](four_step.html); [Four Step Change](four_step_change.html); [Brush Tap](brush_tap.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Four Step](fallaway_four_step.html); [Five Step](five_step.html); </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Point to PP](point_to_pp.html); [Progressive Link](progressive_link.html); [Back Corte](corte.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Four Step](four_step.html); [Four Step Change](four_step_change.html); [Brush Tap](brush_tap.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Four Step](fallaway_four_step.html); [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html); [Five Step](five_step.html); [Contra Check](contra_check.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Backing DC of new LOD**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Back Corte](corte.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [LF Rock](rock_LF.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in PP**</td> <td>**Ready to Move LOD**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Facing LOD** |  |
+|---|---|
+| PreBronze | [LF Walk](walk_LF.md); [Progressive Side Step](side_step.md) |
+| Silver | [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md) |
+|  |  |
+| **Ended Facing DW** | **Along the side of the floor** |
+| PreBronze | [LF Walk](walk_LF.md); [Progressive Side Step](side_step.md); [Point to PP](point_to_pp.md); [Progressive Link](progressive_link.md); [Back Corte](corte.md) |
+| Silver | [Four Step](four_step.md); [Four Step Change](four_step_change.md); [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Four Step](fallaway_four_step.md); [Five Step](five_step.md); |
+|  |  |
+| **Ended Facing DW** | **At a corner** |
+| PreBronze | [Point to PP](point_to_pp.md); [Progressive Link](progressive_link.md); [Back Corte](corte.md) |
+| Silver | [Four Step](four_step.md); [Four Step Change](four_step_change.md); [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Four Step](fallaway_four_step.md); [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md); [Five Step](five_step.md); [Contra Check](contra_check.md) |
+|  |  |
+| **Ended Backing DC of new LOD** | **At a corner** |
+| PreBronze | [Back Corte](corte.md) |
+| Bronze | [LF Rock](rock_LF.md) |
+|  |  |
+| **Ended in PP** | **Ready to Move LOD** |
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |
 
 <a id="#7">Ending 7: Natural Spin, Chasse, Whisk, and Close to PP</a>
 ---------------------------------------------------------------------
@@ -200,18 +428,59 @@ Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversw
 
 Commence in Closed Position, facing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>RF fwd, R side leading</td> <td>1/4 to R before step 1</td> <td>Facing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>LF back, L side leading</td> <td>1/2 to R between 1-2</td> <td>Backing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>7</td> <td>RF to side</td> <td>1/4 to R between 2-3</td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Close LF to RF, slightly behind</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>9</td> <td>RF to side</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>10</td> <td>Cross LF behind RF</td> <td>1/8 to L between 5-6, body turns less</td> <td>Facing DW</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>11</td> <td>Close RF to LF</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>12</td> <td>Place LF to side, L knee veering inward</td> <td> </td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | RF fwd, R side leading | 1/4 to R before step 1 | Facing against LOD | Against LOD |
+| 6 | LF back, L side leading | 1/2 to R between 1-2 | Backing against LOD | Against LOD |
+| 7 | RF to side | 1/4 to R between 2-3 | Facing Wall | Against LOD |
+| 8 | Close LF to RF, slightly behind |  | Facing Wall | Under Body |
+| 9 | RF to side |  | Facing Wall | Against LOD |
+| 10 | Cross LF behind RF | 1/8 to L between 5-6, body turns less | Facing DW | Against LOD |
+| 11 | Close RF to LF |  | Facing DW | Under Body |
+| 12 | Place LF to side, L knee veering inward |  | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">BH</td> </tr> <tr> <td>7</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>9</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>10</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>11</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>12</td> <td style="text-align:center">78</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (RF), i/e of B (LF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed | ✓ | HB |
+| 6 | 2 | Q | Closed | ✓ | BH |
+| 7 | 3 | Q | Closed |  | BH |
+| 8 | &amp; | &amp; | Closed |  | BH |
+| 9 | 4 | Q | Closed |  | BH |
+| 10 | 56 | S | PP |  | B |
+| 11 | &amp; | &amp; | Closed |  | BH |
+| 12 | 78 | S | PP |  | WF (RF), i/e of B (LF) |
 
 ### Lady
 
 Commence in Closed Position, backing Wall, having danced steps 1-4 of the Oversway
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>5</td> <td>LF back, L side leading</td> <td>1/4 to R before step 1</td> <td>Backing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>6</td> <td>RF fwd, R side leading</td> <td>1/2 to R between 1-2</td> <td>Facing against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>7</td> <td>LF to side</td> <td>1/4 to R between 2-3</td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>8</td> <td>Close RF to LF, slightly in front</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>9</td> <td>LF to side</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>10</td> <td>Cross RF behind LF</td> <td>1/8 to R between 5-6, body turns less</td> <td>Facing DC</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>11</td> <td>Close LF to RF</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>12</td> <td>Place RF to side, R knee veering inward</td> <td> </td> <td>Facing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 5 | LF back, L side leading | 1/4 to R before step 1 | Backing against LOD | Against LOD |
+| 6 | RF fwd, R side leading | 1/2 to R between 1-2 | Facing against LOD | Against LOD |
+| 7 | LF to side | 1/4 to R between 2-3 | Backing Wall | Against LOD |
+| 8 | Close RF to LF, slightly in front |  | Backing Wall | Under Body |
+| 9 | LF to side |  | Backing Wall | Against LOD |
+| 10 | Cross RF behind LF | 1/8 to R between 5-6, body turns less | Facing DC | Against LOD |
+| 11 | Close LF to RF |  | Facing DC | Under Body |
+| 12 | Place RF to side, R knee veering inward |  | Facing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**CBM**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">BHB</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center">✓</td> <td style="text-align:right">HB</td> </tr> <tr> <td>7</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>8</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>9</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>10</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>11</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:right">BH</td> </tr> <tr> <td>12</td> <td style="text-align:center">78</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:center"> </td> <td style="text-align:right">WF (LF), i/e of B (RF)</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **CBM** | **Footwork** |
+|---|---|---|---|---|---|
+| 5 | 1 | Q | Closed | ✓ | BHB |
+| 6 | 2 | Q | Closed | ✓ | HB |
+| 7 | 3 | Q | Closed |  | BH |
+| 8 | &amp; | &amp; | Closed |  | BH |
+| 9 | 4 | Q | Closed |  | BH |
+| 10 | 56 | S | PP |  | B |
+| 11 | &amp; | &amp; | Closed |  | BH |
+| 12 | 78 | S | PP |  | WF (LF), i/e of B (RF) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Ready to Move LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Ready to Move LOD** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |

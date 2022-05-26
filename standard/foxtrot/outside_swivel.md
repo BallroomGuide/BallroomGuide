@@ -5,9 +5,13 @@
 
 Commence in Closed Position, backing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF back in CBMP, small step, toe turned in</td> <td>3/8 to R</td> <td>Backing DW to facing LOD</td> <td style="text-align:center">DW</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF back in CBMP, small step, toe turned in | 3/8 to R | Backing DW to facing LOD | DW |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">OP to PP</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | OP to PP |  |  | TH |
 
 1\) Pressure will remain in the ball of the RF throughout  
  2) The RF will be held in front of the LF throughout, so that turn is achieved by turning on the standing foot and not by opening the legs  
@@ -18,9 +22,13 @@ Commence in Closed Position, backing DW
 
 Commence in Closed Position, facing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd in CBMP, then close LF slightly behind without weight</td> <td>5/8 to R after step 1</td> <td>Facing DW to facing Centre</td> <td style="text-align:center">DW</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF fwd in CBMP, then close LF slightly behind without weight | 5/8 to R after step 1 | Facing DW to facing Centre | DW |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">OP to PP</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | OP to PP |  |  | HT |
 
 1\) Pressure will remain in the inside edge of the ball of the LF throughout  
  2) Less turn may be made  
@@ -28,8 +36,52 @@ Commence in Closed Position, facing DW
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td>**Commenced Backing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Open Natural Turn](open_natural_turn.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing DC against LOD**</td> <td>**Without having transferred full weight on the final step**</td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing Centre**</td> <td>**Without having transferred full weight on the final step**</td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing DC**</td> <td>**Without having transferred full weight on the final step**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Feather Step](feather_step.html); [Closed Impetus &amp; Feather Finish](closed_impetus.html) </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Top Spin](top_spin.html); [Hover Feather](hover_feather.html); [Natural Telemark](natural_telemark.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Twist Turn](twist_turn.html); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.html); [Natural Zig-Zag from PP](zig_zag.html); [Natural Hover Telemark](natural_hover_telemark.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing LOD**</td> <td>**Without having transferred full weight on the final step**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Feather Step](feather_step.html); [Closed Impetus &amp; Feather Finish](closed_impetus.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Top Spin](top_spin.html) (at a corner); [Hover Feather](hover_feather.html); [Natural Telemark](natural_telemark.html) (at a corner) </td> </tr> <tr> <td>Gold</td> <td> [Natural Twist Turn](twist_turn.html) (at a corner); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.html) (at a corner); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.html); [Natural Zig-Zag from PP](zig_zag.html); [Natural Hover Telemark](natural_hover_telemark.html) (at a corner) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing DW**</td> <td>**Without having transferred full weight on the final step**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Feather Step](feather_step.html); [Reverse Turn &amp; Feather Finish](reverse_turn.html); [Closed Impetus &amp; Feather Finish](closed_impetus.html) (at a corner) </td> </tr> <tr> <td>Bronze</td> <td> [Natural Weave](natural_weave.html); [Basic Weave](basic_weave.html) </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Top Spin](top_spin.html); [Hover Feather](hover_feather.html); [Natural Telemark](natural_telemark.html) (at a corner); [Weave from PP](weave_from_pp.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Twist Turn](twist_turn.html) (at a corner); [Natural Twist Turn with Weave Ending](twist_turn_weave.html); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.html) (at a corner); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.html); [Natural Zig-Zag from PP](zig_zag.html); [Natural Hover Telemark](natural_hover_telemark.html) (at a corner); [Bounce Fallaway with Weave Ending](bounce_fallaway.html) </td> </tr> </tbody></table>
+ | **Commenced Backing DW** | **As described in the charts above** |
+|---|---|
+| Silver | [Open Natural Turn](open_natural_turn.md) |
+|  |  |
+| **Commenced Facing DC against LOD** | **Without having transferred full weight on the final step** |
+| Silver | [Feather Ending](feather_ending.md) |
+|  |  |
+| **Commenced Facing Centre** | **Without having transferred full weight on the final step** |
+| Silver | [Feather Ending](feather_ending.md) |
+|  |  |
+| **Commenced Facing DC** | **Without having transferred full weight on the final step** |
+| PreBronze | [Feather Step](feather_step.md); [Closed Impetus &amp; Feather Finish](closed_impetus.md) |
+| Silver | [Feather Ending](feather_ending.md); [Top Spin](top_spin.md); [Hover Feather](hover_feather.md); [Natural Telemark](natural_telemark.md) |
+| Gold | [Natural Twist Turn](twist_turn.md); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.md); [Natural Zig-Zag from PP](zig_zag.md); [Natural Hover Telemark](natural_hover_telemark.md) |
+|  |  |
+| **Commenced Facing LOD** | **Without having transferred full weight on the final step** |
+| PreBronze | [Feather Step](feather_step.md); [Closed Impetus &amp; Feather Finish](closed_impetus.md) (at a corner) |
+| Silver | [Feather Ending](feather_ending.md); [Top Spin](top_spin.md) (at a corner); [Hover Feather](hover_feather.md); [Natural Telemark](natural_telemark.md) (at a corner) |
+| Gold | [Natural Twist Turn](twist_turn.md) (at a corner); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.md) (at a corner); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.md); [Natural Zig-Zag from PP](zig_zag.md); [Natural Hover Telemark](natural_hover_telemark.md) (at a corner) |
+|  |  |
+| **Commenced Facing DW** | **Without having transferred full weight on the final step** |
+| PreBronze | [Feather Step](feather_step.md); [Reverse Turn &amp; Feather Finish](reverse_turn.md); [Closed Impetus &amp; Feather Finish](closed_impetus.md) (at a corner) |
+| Bronze | [Natural Weave](natural_weave.md); [Basic Weave](basic_weave.md) |
+| Silver | [Feather Ending](feather_ending.md); [Top Spin](top_spin.md); [Hover Feather](hover_feather.md); [Natural Telemark](natural_telemark.md) (at a corner); [Weave from PP](weave_from_pp.md) |
+| Gold | [Natural Twist Turn](twist_turn.md) (at a corner); [Natural Twist Turn with Weave Ending](twist_turn_weave.md); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.md) (at a corner); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.md); [Natural Zig-Zag from PP](zig_zag.md); [Natural Hover Telemark](natural_hover_telemark.md) (at a corner); [Bounce Fallaway with Weave Ending](bounce_fallaway.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td>**Ended Ready to Move DC against LOD**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Ready to Move to Centre**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Weave from PP](weave_from_pp.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Ready to Move DC**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Weave from PP](weave_from_pp.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Zig-Zag from PP](zig_zag.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Ready to Move down New LOD**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Zig-Zag from PP](zig_zag.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Ready to Move DW of new LOD**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Open Natural Turn](open_natural_turn.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Zig-Zag from PP](zig_zag.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Ready to Move to Wall**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Open Natural Turn](open_natural_turn.html) </td> </tr> </tbody></table>
+ | **Ended Ready to Move DC against LOD** |  |
+|---|---|
+| Silver | [Feather Ending](feather_ending.md) |
+|  |  |
+| **Ended Ready to Move to Centre** |  |
+| Silver | [Feather Ending](feather_ending.md); [Weave from PP](weave_from_pp.md) |
+|  |  |
+| **Ended Ready to Move DC** | **As described in the charts above** |
+| Silver | [Feather Ending](feather_ending.md); [Weave from PP](weave_from_pp.md) |
+| Gold | [Natural Zig-Zag from PP](zig_zag.md) |
+|  |  |
+| **Ended Ready to Move down New LOD** |  |
+| Silver | [Feather Ending](feather_ending.md) |
+| Gold | [Natural Zig-Zag from PP](zig_zag.md) |
+|  |  |
+| **Ended Ready to Move DW of new LOD** |  |
+| Silver | [Feather Ending](feather_ending.md); [Open Natural Turn](open_natural_turn.md) |
+| Gold | [Natural Zig-Zag from PP](zig_zag.md) |
+|  |  |
+| **Ended Ready to Move to Wall** |  |
+| Silver | [Open Natural Turn](open_natural_turn.md) |

@@ -12,11 +12,19 @@
 Commence in Promenade Position or Open Promenade Position  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>Flick LF fwd without weight at knee height</td> <td> </td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> <tr> <td>2</td> <td>LF back, part weight, toe turned out</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DC against LOD</td> </tr> <tr> <td>3</td> <td>Replace weight to RF</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | Flick LF fwd without weight at knee height |  | Facing DW |  |
+| 2 | LF back, part weight, toe turned out |  | Facing DW | DC against LOD |
+| 3 | Replace weight to RF |  | Facing DW | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center"> </td> <td style="text-align:right">RF Flat</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Shadow</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S |  | RF Flat |
+| 2 | a | a |  | i/e of T |
+| 3 | 2 | S | Shadow | BF |
 
-1\) Steps 2-3 are like the last two steps of a [Stationary Samba Walk](stationary_samba_walks.html), but without drawing the front foot back  
+1\) Steps 2-3 are like the last two steps of a [Stationary Samba Walk](stationary_samba_walks.md), but without drawing the front foot back  
  2) As an alternative, the Man may step forward or in place with his LF (count 'S'), and then close RF to LF (count 'S'), using the footwork BF on each step
 
 ### Lady
@@ -24,21 +32,58 @@ Commence in Promenade Position or Open Promenade Position
 Commence in Promenade Position or Open Promenade Position  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF in front of LF (Latin Cross)</td> <td>1/2 to R</td> <td>Facing DW against LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>LF to side &amp; slightly back, small step, part weight, toe turned out</td> <td> </td> <td> </td> <td style="text-align:center">Varies</td> </tr> <tr> <td>3</td> <td>Replace weight to RF</td> <td>3/4 to R over 2-3</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF in front of LF (Latin Cross) | 1/2 to R | Facing DW against LOD | Under Body |
+| 2 | LF to side &amp; slightly back, small step, part weight, toe turned out |  |  | Varies |
+| 3 | Replace weight to RF | 3/4 to R over 2-3 | Facing DW | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center"> </td> <td style="text-align:right">BF</td> </tr> <tr> <td>2 </td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Shadow</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S |  | BF |
+| 2 | a | a |  | i/e of T |
+| 3 | 2 | S | Shadow | BF |
 
-1\) Steps 1-3 are a [Spot Volta](solo_spot_volta.html)
+1\) Steps 1-3 are a [Spot Volta](solo_spot_volta.md)
 
 ### Precedes to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in PP**</td> <td>**Both facing LOD. The Lady will turn only 1/2 over steps 2-3 of the Foot Change to end Facing LOD**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [RF Samba Walk](samba_walks_pp.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced in PP**</td> <td>**Facing DW (Lady DC)**</td> </tr> <tr> <td>PreBronze</td> <td> [Whisk to R](whisk.html); [Side Samba Walk](side_samba_walk.html); [Stationary Samba Walk](stationary_samba_walks.html); [Criss Cross Bota Fogo](criss_cross_bf.html) </td> </tr> <tr> <td>Bronze</td> <td> [RF Solo Spot Volta](solo_spot_volta.html); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td>**Commenced in Open PP**</td> <td>**Facing DW (Lady DC)**</td> </tr> <tr> <td>PreBronze</td> <td> [Side Samba Walk](side_samba_walk.html); [Criss Cross Bota Fogo](criss_cross_bf.html) </td> </tr> <tr> <td>Bronze</td> <td> [RF Solo Spot Volta](solo_spot_volta.html); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) </td> </tr> <tr> <td>Silver</td> <td> [Maypole turning R](maypole.html) </td> </tr> <tr> <td>Gold</td> <td> [Promenade &amp; Counter Promenade Runs](p_cp_runs.html) </td> </tr> </tbody></table>
+ | **Commenced in PP** | **Both facing LOD. The Lady will turn only 1/2 over steps 2-3 of the Foot Change to end Facing LOD** |
+|---|---|
+| PreBronze | [RF Samba Walk](samba_walks_pp.md) |
+|  |  |
+| **Commenced in PP** | **Facing DW (Lady DC)** |
+| PreBronze | [Whisk to R](whisk.md); [Side Samba Walk](side_samba_walk.md); [Stationary Samba Walk](stationary_samba_walks.md); [Criss Cross Bota Fogo](criss_cross_bf.md) |
+| Bronze | [RF Solo Spot Volta](solo_spot_volta.md); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) |
+|  |  |
+| **Commenced in Open PP** | **Facing DW (Lady DC)** |
+| PreBronze | [Side Samba Walk](side_samba_walk.md); [Criss Cross Bota Fogo](criss_cross_bf.md) |
+| Bronze | [RF Solo Spot Volta](solo_spot_volta.md); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) |
+| Silver | [Maypole turning R](maypole.md) |
+| Gold | [Promenade &amp; Counter Promenade Runs](p_cp_runs.md) |
 
 ### Follows to This Figure
 
 **All following figures will be danced in Shadow Position**
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DC**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Samba Walk](samba_walks_pp.html); [LF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [LF Shadow Travelling Volta](shadow_travelling_voltas.html); 8-14 [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [LF Shadow Circular Volta](shadow_circ_voltas.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [LF Cruzados Walks &amp; Locks](cruzados.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Samba Walk](samba_walks_pp.html); [LF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [LF Shadow Travelling Volta](shadow_travelling_voltas.html); 8-14 [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [LF Shadow Circular Volta](shadow_circ_voltas.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [LF Cruzados Walks &amp; Locks](cruzados.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Samba Walk](samba_walks_pp.html); [LF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> 4-6 [Shadow Bota Fogos](shadow_bota_fogos.html); [LF Shadow Travelling Volta](shadow_travelling_voltas.html); 8-14 [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html); [Foot Change 4](foot_change_4_shadow_to_pp_cpp.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [LF Shadow Circular Volta](shadow_circ_voltas.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [LF Cruzados Walks &amp; Locks](cruzados.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** |  |
+|---|---|
+| PreBronze | [LF Samba Walk](samba_walks_pp.md); [LF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [LF Shadow Travelling Volta](shadow_travelling_voltas.md); 8-14 [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [LF Shadow Circular Volta](shadow_circ_voltas.md) |
+| Gold | [LF Cruzados Walks &amp; Locks](cruzados.md) |
+|  |  |
+| **Ended Facing LOD** |  |
+| PreBronze | [LF Samba Walk](samba_walks_pp.md); [LF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [LF Shadow Travelling Volta](shadow_travelling_voltas.md); 8-14 [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [LF Shadow Circular Volta](shadow_circ_voltas.md) |
+| Gold | [LF Cruzados Walks &amp; Locks](cruzados.md) |
+|  |  |
+| **Ended Facing DW** |  |
+| PreBronze | [LF Samba Walk](samba_walks_pp.md); [LF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | 4-6 [Shadow Bota Fogos](shadow_bota_fogos.md); [LF Shadow Travelling Volta](shadow_travelling_voltas.md); 8-14 [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md); [Foot Change 4](foot_change_4_shadow_to_pp_cpp.md) |
+| Silver | [LF Shadow Circular Volta](shadow_circ_voltas.md) |
+| Gold | [LF Cruzados Walks &amp; Locks](cruzados.md) |
 
 <a id="left">Foot Change 3 Ended on LF</a>
 ------------------------------------------
@@ -48,11 +93,19 @@ Commence in Promenade Position or Open Promenade Position
 Commence in Promenade Position, Open Promenade Position, or Open Counter Promenade Position  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>Flick RF fwd without weight at knee height</td> <td> </td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> <tr> <td>2</td> <td>RF back, part weight, toe turned out</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DC against LOD</td> </tr> <tr> <td>3</td> <td>Replace weight to LF</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | Flick RF fwd without weight at knee height |  | Facing DW |  |
+| 2 | RF back, part weight, toe turned out |  | Facing DW | DC against LOD |
+| 3 | Replace weight to LF |  | Facing DW | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center"> </td> <td style="text-align:right">LF Flat</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Shadow</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S |  | LF Flat |
+| 2 | a | a |  | i/e of T |
+| 3 | 2 | S | Shadow | BF |
 
-1\) Steps 2-3 are like the last two steps of a [Stationary Samba Walk](stationary_samba_walks.html), but without drawing the front foot back  
+1\) Steps 2-3 are like the last two steps of a [Stationary Samba Walk](stationary_samba_walks.md), but without drawing the front foot back  
  2) As an alternative, the Man may step forward or in place with his LF (count 'S'), and then close RF to LF (count 'S'), using the footwork BF on each step
 
 ### Lady
@@ -60,18 +113,58 @@ Commence in Promenade Position, Open Promenade Position, or Open Counter Promena
 Commence in Promenade Position, Open Promenade Position, or Open Counter Promenade Position  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF in front of RF (Latin Cross)</td> <td>1/2 to L</td> <td>Facing DW against LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>RF to side &amp; slightly back, small step, part weight, toe turned out</td> <td> </td> <td> </td> <td style="text-align:center">Varies</td> </tr> <tr> <td>3</td> <td>Replace weight to LF</td> <td>1/4 to L over 2-3</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF in front of RF (Latin Cross) | 1/2 to L | Facing DW against LOD | Under Body |
+| 2 | RF to side &amp; slightly back, small step, part weight, toe turned out |  |  | Varies |
+| 3 | Replace weight to LF | 1/4 to L over 2-3 | Facing DW | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center"> </td> <td style="text-align:right">BF</td> </tr> <tr> <td>2 </td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Shadow</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S |  | BF |
+| 2 | a | a |  | i/e of T |
+| 3 | 2 | S | Shadow | BF |
 
-1\) Steps 1-3 are a [Spot Volta](solo_spot_volta.html)
+1\) Steps 1-3 are a [Spot Volta](solo_spot_volta.md)
 
 ### Precedes to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in PP**</td> <td>**Both facing LOD. The Lady will turn only 1/2 over steps 2-3 of the Foot Change to end Facing LOD**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [LF Samba Walk](samba_walks_pp.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced in PP**</td> <td>**Facing DW (Lady DC)**</td> </tr> <tr> <td>Bronze</td> <td> [Travelling Bota Fogos Back](travel_bf_back.html); [Bota Fogos to PP &amp; CPP](bf_pp_cpp.html); [LF Solo Spot Volta](solo_spot_volta.html); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) </td> </tr> <tr> <td>Gold</td> <td> [Foot Change 7](foot_change_7_contra_to_pp_cpp.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced in Open PP**</td> <td>**Facing DW (Lady DC)**</td> </tr> <tr> <td>Bronze</td> <td> [LF Solo Spot Volta](solo_spot_volta.html); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced in Open CPP**</td> <td>**Facing DC (Lady DW)**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 1-3 [Criss Cross Bota Fogo](criss_cross_bf.html) </td> </tr> <tr> <td>Bronze</td> <td> [LF Solo Spot Volta](solo_spot_volta.html); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) </td> </tr> <tr> <td>Silver</td> <td> [Maypole turning L](maypole.html) </td> </tr> <tr> <td>Gold</td> <td> [Three Step Turn](stationary_samba_walks.html); [Samba Locks](locks.html); 1-6 [Promenade &amp; Counter Promenade Runs](p_cp_runs.html) </td> </tr> </tbody></table>
+ | **Commenced in PP** | **Both facing LOD. The Lady will turn only 1/2 over steps 2-3 of the Foot Change to end Facing LOD** |
+|---|---|
+| PreBronze | [LF Samba Walk](samba_walks_pp.md) |
+|  |  |
+| **Commenced in PP** | **Facing DW (Lady DC)** |
+| Bronze | [Travelling Bota Fogos Back](travel_bf_back.md); [Bota Fogos to PP &amp; CPP](bf_pp_cpp.md); [LF Solo Spot Volta](solo_spot_volta.md); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) |
+| Gold | [Foot Change 7](foot_change_7_contra_to_pp_cpp.md) |
+|  |  |
+| **Commenced in Open PP** | **Facing DW (Lady DC)** |
+| Bronze | [LF Solo Spot Volta](solo_spot_volta.md); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) |
+|  |  |
+| **Commenced in Open CPP** | **Facing DC (Lady DW)** |
+| PreBronze | 1-3 [Criss Cross Bota Fogo](criss_cross_bf.md) |
+| Bronze | [LF Solo Spot Volta](solo_spot_volta.md); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) |
+| Silver | [Maypole turning L](maypole.md) |
+| Gold | [Three Step Turn](stationary_samba_walks.md); [Samba Locks](locks.md); 1-6 [Promenade &amp; Counter Promenade Runs](p_cp_runs.md) |
 
 ### Follows to This Figure
 
 **All following figures will be danced in Shadow Position**
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DC**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [RF Samba Walk](samba_walks_pp.html); [RF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Shadow Bota Fogos](shadow_bota_fogos.html); [RF Shadow Travelling Volta](shadow_travelling_voltas.html); [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html); [Foot Change 4](foot_change_4_shadow_to_pp_cpp.html) </td> </tr> <tr> <td>Silver</td> <td> [RF Shadow Circular Volta](shadow_circ_voltas.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Cruzados Walks &amp; Locks](cruzados.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [RF Samba Walk](samba_walks_pp.html); [RF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td>Bronze</td> <td> [RF Shadow Travelling Volta](shadow_travelling_voltas.html); [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td>Silver</td> <td> [RF Shadow Circular Volta](shadow_circ_voltas.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Cruzados Walks &amp; Locks](cruzados.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [RF Samba Walk](samba_walks_pp.html); [RF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td>Bronze</td> <td> [RF Shadow Travelling Volta](shadow_travelling_voltas.html); [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html); [Foot Change 4](foot_change_4_shadow_to_pp_cpp.html) </td> </tr> <tr> <td>Silver</td> <td> [RF Shadow Circular Volta](shadow_circ_voltas.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Cruzados Walks &amp; Locks](cruzados.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** |  |
+|---|---|
+| PreBronze | [RF Samba Walk](samba_walks_pp.md); [RF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [Shadow Bota Fogos](shadow_bota_fogos.md); [RF Shadow Travelling Volta](shadow_travelling_voltas.md); [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md); [Foot Change 4](foot_change_4_shadow_to_pp_cpp.md) |
+| Silver | [RF Shadow Circular Volta](shadow_circ_voltas.md) |
+| Gold | [RF Cruzados Walks &amp; Locks](cruzados.md) |
+|  |  |
+| **Ended Facing LOD** |  |
+| PreBronze | [RF Samba Walk](samba_walks_pp.md); [RF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [RF Shadow Travelling Volta](shadow_travelling_voltas.md); [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [RF Shadow Circular Volta](shadow_circ_voltas.md) |
+| Gold | [RF Cruzados Walks &amp; Locks](cruzados.md) |
+|  |  |
+| **Ended Facing DW** |  |
+| PreBronze | [RF Samba Walk](samba_walks_pp.md); [RF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [RF Shadow Travelling Volta](shadow_travelling_voltas.md); [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md); [Foot Change 4](foot_change_4_shadow_to_pp_cpp.md) |
+| Silver | [RF Shadow Circular Volta](shadow_circ_voltas.md) |
+| Gold | [RF Cruzados Walks &amp; Locks](cruzados.md) |

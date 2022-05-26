@@ -12,28 +12,50 @@ Commence in Closed Position with Closed Hold
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td> </td> <td>1/8 to R</td> </tr> <tr> <td>2</td> <td>3</td> <td>LF back</td> <td>LSP</td> <td>1/8 to R</td> </tr> <tr> <td>3</td> <td>41</td> <td>RF back</td> <td>LSP</td> <td>1/4 to L after step 3</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back |  | 1/8 to R |
+| 2 | 3 | LF back | LSP | 1/8 to R |
+| 3 | 41 | RF back | LSP | 1/4 to L after step 3 |
 
-1\) May be danced following Lady's Spiral Action on step 3 of [Opening Out to R and L](opening_out_LR.html)  
- 2) May be danced following Lady's Spiral Action on step 6 of [Reverse Top](reverse_top.html)  
- 3) May be danced following Lady's Spiral Action on step 3 of the [Spiral](spiral.html), Man turning an additional 1/8 to R on step 1 of the Aida  
- 4) May be danced following Lady's Spiral Action on step 3 of the [Curl](curl.html), Man omitting turn on step 1 of the Aida
+1\) May be danced following Lady's Spiral Action on step 3 of [Opening Out to R and L](opening_out_LR.md)  
+ 2) May be danced following Lady's Spiral Action on step 6 of [Reverse Top](reverse_top.md)  
+ 3) May be danced following Lady's Spiral Action on step 3 of the [Spiral](spiral.md), Man turning an additional 1/8 to R on step 1 of the Aida  
+ 4) May be danced following Lady's Spiral Action on step 3 of the [Curl](curl.md), Man omitting turn on step 1 of the Aida
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF back</td> <td> </td> <td>1/8 to R</td> </tr> <tr> <td>2</td> <td>3</td> <td>RF back</td> <td>LSP</td> <td>1/8 to R</td> </tr> <tr> <td>3</td> <td>41</td> <td>LF back</td> <td>LSP</td> <td>1/4 to R after step 3</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF back |  | 1/8 to R |
+| 2 | 3 | RF back | LSP | 1/8 to R |
+| 3 | 41 | LF back | LSP | 1/4 to R after step 3 |
 
-1\) When danced following a Spiral Action on step 5 of the [Spiral](spiral.html) or [Curl](curl.html), or after a Spiral Action turned 5/8 to L on step 3 of [Opening Out to R and L](opening_out_LR.html) or step 6 of [Reverse Top](reverse_top.html), Lady's first five steps will be replaced by the following:
+1\) When danced following a Spiral Action on step 5 of the [Spiral](spiral.md) or [Curl](curl.md), or after a Spiral Action turned 5/8 to L on step 3 of [Opening Out to R and L](opening_out_LR.md) or step 6 of [Reverse Top](reverse_top.md), Lady's first five steps will be replaced by the following:
 
- <table border="0" style="margin-left:40px"> <tbody><tr> <td style="width:15%">1</td> <td style="width:85%">LF fwd (1/8 to L)</td> </tr> <tr> <td>2 </td> <td> RF fwd to end side &amp; slightly back (3/8 to L, [Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>3</td> <td>LF back (1/4 to L between 2-3)</td> </tr> </tbody></table>
+ | 1 | LF fwd (1/8 to L) |
+|---|---|
+| 2 | RF fwd to end side &amp; slightly back (3/8 to L, [Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 3 | LF back (1/4 to L between 2-3) |
 
 ### Preceding Figures
 
-<a></a> <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Basic in Place](basic_in_place.html); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Progressive Walks in RSP](progressive_walks_rsp_lsp.html); 1-3 [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced with Lady's Spiral Action**</td> <td>**As per Man's notes 1-3 and Lady's note 1 above**</td> </tr> <tr> <td>Bronze</td> <td> 1-3 [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Silver</td> <td> 1-6 [Reverse Top](reverse_top.html); 1-3 [Spiral](spiral.html); 1-3 [Curl](curl.html) </td> </tr> </tbody></table>
+<a></a> | **Commenced in Closed Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-3 [Basic in Place](basic_in_place.md); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Progressive Walks in RSP](progressive_walks_rsp_lsp.md); 1-3 [Opening Out to R and L](opening_out_LR.md) |
+| Gold | [RF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks) |
+|  |  |
+| **Commenced with Lady's Spiral Action** | **As per Man's notes 1-3 and Lady's note 1 above** |
+| Bronze | 1-3 [Opening Out to R and L](opening_out_LR.md) |
+| Silver | 1-6 [Reverse Top](reverse_top.md); 1-3 [Spiral](spiral.md); 1-3 [Curl](curl.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in LSP**</td> <td>**Turning 1/4 to L (Lady to R) to face partner between step 3 of the Aida and step 1 of the following figure**</td> </tr> <tr> <td>PreBronze</td> <td> [LF Cucaracha](cucaracha.html); [Side Steps to L commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> </tbody></table>
+ | **Ended in LSP** | **Turning 1/4 to L (Lady to R) to face partner between step 3 of the Aida and step 1 of the following figure** |
+|---|---|
+| PreBronze | [LF Cucaracha](cucaracha.md); [Side Steps to L commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Gold | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md) |
 
 <a id="2">Aida with Rock Ending</a>
 -----------------------------------
@@ -42,28 +64,56 @@ Commence in Closed Position with Closed Hold
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td> </td> <td>1/8 to R</td> </tr> <tr> <td>2</td> <td>3</td> <td>LF back</td> <td>LSP</td> <td>1/8 to R</td> </tr> <tr> <td>3</td> <td>41</td> <td>RF back</td> <td>LSP</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>Transfer part weight fwd to LF, high on the toe, knee flexed</td> <td>LSP</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight back to RF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Transfer weight fwd to LF, then turn and point RF to side</td> <td>Open PP</td> <td>3/8 to L</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back |  | 1/8 to R |
+| 2 | 3 | LF back | LSP | 1/8 to R |
+| 3 | 41 | RF back | LSP |  |
+| 4 | 2 | Transfer part weight fwd to LF, high on the toe, knee flexed | LSP |  |
+| 5 | 3 | Transfer weight back to RF | LSP |  |
+| 6 | 41 | Transfer weight fwd to LF, then turn and point RF to side | Open PP | 3/8 to L |
 
-1\) May be danced following Lady's Spiral Action on step 3 of [Opening Out to R and L](opening_out_LR.html)  
- 2) May be danced following Lady's Spiral Action on step 6 of [Reverse Top](reverse_top.html)  
- 3) May be danced following Lady's Spiral Action on step 3 of the [Spiral](spiral.html), Man turning an additional 1/8 to R on step 1 of the Aida  
- 4) May be danced following Lady's Spiral Action on step 3 of the [Curl](curl.html), Man omitting turn on step 1 of the Aida
+1\) May be danced following Lady's Spiral Action on step 3 of [Opening Out to R and L](opening_out_LR.md)  
+ 2) May be danced following Lady's Spiral Action on step 6 of [Reverse Top](reverse_top.md)  
+ 3) May be danced following Lady's Spiral Action on step 3 of the [Spiral](spiral.md), Man turning an additional 1/8 to R on step 1 of the Aida  
+ 4) May be danced following Lady's Spiral Action on step 3 of the [Curl](curl.md), Man omitting turn on step 1 of the Aida
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF back</td> <td> </td> <td>1/8 to R</td> </tr> <tr> <td>2</td> <td>3</td> <td>RF back</td> <td>LSP</td> <td>1/8 to R</td> </tr> <tr> <td>3</td> <td>41</td> <td>LF back</td> <td>LSP</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>Transfer part weight fwd to RF, high on the toe, knee flexed</td> <td>LSP</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight back to LF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Transfer weight fwd to RF, then turn and point LF to side</td> <td>Open PP</td> <td>3/8 to R</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF back |  | 1/8 to R |
+| 2 | 3 | RF back | LSP | 1/8 to R |
+| 3 | 41 | LF back | LSP |  |
+| 4 | 2 | Transfer part weight fwd to RF, high on the toe, knee flexed | LSP |  |
+| 5 | 3 | Transfer weight back to LF | LSP |  |
+| 6 | 41 | Transfer weight fwd to RF, then turn and point LF to side | Open PP | 3/8 to R |
 
-1\) When danced following a Spiral Action on step 5 of the [Spiral](spiral.html) or [Curl](curl.html), or after a Spiral Action turned 5/8 to L on step 3 of [Opening Out to R and L](opening_out_LR.html) or step 6 of [Reverse Top](reverse_top.html), Lady's first five steps will be replaced by the following:
+1\) When danced following a Spiral Action on step 5 of the [Spiral](spiral.md) or [Curl](curl.md), or after a Spiral Action turned 5/8 to L on step 3 of [Opening Out to R and L](opening_out_LR.md) or step 6 of [Reverse Top](reverse_top.md), Lady's first five steps will be replaced by the following:
 
- <table border="0" style="margin-left:40px"> <tbody><tr> <td style="width:15%">1</td> <td style="width:85%">LF fwd (1/8 to L)</td> </tr> <tr> <td>2 </td> <td> RF fwd to end side &amp; slightly back (3/8 to L, [Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>3</td> <td>LF back (1/4 to L between 2-3)</td> </tr> </tbody></table>
+ | 1 | LF fwd (1/8 to L) |
+|---|---|
+| 2 | RF fwd to end side &amp; slightly back (3/8 to L, [Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 3 | LF back (1/4 to L between 2-3) |
 
 ### Preceding Figures
 
-<a></a> <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Basic in Place](basic_in_place.html); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Progressive Walks in RSP](progressive_walks_rsp_lsp.html); 1-3 [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced with Lady's Spiral Action**</td> <td>**As per Man's notes 1-3 and Lady's note 1 above**</td> </tr> <tr> <td>Bronze</td> <td> 1-3 [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Silver</td> <td> 1-6 [Reverse Top](reverse_top.html); 1-3 [Spiral](spiral.html); 1-3 [Curl](curl.html) </td> </tr> </tbody></table>
+<a></a> | **Commenced in Closed Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-3 [Basic in Place](basic_in_place.md); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Progressive Walks in RSP](progressive_walks_rsp_lsp.md); 1-3 [Opening Out to R and L](opening_out_LR.md) |
+| Gold | [RF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks) |
+|  |  |
+| **Commenced with Lady's Spiral Action** | **As per Man's notes 1-3 and Lady's note 1 above** |
+| Bronze | 1-3 [Opening Out to R and L](opening_out_LR.md) |
+| Silver | 1-6 [Reverse Top](reverse_top.md); 1-3 [Spiral](spiral.md); 1-3 [Curl](curl.md) |
 
 ### Following Figures for Rock Ending
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Open PP**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Spot Turn to L (Lady R)](spot_turn.html) </td> </tr> <tr> <td>Gold</td> <td> 4-9 [Kiki Walks](kiki_walks.html) </td> </tr> </tbody></table>
+ | **Ended in Open PP** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Spot Turn to L (Lady R)](spot_turn.md) |
+| Gold | 4-9 [Kiki Walks](kiki_walks.md) |
 
 <a id="3">Aida with Double Spot Turn Ending</a>
 -----------------------------------------------
@@ -72,27 +122,65 @@ Commence in Closed Position with Closed Hold
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td> </td> <td>1/8 to R</td> </tr> <tr> <td>2</td> <td>3</td> <td>LF back</td> <td>LSP</td> <td>1/8 to R</td> </tr> <tr> <td>3</td> <td>41</td> <td>RF back</td> <td>LSP</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>Transfer weight fwd to LF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>RF fwd &amp; across to end back &amp; slightly to side</td> <td>RSP</td> <td> 3/8 to L between 4-5, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>6</td> <td>41</td> <td>Transfer weight to LF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td>RF fwd &amp; across to end back &amp; slightly to side</td> <td>RSP</td> <td> 1/2 to L between 6-7, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to LF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>RF to side</td> <td>Closed</td> <td>3/8 to L between 8-9</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back |  | 1/8 to R |
+| 2 | 3 | LF back | LSP | 1/8 to R |
+| 3 | 41 | RF back | LSP |  |
+| 4 | 2 | Transfer weight fwd to LF | LSP |  |
+| 5 | 3 | RF fwd &amp; across to end back &amp; slightly to side | RSP | 3/8 to L between 4-5, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 6 | 41 | Transfer weight to LF | LSP |  |
+| 7 | 2 | RF fwd &amp; across to end back &amp; slightly to side | RSP | 1/2 to L between 6-7, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 8 | 3 | Transfer weight to LF | LSP |  |
+| 9 | 41 | RF to side | Closed | 3/8 to L between 8-9 |
 
-1\) May be danced following Lady's Spiral Action on step 3 of [Opening Out to R and L](opening_out_LR.html)  
- 2) May be danced following Lady's Spiral Action on step 6 of [Reverse Top](reverse_top.html)  
- 3) May be danced following Lady's Spiral Action on step 3 of the [Spiral](spiral.html), Man turning an additional 1/8 to R on step 1 of the Aida  
- 4) May be danced following Lady's Spiral Action on step 3 of the [Curl](curl.html), Man omitting turn on step 1 of the Aida
+1\) May be danced following Lady's Spiral Action on step 3 of [Opening Out to R and L](opening_out_LR.md)  
+ 2) May be danced following Lady's Spiral Action on step 6 of [Reverse Top](reverse_top.md)  
+ 3) May be danced following Lady's Spiral Action on step 3 of the [Spiral](spiral.md), Man turning an additional 1/8 to R on step 1 of the Aida  
+ 4) May be danced following Lady's Spiral Action on step 3 of the [Curl](curl.md), Man omitting turn on step 1 of the Aida
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF back</td> <td> </td> <td>1/8 to R</td> </tr> <tr> <td>2</td> <td>3</td> <td>RF back</td> <td>LSP</td> <td>1/8 to R</td> </tr> <tr> <td>3</td> <td>41</td> <td>LF back</td> <td>LSP</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>Transfer weight fwd to RF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>LF fwd &amp; across to end back &amp; slightly to side</td> <td>RSP</td> <td> 3/8 to R between 4-5, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>6</td> <td>41</td> <td>Transfer weight to RF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td>LF fwd &amp; across to end back &amp; slightly to side</td> <td>RSP</td> <td> 1/2 to R between 6-7, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to RF</td> <td>LSP</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>LF to side</td> <td>Closed</td> <td>3/8 to R between 8-9</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF back |  | 1/8 to R |
+| 2 | 3 | RF back | LSP | 1/8 to R |
+| 3 | 41 | LF back | LSP |  |
+| 4 | 2 | Transfer weight fwd to RF | LSP |  |
+| 5 | 3 | LF fwd &amp; across to end back &amp; slightly to side | RSP | 3/8 to R between 4-5, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 6 | 41 | Transfer weight to RF | LSP |  |
+| 7 | 2 | LF fwd &amp; across to end back &amp; slightly to side | RSP | 1/2 to R between 6-7, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 8 | 3 | Transfer weight to RF | LSP |  |
+| 9 | 41 | LF to side | Closed | 3/8 to R between 8-9 |
 
-1\) When danced following a Spiral Action on step 5 of the [Spiral](spiral.html) or [Curl](curl.html), or after a Spiral Action turned 5/8 to L on step 3 of [Opening Out to R and L](opening_out_LR.html) or step 6 of [Reverse Top](reverse_top.html), Lady's first five steps will be replaced by the following:
+1\) When danced following a Spiral Action on step 5 of the [Spiral](spiral.md) or [Curl](curl.md), or after a Spiral Action turned 5/8 to L on step 3 of [Opening Out to R and L](opening_out_LR.md) or step 6 of [Reverse Top](reverse_top.md), Lady's first five steps will be replaced by the following:
 
- <table border="0" style="margin-left:40px"> <tbody><tr> <td style="width:15%">1</td> <td style="width:85%">LF fwd (1/8 to L)</td> </tr> <tr> <td>2 </td> <td> RF fwd to end side &amp; slightly back (3/8 to L, [Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>3</td> <td>LF back (1/4 to L between 2-3)</td> </tr> </tbody></table>
+ | 1 | LF fwd (1/8 to L) |
+|---|---|
+| 2 | RF fwd to end side &amp; slightly back (3/8 to L, [Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 3 | LF back (1/4 to L between 2-3) |
 
-2\) Steps 4-9 are danced as the [Spot Turn to L](spot_turn.html)
+2\) Steps 4-9 are danced as the [Spot Turn to L](spot_turn.md)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Basic in Place](basic_in_place.html); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Progressive Walks in RSP](progressive_walks_rsp_lsp.html); 1-3 [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced with Lady's Spiral Action**</td> <td>**As per Man's notes 1-3 and Lady's note 1 above**</td> </tr> <tr> <td>Bronze</td> <td> 1-3 [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Silver</td> <td> 1-6 [Reverse Top](reverse_top.html); 1-3 [Spiral](spiral.html); 1-3 [Curl](curl.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-3 [Basic in Place](basic_in_place.md); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Progressive Walks in RSP](progressive_walks_rsp_lsp.md); 1-3 [Opening Out to R and L](opening_out_LR.md) |
+| Gold | [RF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks) |
+|  |  |
+| **Commenced with Lady's Spiral Action** | **As per Man's notes 1-3 and Lady's note 1 above** |
+| Bronze | 1-3 [Opening Out to R and L](opening_out_LR.md) |
+| Silver | 1-6 [Reverse Top](reverse_top.md); 1-3 [Spiral](spiral.md); 1-3 [Curl](curl.md) |
 
 ### Following Figures for Double Spot Turn Ending
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](alternative_basic.html); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Open CPP**</td> <td>**Turning only 1/4 between step 8-9**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Basic in Place](alternative_basic.md); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Fan](fan.md) |
+| Silver | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md) |
+|  |  |
+| **Ended in Open CPP** | **Turning only 1/4 between step 8-9** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |

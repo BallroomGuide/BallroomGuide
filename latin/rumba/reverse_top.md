@@ -5,19 +5,60 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> <td rowspan="9">Up to 2 complete turns to L gradually over 1-9</td> </tr> <tr> <td>2</td> <td>3</td> <td>Swivel on ball of LF until LF crosses in front of RF</td> <td>Contact</td> </tr> <tr> <td>3</td> <td>4.1</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>4</td> <td>2</td> <td>Swivel on ball of LF until LF crosses in front of RF</td> <td>Contact</td> </tr> <tr> <td>5</td> <td>3</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>6</td> <td>4.1</td> <td>Swivel on ball of LF until LF crosses in front of RF</td> <td>Contact</td> </tr> <tr> <td>7</td> <td>2</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>8</td> <td>3</td> <td>Swivel on ball of LF until LF crosses in front of RF</td> <td>Contact</td> </tr> <tr> <td>9</td> <td>4.1</td> <td>RF to side</td> <td>Closed</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF to side &amp; slightly fwd | Contact | Up to 2 complete turns to L gradually over 1-9 |
+| 2 | 3 | Swivel on ball of LF until LF crosses in front of RF | Contact |
+| 3 | 4.1 | RF to side &amp; slightly fwd | Contact |
+| 4 | 2 | Swivel on ball of LF until LF crosses in front of RF | Contact |
+| 5 | 3 | RF to side &amp; slightly fwd | Contact |
+| 6 | 4.1 | Swivel on ball of LF until LF crosses in front of RF | Contact |
+| 7 | 2 | RF to side &amp; slightly fwd | Contact |
+| 8 | 3 | Swivel on ball of LF until LF crosses in front of RF | Contact |
+| 9 | 4.1 | RF to side | Closed |
 
 1\) The exact amount of turn made over the course of this figure may vary  
  2) The Man's L toe remains in place throughout the figure
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>Cross LF behind RF (Latin Cross)</td> <td>Contact</td> <td rowspan="9">Up to 2 complete turns to L gradually over 1-9</td> </tr> <tr> <td>2</td> <td>3</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>3</td> <td>4.1</td> <td>Cross LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>4</td> <td>2</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>5</td> <td>3</td> <td>Cross LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>6</td> <td>4.1</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>7</td> <td>2</td> <td>Cross LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>8</td> <td>3</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>9</td> <td>4.1</td> <td>LF to side</td> <td>Closed</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | Cross LF behind RF (Latin Cross) | Contact | Up to 2 complete turns to L gradually over 1-9 |
+| 2 | 3 | RF back &amp; slightly to side | Contact |
+| 3 | 4.1 | Cross LF behind RF (Latin Cross) | Contact |
+| 4 | 2 | RF back &amp; slightly to side | Contact |
+| 5 | 3 | Cross LF behind RF (Latin Cross) | Contact |
+| 6 | 4.1 | RF back &amp; slightly to side | Contact |
+| 7 | 2 | Cross LF behind RF (Latin Cross) | Contact |
+| 8 | 3 | RF back &amp; slightly to side | Contact |
+| 9 | 4.1 | LF to side | Closed |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Contact Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Side Steps to L commenced with LF](side_step.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 4**</td> <td>**Commence the Reverse Top from Step 4**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [Side Steps to R commenced with RF](side_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Reverse Top](reverse_top.html); [Spiral](spiral.html); [Curl](curl.html) </td> </tr> <tr> <td>Gold</td> <td> [Circular Hip Twist](circular_hip_twist.html) </td> </tr> </tbody></table>
+ | **Commenced in Contact Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Side Steps to L commenced with LF](side_step.md) |
+|  |  |
+| **Preceding Step 4** | **Commence the Reverse Top from Step 4** |
+| PreBronze | [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [Side Steps to R commenced with RF](side_step.md) |
+| Bronze | [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Reverse Top](reverse_top.md); [Spiral](spiral.md); [Curl](curl.md) |
+| Gold | [Circular Hip Twist](circular_hip_twist.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](basic_in_place.html); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Open CPP**</td> <td>**Man omits turn on step 9, while Lady continues to turn a final 1/4 to L**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Contact Position**</td> <td>**Continue to turn on step 9, dancing it as step 1, 3, 5, and 7**</td> </tr> <tr> <td>Silver</td> <td> 4-9 [Reverse Top](reverse_top.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 6**</td> <td>**Dancing only until step 6 of the Reverse Top**</td> </tr> <tr> <td>Silver</td> <td> [Opening Out from Reverse Top](opening_reverse.html); [Aida](aida.html); 4-6 [Spiral](spiral.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Basic in Place](basic_in_place.md); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Fan](fan.md) |
+| Gold | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md) |
+|  |  |
+| **Ended in Open CPP** | **Man omits turn on step 9, while Lady continues to turn a final 1/4 to L** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |
+|  |  |
+| **Ended in Contact Position** | **Continue to turn on step 9, dancing it as step 1, 3, 5, and 7** |
+| Silver | 4-9 [Reverse Top](reverse_top.md) |
+|  |  |
+| **Following Step 6** | **Dancing only until step 6 of the Reverse Top** |
+| Silver | [Opening Out from Reverse Top](opening_reverse.md); [Aida](aida.md); 4-6 [Spiral](spiral.md) |

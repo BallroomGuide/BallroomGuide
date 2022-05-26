@@ -5,22 +5,78 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF fwd (Fwd Cucaracha)</td> <td>Fan</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td> </td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF back</td> <td> </td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>LF to side</td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>RF fwd &amp; across toward Lady's R side</td> <td>Shadow</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td>LF to side, part weight</td> <td> </td> <td> </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>LF behind RF (Latin Cross)</td> <td>OP</td> <td> </td> </tr> <tr> <td>10</td> <td>2</td> <td>RF back</td> <td> </td> <td> </td> </tr> <tr> <td>11</td> <td>3</td> <td>LF to side</td> <td> </td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>RF fwd &amp; across toward Lady's R side</td> <td>Closed</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd (Fwd Cucaracha) | Fan |  |
+| 2 | 3 | Transfer weight to RF |  |  |
+| 3 | 41 | Close LF to RF |  |  |
+| 4 | 2 | RF back |  |  |
+| 5 | 3 | LF to side |  |  |
+| 6 | 41 | RF fwd &amp; across toward Lady's R side | Shadow |  |
+| 7 | 2 | LF to side, part weight |  |  |
+| 8 | 3 | Transfer weight to RF |  |  |
+| 9 | 41 | LF behind RF (Latin Cross) | OP |  |
+| 10 | 2 | RF back |  |  |
+| 11 | 3 | LF to side |  |  |
+| 12 | 41 | RF fwd &amp; across toward Lady's R side | Closed |  |
 
-1\) Steps 1-6 are an [Alemana](alemana.html), and steps 10-12 are steps 4-6 of an [Alemana](alemana.html)  
- 2) Steps 7-8 are a [LF Cucaracha](cucaracha.html)
+1\) Steps 1-6 are an [Alemana](alemana.md), and steps 10-12 are steps 4-6 of an [Alemana](alemana.md)  
+ 2) Steps 7-8 are a [LF Cucaracha](cucaracha.md)
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>Close RF to LF</td> <td>Fan</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>LF Fwd</td> <td> </td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td> </td> <td>1/8 to R between 2-3</td> </tr> <tr> <td>4</td> <td>2</td> <td> LF fwd &amp; across ([Extended Fwd Walk](../technique/cr_extended__fwd_walk.html)) to end back &amp; slightly to side </td> <td> </td> <td> 3/8 to R between 3-4, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>LF fwd toward Man's R side to end back with RF crossed slightly in front</td> <td>Shadow</td> <td> 3/8 to R between 5-6, then an additional 1/2 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>7</td> <td>2</td> <td>Transfer weight to RF, then turn underarm to end with LF crossed in front</td> <td> </td> <td> 7/8 to L ([Spiral Action](../technique/cr_spiral_action.html)) </td> </tr> <tr> <td>8</td> <td>3</td> <td>LF fwd</td> <td> </td> <td>1/8 to L</td> </tr> <tr> <td>9</td> <td>41</td> <td> RF fwd ([Pressed Fwd Walk](../technique/cr_pressed__fwd_walk.html)) </td> <td> </td> <td>1/2 to L between 8-9</td> </tr> <tr> <td>10</td> <td>2</td> <td> LF fwd &amp; across ([Extended Fwd Walk](../technique/cr_extended__fwd_walk.html)) to end back &amp; slightly to side </td> <td> </td> <td> 3/8 to R between 9-10, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>11</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>LF fwd toward Man's R side</td> <td>Closed</td> <td>3/8 to R between 11-12</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | Close RF to LF | Fan |  |
+| 2 | 3 | LF Fwd |  |  |
+| 3 | 41 | RF fwd |  | 1/8 to R between 2-3 |
+| 4 | 2 | LF fwd &amp; across ([Extended Fwd Walk](../technique/cr_extended__fwd_walk.md)) to end back &amp; slightly to side |  | 3/8 to R between 3-4, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 5 | 3 | Transfer weight to RF |  |  |
+| 6 | 41 | LF fwd toward Man's R side to end back with RF crossed slightly in front | Shadow | 3/8 to R between 5-6, then an additional 1/2 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 7 | 2 | Transfer weight to RF, then turn underarm to end with LF crossed in front |  | 7/8 to L ([Spiral Action](../technique/cr_spiral_action.md)) |
+| 8 | 3 | LF fwd |  | 1/8 to L |
+| 9 | 41 | RF fwd ([Pressed Fwd Walk](../technique/cr_pressed__fwd_walk.md)) |  | 1/2 to L between 8-9 |
+| 10 | 2 | LF fwd &amp; across ([Extended Fwd Walk](../technique/cr_extended__fwd_walk.md)) to end back &amp; slightly to side |  | 3/8 to R between 9-10, then an additional 3/8 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 11 | 3 | Transfer weight to RF |  |  |
+| 12 | 41 | LF fwd toward Man's R side | Closed | 3/8 to R between 11-12 |
 
-1\) Steps 1-6 are an [Alemana](alemana.html), and steps 10-12 are steps 4-6 of an [Alemana](alemana.html)  
+1\) Steps 1-6 are an [Alemana](alemana.md), and steps 10-12 are steps 4-6 of an [Alemana](alemana.md)  
  2) May be commenced in Open Position with L to R or (Gold) R to R Hand Hold, in which case step 1 will be "RF back", step 2 "Transfer weight to LF", and only 1/4 turn to R will be made between steps 3-4
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Fan Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced in Open Position**</td> <td>**As described in note 1 above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Hockey Stick](hockey_stick.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding step 3 in Open Position**</td> <td>**Lady turns only 1/4 to R between steps 3-4**</td> </tr> <tr> <td>PreBronze</td> <td> 1-5 [Progressive Walks Back](progressive_walks.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding step 4 in Closed Position**</td> <td>**Lady turns only 1/4 to R between steps 3-4**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Basic in Place](basic_in_place.html); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Progressive Walks in RSP](progressive_walks_rsp_lsp.html); 1-3 [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Gold</td> <td> [RF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks) </td> </tr> </tbody></table>
+ | **Commenced in Fan Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Fan](fan.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl) |
+| Gold | [Kiki Walks](kiki_walks); [Three Threes](three_threes.md); [Circular Hip Twist](circular_hip_twist.md) |
+|  |  |
+| **Commenced in Open Position** | **As described in note 1 above** |
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [RF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Hockey Stick](hockey_stick.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl) |
+| Gold | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks); [Three Threes](three_threes.md); [Circular Hip Twist](circular_hip_twist.md) |
+|  |  |
+| **Preceding step 3 in Open Position** | **Lady turns only 1/4 to R between steps 3-4** |
+| PreBronze | 1-5 [Progressive Walks Back](progressive_walks.md) |
+|  |  |
+| **Preceding step 4 in Closed Position** | **Lady turns only 1/4 to R between steps 3-4** |
+| PreBronze | 1-3 [Basic in Place](basic_in_place.md); 1-3 [Closed Basic](closed_basic); 1-3 [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Progressive Walks in RSP](progressive_walks_rsp_lsp.md); 1-3 [Opening Out to R and L](opening_out_LR.md) |
+| Gold | [RF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position toward Partner's R Side**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Opening Out to R and L](opening_out_LR.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Spiral](spiral.html); [Rope Spinning](rope_spinning.html) </td> </tr> <tr> <td>Gold</td> <td> [Continuous Hip Twist](continuous_hip_twist.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended to Side in Closed Position**</td> <td>**Man transfers weight to LF on step 11, then on step 12 steps RF to side (Lady LF to side)**</td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](alternative_basic.html); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended to Side in Open CPP**</td> <td>**Man transfers weight to LF on step 11, then on step 12 steps RF to side turning 1/8 to R (Lady LF to side, making 1/8 less turn between 11-12)**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position toward Partner's R Side** | **As described in the charts above** |
+|---|---|
+| Bronze | [Opening Out to R and L](opening_out_LR.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Spiral](spiral.md); [Rope Spinning](rope_spinning.md) |
+| Gold | [Continuous Hip Twist](continuous_hip_twist.md); [Circular Hip Twist](circular_hip_twist.md) |
+|  |  |
+| **Ended to Side in Closed Position** | **Man transfers weight to LF on step 11, then on step 12 steps RF to side (Lady LF to side)** |
+| PreBronze | [Basic in Place](alternative_basic.md); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Fan](fan.md) |
+| Silver | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md) |
+|  |  |
+| **Ended to Side in Open CPP** | **Man transfers weight to LF on step 11, then on step 12 steps RF to side turning 1/8 to R (Lady LF to side, making 1/8 less turn between 11-12)** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |

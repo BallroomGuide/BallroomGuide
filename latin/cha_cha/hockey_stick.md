@@ -5,18 +5,52 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF fwd (Fwd Cucaracha)</td> <td>Fan</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Compact Chasse](../technique/c_compact_chasse.html), LRL </td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>2</td> <td>RF back</td> <td> </td> <td>1/8 to R between 5-6</td> </tr> <tr> <td>7</td> <td>3</td> <td>Transfer weight to LF</td> <td>End in Open</td> <td> </td> </tr> <tr> <td>8-10</td> <td>4&amp;1</td> <td> [Fwd Lock](../technique/c_lock.html#fwd), RLR </td> <td>Open</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd (Fwd Cucaracha) | Fan |  |
+| 2 | 3 | Transfer weight to RF |  |  |
+| 3-5 | 4&amp;1 | [Compact Chasse](../technique/c_compact_chasse.md), LRL |  |  |
+| 6 | 2 | RF back |  | 1/8 to R between 5-6 |
+| 7 | 3 | Transfer weight to LF | End in Open |  |
+| 8-10 | 4&amp;1 | [Fwd Lock](../technique/c_lock.md#fwd), RLR | Open |  |
 
-1\) Steps 3-5 may be replaced by a [Ronde Chasse](../technique/c_ronde_chasse.html) or a [Slip Chasse](../technique/c_slip_chasse.html)
+1\) Steps 3-5 may be replaced by a [Ronde Chasse](../technique/c_ronde_chasse.md) or a [Slip Chasse](../technique/c_slip_chasse.md)
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>Close RF to LF</td> <td>Fan</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>LF fwd</td> <td> </td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Fwd Lock](../technique/c_lock.html#fwd), RLR </td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>2</td> <td>LF fwd</td> <td> </td> <td>1/8 to L between 5-6</td> </tr> <tr> <td>7</td> <td>3</td> <td>RF fwd, turning to end back &amp; slightly to side</td> <td>End in Open</td> <td> 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>8-10</td> <td>4&amp;1</td> <td> [Back Lock](../technique/c_lock.html#bwd), LRL </td> <td>Open</td> <td>1/8 to R between 7-8</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | Close RF to LF | Fan |  |
+| 2 | 3 | LF fwd |  |  |
+| 3-5 | 4&amp;1 | [Fwd Lock](../technique/c_lock.md#fwd), RLR |  |  |
+| 6 | 2 | LF fwd |  | 1/8 to L between 5-6 |
+| 7 | 3 | RF fwd, turning to end back &amp; slightly to side | End in Open | 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 8-10 | 4&amp;1 | [Back Lock](../technique/c_lock.md#bwd), LRL | Open | 1/8 to R between 7-8 |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Fan Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Opening Out from Reverse Top](opening_reverse.html); [Spiral](spiral.html); [Curl](curl.html); [Cross Basic](cross_basic.html) </td> </tr> <tr> <td>Gold</td> <td> [Sweetheart](sweetheart.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 6**</td> <td>**Commenced the Hockey Stick from step 6**</td> </tr> <tr> <td>Bronze</td> <td> 1-10 [Natural Top](natural_top.html) </td> </tr> </tbody></table>
+ | **Commenced in Fan Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Fan](fan.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Opening Out from Reverse Top](opening_reverse.md); [Spiral](spiral.md); [Curl](curl.md); [Cross Basic](cross_basic.md) |
+| Gold | [Sweetheart](sweetheart.md) |
+|  |  |
+| **Preceding Step 6** | **Commenced the Hockey Stick from step 6** |
+| Bronze | 1-10 [Natural Top](natural_top.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Open Position**</td> <td>**As described in the charts above, commencing the following figure in Open Position**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Three Cha Chas Fwd](three_cha_chas_fwd_back.html#fwd) (from step 4) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Curl](curl.html); [Chase](chase.html) </td> </tr> <tr> <td>Gold</td> <td> [Turkish Towel](turkish_towel.html); [Sweetheart](sweetheart.html); [Follow my Leader](follow_leader.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Open CPP**</td> <td>**Lady turns an additional 1/4 to L on step 7, allowing LF to cross in front of RF (Loose Spiral Action), then Man and Lady both dance a Side Chasse diagonally fwd in Open CPP**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady to L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.html#lsp) (from step 4) </td> </tr> <tr> <td>Silver</td> <td> [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 7**</td> <td>**Having danced only until step 7 of the Hockey Stick**</td> </tr> <tr> <td>PreBronze</td> <td> [Three Cha Chas Fwd](three_cha_chas_fwd_back.html#fwd) </td> </tr> </tbody></table>
+ | **Ended in Open Position** | **As described in the charts above, commencing the following figure in Open Position** |
+|---|---|
+| PreBronze | [Open Basic](open_basic.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Three Cha Chas Fwd](three_cha_chas_fwd_back.md#fwd) (from step 4) |
+| Bronze | [Alemana](alemana.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Curl](curl.md); [Chase](chase.md) |
+| Gold | [Turkish Towel](turkish_towel.md); [Sweetheart](sweetheart.md); [Follow my Leader](follow_leader.md) |
+|  |  |
+| **Ended in Open CPP** | **Lady turns an additional 1/4 to L on step 7, allowing LF to cross in front of RF (Loose Spiral Action), then Man and Lady both dance a Side Chasse diagonally fwd in Open CPP** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady to L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |
+| Bronze | [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.md#lsp) (from step 4) |
+| Silver | [LF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with LF](cuban_breaks.md#split) |
+|  |  |
+| **Following Step 7** | **Having danced only until step 7 of the Hockey Stick** |
+| PreBronze | [Three Cha Chas Fwd](three_cha_chas_fwd_back.md#fwd) |

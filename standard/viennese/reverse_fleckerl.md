@@ -5,9 +5,23 @@
 
 Commence facing LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%;text-align:center">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd, toe turned out (small step)</td> <td>1/4 to L between preceding step and 1, body turns less</td> <td>Pointing Centre</td> <td rowspan="6" style="text-align:center">All steps taken under the body</td> </tr> <tr> <td>2</td> <td>RF to side and slightly back, split weight</td> <td>3/8 to L between 1-2</td> <td>Facing DW against LOD</td> </tr> <tr> <td>3</td> <td>LF crosses in front of RF</td> <td>3/8 to L between 2-3</td> <td>Facing LOD</td> </tr> <tr> <td>4</td> <td>RF to side and slightly back</td> <td>1/8 to L between 3-4</td> <td>Facing DC</td> </tr> <tr> <td>5</td> <td>LF crosses behind RF, split weight</td> <td>1/2 to L between 4-5</td> <td>Facing DW against LOD</td> </tr> <tr> <td>6</td> <td>RF to side and slightly back</td> <td>3/8 to L between 5-6</td> <td>Facing LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd, toe turned out (small step) | 1/4 to L between preceding step and 1, body turns less | Pointing Centre | All steps taken under the body |
+| 2 | RF to side and slightly back, split weight | 3/8 to L between 1-2 | Facing DW against LOD |
+| 3 | LF crosses in front of RF | 3/8 to L between 2-3 | Facing LOD |
+| 4 | RF to side and slightly back | 1/8 to L between 3-4 | Facing DC |
+| 5 | LF crosses behind RF, split weight | 1/2 to L between 4-5 | Facing DW against LOD |
+| 6 | RF to side and slightly back | 3/8 to L between 5-6 | Facing LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**CBM**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center">✓</td> <td style="text-align:center"></td> <td style="text-align:right">HB</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BHB</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **CBM** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 1 | Closed |  | ✓ |  | HB |
+| 2 | 2 | Closed |  |  |  | B |
+| 3 | 3 | Closed |  |  |  | BH |
+| 4 | 1 | Closed |  |  |  | BHB |
+| 5 | 2 | Closed |  |  |  | B |
+| 6 | 3 | Closed |  |  |  | BH |
 
 1\) When steps are repeated, the Man will dance step 1 as Lady's step 4, BHB  
  2) Whenever the LF is crossed in front of the RF, the toe of the LF remains in place on the floor as the feet swivel, and the turn to the L results in the crossed position  
@@ -19,9 +33,23 @@ Commence facing LOD
 
 Commence backing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%;text-align:center">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF side and slightly back</td> <td>1/8 to L between preceding step and 1</td> <td>Facing DW against LOD</td> <td rowspan="6" style="text-align:center">All steps taken under the body</td> </tr> <tr> <td>2</td> <td>LF crosses behind RF, split weight</td> <td>1/2 to L between 1-2</td> <td>Facing DC</td> </tr> <tr> <td>3</td> <td>RF side and slightly back</td> <td>3/8 to L between 2-3</td> <td>Facing against LOD</td> </tr> <tr> <td>4</td> <td>LF crosses in front of RF</td> <td>1/4 to L between 3-4, body turns less</td> <td>Pointing to wall</td> </tr> <tr> <td>5</td> <td>RF to side and slightly back, split weight</td> <td>3/8 to L between 4-5</td> <td>Facing DC</td> </tr> <tr> <td>6</td> <td>LF crosses in front of RF</td> <td>3/8 to L between 5-6</td> <td>Backing LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF side and slightly back | 1/8 to L between preceding step and 1 | Facing DW against LOD | All steps taken under the body |
+| 2 | LF crosses behind RF, split weight | 1/2 to L between 1-2 | Facing DC |
+| 3 | RF side and slightly back | 3/8 to L between 2-3 | Facing against LOD |
+| 4 | LF crosses in front of RF | 1/4 to L between 3-4, body turns less | Pointing to wall |
+| 5 | RF to side and slightly back, split weight | 3/8 to L between 4-5 | Facing DC |
+| 6 | LF crosses in front of RF | 3/8 to L between 5-6 | Backing LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**CBM**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BHB</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center">✓</td> <td style="text-align:center"></td> <td style="text-align:right">BHB</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">B</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:center"></td> <td style="text-align:right">BH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **CBM** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 1 | Closed |  |  |  | BHB |
+| 2 | 2 | Closed |  |  |  | B |
+| 3 | 3 | Closed |  |  |  | BH |
+| 4 | 1 | Closed |  | ✓ |  | BHB |
+| 5 | 2 | Closed |  |  |  | B |
+| 6 | 3 | Closed |  |  |  | BH |
 
 1\) Whenever the LF is crossed in front of the RF, the toe of the LF remains in place on the floor as the feet swivel, and the turn to the L results in the crossed position  
  2) This figure shall be danced in the centre of the dance floor, so as not to obstruct traffic  
@@ -30,8 +58,19 @@ Commence backing DW
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">Bronze</td> <td> [Reverse Turn](reverse_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Fleckerl](reverse_fleckerl.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 4**</td> <td> </td> </tr> <tr> <td>Bronze</td> <td> 1-3 [Reverse Turn](reverse_turn.html) </td> </tr> </tbody></table>
+ | Bronze | [Reverse Turn](reverse_turn.md) |
+|---|---|
+| Silver | [Reverse Fleckerl](reverse_fleckerl.md) |
+|  |  |
+| **Preceding Step 4** |  |
+| Bronze | 1-3 [Reverse Turn](reverse_turn.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">Bronze</td> <td> [Reverse Turn](reverse_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Fleckerl](reverse_fleckerl.html) </td> </tr> <tr> <td>Gold</td> <td> [Contra Check](contra_check.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td> </td> </tr> <tr> <td>Bronze</td> <td> 4-6 [Reverse Turn](reverse_turn.html) </td> </tr> </tbody></table>
+ | Bronze | [Reverse Turn](reverse_turn.md) |
+|---|---|
+| Silver | [Reverse Fleckerl](reverse_fleckerl.md) |
+| Gold | [Contra Check](contra_check.md) |
+|  |  |
+| **Following Step 3** |  |
+| Bronze | 4-6 [Reverse Turn](reverse_turn.md) |

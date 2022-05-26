@@ -5,9 +5,23 @@
 
 Commence in Closed Position, backing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>LF fwd</td> <td>Com to turn L</td> <td>Facing DC against LOD</td> <td style="text-align:center">DC against LOD</td> </tr> <tr> <td>3</td> <td>RF to side</td> <td>1/8 between 2-3</td> <td>Backing LOD</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>4</td> <td>LF back in CBMP</td> <td>1/8 between 3-4</td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>5</td> <td>RF back</td> <td>Com to turn L</td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>6</td> <td>LF to side &amp; slightly fwd</td> <td>1/4 between 5-6, body turns less</td> <td>Pointing DW</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF back |  | Backing DW | DW |
+| 2 | LF fwd | Com to turn L | Facing DC against LOD | DC against LOD |
+| 3 | RF to side | 1/8 between 2-3 | Backing LOD | Centre |
+| 4 | LF back in CBMP | 1/8 between 3-4 | Backing DC | DC |
+| 5 | RF back | Com to turn L | Backing DC | DC |
+| 6 | LF to side &amp; slightly fwd | 1/4 between 5-6, body turns less | Pointing DW | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>2 </td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Rise e/o 2</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">OP</td> <td>Com to rise e/o 4, NFR</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 6</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  |  | TH |
+| 2 | 2 | Closed | Rise e/o 2 |  | HT |
+| 3 | 3 | Closed | Up. Lower e/o 3 |  | TH |
+| 4 | 1 | OP | Com to rise e/o 4, NFR |  | TH |
+| 5 | 2 | Closed | Cont to rise |  | T |
+| 6 | 3 | Closed | Up. Lower e/o 6 |  | TH |
 
 **The following step will be taken forward in CBMP, OP**
 
@@ -18,9 +32,23 @@ Commence in Closed Position, backing DC
 
 Commence in Closed Position, facing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF back</td> <td>Com to turn L</td> <td>Backing DC against LOD</td> <td style="text-align:center">DC against LOD</td> </tr> <tr> <td>3</td> <td>LF to side</td> <td>1/4 between 2-3, body turns less</td> <td>Pointing DC</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>4</td> <td>RF fwd in CBMP</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>5</td> <td>LF fwd</td> <td>Com to turn L</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>6</td> <td>RF to side &amp; slightly back</td> <td>1/4 between 5-6, body turns less</td> <td>Backing DW</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd |  | Facing DW | DW |
+| 2 | RF back | Com to turn L | Backing DC against LOD | DC against LOD |
+| 3 | LF to side | 1/4 between 2-3, body turns less | Pointing DC | Centre |
+| 4 | RF fwd in CBMP |  | Facing DC | DC |
+| 5 | LF fwd | Com to turn L | Facing DC | DC |
+| 6 | RF to side &amp; slightly back | 1/4 between 5-6, body turns less | Backing DW | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Rise e/o 2</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">OP</td> <td>Com to rise e/o 4</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 6</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  |  | HT |
+| 2 | 2 | Closed | Rise e/o 2 |  | T |
+| 3 | 3 | Closed | Up. Lower e/o 3 |  | TH |
+| 4 | 1 | OP | Com to rise e/o 4 |  | HT |
+| 5 | 2 | Closed | Cont to rise |  | T |
+| 6 | 3 | Closed | Up. Lower e/o 6 |  | TH |
 
 **The following step will be taken back in CBMP with the Man outside**
 
@@ -29,8 +57,22 @@ Commence in Closed Position, facing DC
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Backing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 1-3 [Reverse Turn](reverse_turn.html); [Natural Spin Turn](spin_turn.html) (at a corner) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Outside Spin](outside_spin.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Backing Wall of new LOD**</td> <td>**Turning 1/4 to L between steps 2-3**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 1-3 [Reverse Turn](reverse_turn.html) (at a corner) </td> </tr> </tbody></table>
+ | **Commenced Backing DW** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-3 [Reverse Turn](reverse_turn.md); [Natural Spin Turn](spin_turn.md) (at a corner) |
+| Silver | [Outside Spin](outside_spin.md) |
+|  |  |
+| **Commenced Backing Wall of new LOD** | **Turning 1/4 to L between steps 2-3** |
+| PreBronze | 1-3 [Reverse Turn](reverse_turn.md) (at a corner) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Pointing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn;](natural_turn.html) [Natural Spin Turn](spin_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Hesitation Change](hesitation_change.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in PP**</td> <td>**Ready to move down LOD**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Chasse from PP](chasse_from_pp.html) </td> </tr> <tr> <td>Silver</td> <td> [Cross Hesitation](cross_hesitation.html); [Wing](wing.html) </td> </tr> <tr> <td>Gold</td> <td> [Left Whisk](left_whisk.html) </td> </tr> </tbody></table>
+ | **Ended Pointing DW** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Natural Turn;](natural_turn.md) [Natural Spin Turn](spin_turn.md) |
+| Bronze | [Hesitation Change](hesitation_change.md) |
+|  |  |
+| **Ended in PP** | **Ready to move down LOD** |
+| PreBronze | [Chasse from PP](chasse_from_pp.md) |
+| Silver | [Cross Hesitation](cross_hesitation.md); [Wing](wing.md) |
+| Gold | [Left Whisk](left_whisk.md) |

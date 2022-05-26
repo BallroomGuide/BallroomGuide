@@ -6,9 +6,23 @@
 Commence in Closed Position with Closed Hold, Facing LOD  
  This figure does not use Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd</td> <td>1/8 to R</td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>LF to side</td> <td>1/4 to R between 1-2</td> <td>Backing DC</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>Close RF to LF</td> <td>1/8 to R</td> <td>Backing LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>LF back</td> <td>1/8 to R</td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>5</td> <td>RF to side, toe turned out</td> <td>3/8 to R between 4-5, body turns less</td> <td>Facing DC</td> <td style="text-align:center">DW</td> </tr> <tr> <td>6</td> <td>Close LF to RF</td> <td>Body completes turn</td> <td>Facing LOD</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF fwd | 1/8 to R | Facing DW | DW |
+| 2 | LF to side | 1/4 to R between 1-2 | Backing DC | DW |
+| 3 | Close RF to LF | 1/8 to R | Backing LOD | Under Body |
+| 4 | LF back | 1/8 to R | Backing DW | DW |
+| 5 | RF to side, toe turned out | 3/8 to R between 4-5, body turns less | Facing DC | DW |
+| 6 | Close LF to RF | Body completes turn | Facing LOD | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">HF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>3</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>6</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | Closed | HF |
+| 2 | 2 | Q | Closed | B |
+| 3 | &amp; | Q | Closed | BF |
+| 4 | 1 | S | Closed | BF |
+| 5 | 2 | Q | Closed | B |
+| 6 | &amp; | Q | Closed | BF |
 
 1\) On step 1, send hips forward ahead of body; over step 2-3, send hips to L and sway to R; on step 4, send hips back ahead of body; over steps 5-6, send hips to R and sway to L  
  2) This figure may be curved around a corner
@@ -18,25 +32,118 @@ Commence in Closed Position with Closed Hold, Facing LOD
 Commence in Closed Position with Closed Hold, Backing LOD  
  This figure does not use Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td>1/8 to R</td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF to side, toe turned out</td> <td>3/8 to R between 1-2, body turns less</td> <td>Facing DC</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>Close LF to RF</td> <td>Body completes turn</td> <td>Facing LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>RF fwd</td> <td>1/8 to R</td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>5</td> <td>LF to side</td> <td>1/4 to R between 4-5</td> <td>Backing DC</td> <td style="text-align:center">DW</td> </tr> <tr> <td>6</td> <td>Close RF to LF</td> <td>1/8 to R</td> <td>Backing LOD</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF back | 1/8 to R | Backing DW | DW |
+| 2 | RF to side, toe turned out | 3/8 to R between 1-2, body turns less | Facing DC | DW |
+| 3 | Close LF to RF | Body completes turn | Facing LOD | Under Body |
+| 4 | RF fwd | 1/8 to R | Facing DW | DW |
+| 5 | LF to side | 1/4 to R between 4-5 | Backing DC | DW |
+| 6 | Close RF to LF | 1/8 to R | Backing LOD | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">HF</td> </tr> <tr> <td>2 </td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>3</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>5</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>6</td> <td style="text-align:center">&amp;</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | Closed | HF |
+| 2 | 2 | Q | Closed | B |
+| 3 | &amp; | Q | Closed | BF |
+| 4 | 1 | S | Closed | BF |
+| 5 | 2 | Q | Closed | B |
+| 6 | &amp; | Q | Closed | BF |
 
 1\) On step 1, send hips back ahead of body; over steps 2-3, send hips to R and sway to L; on step 4, send hips forward ahead of body; over step 5-6, send hips to L and sway to R  
  2) This figure may be curved around a corner
 
 ### Precedes to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DC**</td> <td>**Travel LOD throughout**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 1-3 [Reverse Basic](reverse_basic.html); [Travelling Bota Fogos Forward](travel_bf_fwd.html); [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td>Silver</td> <td> [Maypole turning L](maypole.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Roll](natural_roll.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing LOD**</td> <td></td> </tr> <tr> <td>PreBronze</td> <td> [Natural Basic](natural_basic.html); 1-3 [Reverse Basic](reverse_basic.html); [Side Basic to L](side_basic.html) (at a corner); [Whisk to L](whisk.html) (at a corner); [LF Stationary Samba Walk](stationary_samba_walks.html) (at a corner); 1-3 [Criss Cross Bota Fogos](criss_cross_bf.html) (at a corner) </td> </tr> <tr> <td>Bronze</td> <td> 1-7 [Criss Cross Voltas](criss_cross_volta.html) (at a corner); [LF Solo Spot Volta](solo_spot_volta.html) (at a corner); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) (at a corner); [Corta Jaca](corta_jaca.html); [Closed Rocks](closed_rocks.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Rocks](open_rocks.html); 1-9 [Argentine Crosses](argentine_crosses.html) (at a corner); [Maypole turning L](maypole.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Roll](natural_roll.html); [Samba Locks](locks.html) (at a corner) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing DW**</td> <td>**Omit turn on step 1**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 1-3 [Reverse Basic](reverse_basic.html); [Progressive Basic](progressive_basic.html) </td> </tr> <tr> <td>Bronze</td> <td> [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td>Silver</td> <td> [Maypole turning L](maypole.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Roll](natural_roll.html) (at a corner) </td> </tr> </tbody></table>
+ | **Commenced Facing DC** | **Travel LOD throughout** |
+|---|---|
+| PreBronze | [Natural Basic](natural_basic.md); 1-3 [Reverse Basic](reverse_basic.md); [Travelling Bota Fogos Forward](travel_bf_fwd.md); [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [Maypole turning L](maypole.md) |
+| Gold | [Natural Roll](natural_roll.md) |
+|  |  |
+| **Commenced Facing LOD** |  |
+| PreBronze | [Natural Basic](natural_basic.md); 1-3 [Reverse Basic](reverse_basic.md); [Side Basic to L](side_basic.md) (at a corner); [Whisk to L](whisk.md) (at a corner); [LF Stationary Samba Walk](stationary_samba_walks.md) (at a corner); 1-3 [Criss Cross Bota Fogos](criss_cross_bf.md) (at a corner) |
+| Bronze | 1-7 [Criss Cross Voltas](criss_cross_volta.md) (at a corner); [LF Solo Spot Volta](solo_spot_volta.md) (at a corner); [LF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) (at a corner); [Corta Jaca](corta_jaca.md); [Closed Rocks](closed_rocks.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [Open Rocks](open_rocks.md); 1-9 [Argentine Crosses](argentine_crosses.md) (at a corner); [Maypole turning L](maypole.md) |
+| Gold | [Natural Roll](natural_roll.md); [Samba Locks](locks.md) (at a corner) |
+|  |  |
+| **Commenced Facing DW** | **Omit turn on step 1** |
+| PreBronze | [Natural Basic](natural_basic.md); 1-3 [Reverse Basic](reverse_basic.md); [Progressive Basic](progressive_basic.md) |
+| Bronze | [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [Maypole turning L](maypole.md) |
+| Gold | [Natural Roll](natural_roll.md) (at a corner) |
 
 ### Precedes to Step 4 of This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Backing DC**</td> <td>**Travel LOD throughout**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Natural Basic](natural_basic.html); [Reverse Basic](reverse_basic.html) </td> </tr> <tr> <td>Bronze</td> <td> 1-7 [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [RF Back Rock](back_rocks.html); [Maypole turning R](maypole.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Backing LOD**</td> <td></td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Natural Basic](natural_basic.html); [Reverse Basic](reverse_basic.html); [Side Basic to R](side_basic.html) (at a corner); [Whisk to R](whisk.html) (at a corner); [Side Samba Walk](side_samba_walk.html) (at a corner); [RF Stationary Samba Walk](stationary_samba_walks.html) (at a corner); [Criss Cross Bota Fogos](criss_cross_bf.html) (at a corner) </td> </tr> <tr> <td>Bronze</td> <td> [Criss Cross Voltas](criss_cross_volta.html) (at a corner); [RF Solo Spot Volta](solo_spot_volta.html) (at a corner); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) (at a corner); [Reverse Turn](reverse_turn.html) (at a corner); 1-7 [Corta Jaca](corta_jaca.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [RF Plait](plait.html); [Argentine Crosses](argentine_crosses.html) (at a corner); [Maypole turning R](maypole.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Backing DW**</td> <td>**Omit turn on step 4**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Natural Basic](natural_basic.html); [Reverse Basic](reverse_basic.html) </td> </tr> <tr> <td>Bronze</td> <td> 1-7 [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td>Silver</td> <td> [RF Back Rock](back_rocks.html) (at a corner); [Maypole turning R](maypole.html) </td> </tr> </tbody></table>
+ | **Commenced Backing DC** | **Travel LOD throughout** |
+|---|---|
+| PreBronze | 1-3 [Natural Basic](natural_basic.md); [Reverse Basic](reverse_basic.md) |
+| Bronze | 1-7 [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) (at a corner) |
+| Silver | [RF Back Rock](back_rocks.md); [Maypole turning R](maypole.md) |
+|  |  |
+| **Commenced Backing LOD** |  |
+| PreBronze | 1-3 [Natural Basic](natural_basic.md); [Reverse Basic](reverse_basic.md); [Side Basic to R](side_basic.md) (at a corner); [Whisk to R](whisk.md) (at a corner); [Side Samba Walk](side_samba_walk.md) (at a corner); [RF Stationary Samba Walk](stationary_samba_walks.md) (at a corner); [Criss Cross Bota Fogos](criss_cross_bf.md) (at a corner) |
+| Bronze | [Criss Cross Voltas](criss_cross_volta.md) (at a corner); [RF Solo Spot Volta](solo_spot_volta.md) (at a corner); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) (at a corner); [Reverse Turn](reverse_turn.md) (at a corner); 1-7 [Corta Jaca](corta_jaca.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) (at a corner) |
+| Silver | [RF Plait](plait.md); [Argentine Crosses](argentine_crosses.md) (at a corner); [Maypole turning R](maypole.md) |
+|  |  |
+| **Commenced Backing DW** | **Omit turn on step 4** |
+| PreBronze | 1-3 [Natural Basic](natural_basic.md); [Reverse Basic](reverse_basic.md) |
+| Bronze | 1-7 [Corta Jaca](corta_jaca.md) |
+| Silver | [RF Back Rock](back_rocks.md) (at a corner); [Maypole turning R](maypole.md) |
 
 ### Follows to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing Centre**</td> <td>**Having turned 1/4 less over steps 4-6**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 4-6 [Reverse Basic](reverse_basic.html); [Side Basic to R](side_basic.html); [Whisk to R](whisk.html); [RF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [RF Solo Spot Volta](solo_spot_volta.html); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.html); [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> 4-12 [Argentine Crosses](argentine_crosses.html); [Maypole turning R](maypole.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DC**</td> <td>**Having turned 1/8 less over steps 4-6**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 4-6 [Reverse Basic](reverse_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Maypole turning R](maypole.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 4-6 [Reverse Basic](reverse_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Corta Jaca](corta_jaca.html); [Closed Rocks](closed_rocks.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Maypole turning R](maypole.html); [Open Rocks](open_rocks.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Roll](natural_roll.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DW of New LOD**</td> <td>**Having turned 1/8 less over steps 4-6 at a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 4-6 [Reverse Basic](reverse_basic.html); [Progressive Basic](progressive_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Maypole turning R](maypole.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [Natural Roll](natural_roll.html); [Promenade &amp; Counter Promenade Runs](p_cp_runs.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td> </td> </tr> <tr> <td style="width: 30%">**Ended Facing Wall of New LOD**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 4-6 [Reverse Basic](reverse_basic.html); [Side Basic to R](side_basic.html); [Whisk to R](whisk.html); [RF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> 4-12 [Argentine Crosses](argentine_crosses.html); [Maypole turning R](maypole.html) </td> </tr> </tbody></table>
+ | **Ended Facing Centre** | **Having turned 1/4 less over steps 4-6** |
+|---|---|
+| PreBronze | [Natural Basic](natural_basic.md); 4-6 [Reverse Basic](reverse_basic.md); [Side Basic to R](side_basic.md); [Whisk to R](whisk.md); [RF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [RF Solo Spot Volta](solo_spot_volta.md); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.md); [Corta Jaca](corta_jaca.md) |
+| Silver | 4-12 [Argentine Crosses](argentine_crosses.md); [Maypole turning R](maypole.md) |
+|  |  |
+| **Ended Facing DC** | **Having turned 1/8 less over steps 4-6** |
+| PreBronze | [Natural Basic](natural_basic.md); 4-6 [Reverse Basic](reverse_basic.md) |
+| Bronze | [Corta Jaca](corta_jaca.md) |
+| Silver | [Maypole turning R](maypole.md) |
+|  |  |
+| **Ended Facing LOD** |  |
+| PreBronze | [Natural Basic](natural_basic.md); 4-6 [Reverse Basic](reverse_basic.md) |
+| Bronze | [Corta Jaca](corta_jaca.md); [Closed Rocks](closed_rocks.md) |
+| Silver | [Maypole turning R](maypole.md); [Open Rocks](open_rocks.md) |
+| Gold | [Natural Roll](natural_roll.md) |
+|  |  |
+| **Ended Facing DW of New LOD** | **Having turned 1/8 less over steps 4-6 at a corner** |
+| PreBronze | [Natural Basic](natural_basic.md); 4-6 [Reverse Basic](reverse_basic.md); [Progressive Basic](progressive_basic.md) |
+| Bronze | [Corta Jaca](corta_jaca.md) |
+| Silver | [Maypole turning R](maypole.md) |
+| Gold | [Natural Roll](natural_roll.md); [Promenade &amp; Counter Promenade Runs](p_cp_runs.md) |
+|  |  |
+| **Ended Facing Wall of New LOD** | **At a corner** |
+| PreBronze | [Natural Basic](natural_basic.md); 4-6 [Reverse Basic](reverse_basic.md); [Side Basic to R](side_basic.md); [Whisk to R](whisk.md); [RF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [Corta Jaca](corta_jaca.md) |
+| Silver | 4-12 [Argentine Crosses](argentine_crosses.md); [Maypole turning R](maypole.md) |
 
 ### Follows to Step 3 of This Figure
 
- <table> <tbody><tr> <td style="width: 30%">**Ended Backing Centre**</td> <td>**Having turned 1/4 less**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 4-6 [Natural Basic](natural_basic.html); [Side Basic to L](side_basic.html); [Whisk to L](whisk.html); [LF Stationary Samba Walk](stationary_samba_walks.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Bota Fogos to PP &amp; CPP](bf_pp_cpp.html); 8-14 [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Argentine Crosses](argentine_crosses.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width: 30%">**Ended Backing DC**</td> <td>**Having turned 1/8 less**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 4-6 [Natural Basic](natural_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> 8-14 [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [LF Back Rock](back_rocks.html); [LF Plait](plait.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width: 30%">**Ended Backing LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 4-6 [Natural Basic](natural_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> 8-14 [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [LF Plait](plait.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Backing Wall of New LOD**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 4-6 [Natural Basic](natural_basic.html); [Side Basic to L](side_basic.html); [Whisk to L](whisk.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> 8-14 [Corta Jaca](corta_jaca.html) </td> </tr> <tr> <td>Silver</td> <td> [Argentine Crosses](argentine_crosses.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width: 30%">**Ended Backing DW of New LOD**</td> <td>**Having turned 1/8 less at a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 4-6 [Natural Basic](natural_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> 8-14 [Corta Jaca](corta_jaca.html) </td> </tr> </tbody></table>
+ | **Ended Backing Centre** | **Having turned 1/4 less** |
+|---|---|
+| PreBronze | 4-6 [Natural Basic](natural_basic.md); [Side Basic to L](side_basic.md); [Whisk to L](whisk.md); [LF Stationary Samba Walk](stationary_samba_walks.md) |
+| Bronze | [Bota Fogos to PP &amp; CPP](bf_pp_cpp.md); 8-14 [Corta Jaca](corta_jaca.md) |
+| Silver | [Argentine Crosses](argentine_crosses.md) |
+|  |  |
+| **Ended Backing DC** | **Having turned 1/8 less** |
+| PreBronze | 4-6 [Natural Basic](natural_basic.md) |
+| Bronze | 8-14 [Corta Jaca](corta_jaca.md) |
+| Silver | [LF Back Rock](back_rocks.md); [LF Plait](plait.md) |
+|  |  |
+| **Ended Backing LOD** |  |
+| PreBronze | 4-6 [Natural Basic](natural_basic.md) |
+| Bronze | 8-14 [Corta Jaca](corta_jaca.md) |
+| Silver | [LF Plait](plait.md) |
+|  |  |
+| **Ended Backing Wall of New LOD** | **At a corner** |
+| PreBronze | 4-6 [Natural Basic](natural_basic.md); [Side Basic to L](side_basic.md); [Whisk to L](whisk.md) |
+| Bronze | 8-14 [Corta Jaca](corta_jaca.md) |
+| Silver | [Argentine Crosses](argentine_crosses.md) |
+|  |  |
+| **Ended Backing DW of New LOD** | **Having turned 1/8 less at a corner** |
+| PreBronze | 4-6 [Natural Basic](natural_basic.md) |
+| Bronze | 8-14 [Corta Jaca](corta_jaca.md) |

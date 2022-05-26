@@ -5,28 +5,132 @@
 
 Commence in Closed Position with Closed Hold, facing LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>Appel on RF</td> <td> </td> <td>Facing LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>LF fwd</td> <td> </td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>RF to side</td> <td>1/4 to R between 2-3</td> <td>Facing Centre</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>LF closes to RF</td> <td> </td> <td>Facing Centre</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | Appel on RF |  | Facing LOD | Under Body |
+| 2 | LF fwd |  | Facing LOD | LOD |
+| 3 | RF to side | 1/4 to R between 2-3 | Facing Centre | LOD |
+| 4 | LF closes to RF |  | Facing Centre | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**Shape**</td> <td style="width:20%;text-align:center">**Elevation**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">WF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Closed</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">B</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Shape** | **Elevation** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  | Medium | WF |
+| 2 | 2 | Closed |  | Medium | HF |
+| 3 | 3 | Closed | PP | Medium | B |
+| 4 | 4 | Closed | PP | Medium | B |
 
-1\) Step 1 may be danced as a [Slip Appel](../technique/p_appel.html)  
+1\) Step 1 may be danced as a [Slip Appel](../technique/p_appel.md)  
  2) Steps 3-4 may be danced BF
 
 ### Lady
 
 Commence in Closed Position with Closed Hold, backing LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>Appel on LF</td> <td> </td> <td>Backing LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>RF back</td> <td> </td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>LF to side</td> <td>1/4 to R between 2-3</td> <td>Backing Centre</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>RF closes to LF</td> <td> </td> <td>Backing Centre</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | Appel on LF |  | Backing LOD | Under Body |
+| 2 | RF back |  | Backing LOD | LOD |
+| 3 | LF to side | 1/4 to R between 2-3 | Backing Centre | LOD |
+| 4 | RF closes to LF |  | Backing Centre | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**Shape**</td> <td style="width:20%;text-align:center">**Elevation**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">WF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Closed</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">B</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Shape** | **Elevation** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  | Medium | WF |
+| 2 | 2 | Closed |  | Medium | BF |
+| 3 | 3 | Closed | PP | Medium | B |
+| 4 | 4 | Closed | PP | Medium | B |
 
-1\) Step 1 may be danced as a [Slip Appel](../technique/p_appel.html)  
+1\) Step 1 may be danced as a [Slip Appel](../technique/p_appel.md)  
  2) Steps 3-4 may be danced BF
 
 ### Precedes to this Figure
 
- <table> <tbody><tr> <td>**Commenced Facing Centre**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Promenade](promenade.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Sixteen](sixteen.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [La Passe](la_passe.html); [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 3 </td> </tr> <tr> <td>Gold</td> <td> [Fregolina](fregolina_farol.html); [Chasse Cape](chasse_cape.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Facing DC**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 3; [Left Foot Variation](left_foot_variation.html) </td> </tr> <tr> <td>Gold</td> <td> [Syncopated Separation](syncopated_separation.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing LOD**</td> <td></td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Promenade](promenade.html) (at a corner); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Sixteen](sixteen.html) (at a corner); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [La Passe](la_passe.html) (at a corner); [Banderillas](banderillas.html); [Twist Turn](twist_turn.html); [Fallaway Reverse Turn](fallaway_reverse.html); [Coup de Pique](coup_de_pique.html) method 1 or 3; [Left Foot Variation](left_foot_variation.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing DW**</td> <td></td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 3; [Left Foot Variation](left_foot_variation.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing Wall**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Twist Turn](twist_turn.html) (at a corner); [Coup de Pique](coup_de_pique.html) method 1 or 3 </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing DW against LOD**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 3 </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing against LOD**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [Coup de Pique](coup_de_pique.html) method 1 or 3 </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Commenced Facing DC against LOD**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 3 </td> </tr> </tbody></table>
+ | **Commenced Facing Centre** |  |
+|---|---|
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Promenade](promenade.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Sixteen](sixteen.md); [Grand Cricle](grand_circle.md) |
+| Silver | [La Passe](la_passe.md); [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 3 |
+| Gold | [Fregolina](fregolina_farol.md); [Chasse Cape](chasse_cape.md) |
+|  |  |
+| **Commenced Facing DC** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 3; [Left Foot Variation](left_foot_variation.md) |
+| Gold | [Syncopated Separation](syncopated_separation.md) |
+|  |  |
+| **Commenced Facing LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Promenade](promenade.md) (at a corner); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Sixteen](sixteen.md) (at a corner); [Grand Cricle](grand_circle.md) |
+| Silver | [La Passe](la_passe.md) (at a corner); [Banderillas](banderillas.md); [Twist Turn](twist_turn.md); [Fallaway Reverse Turn](fallaway_reverse.md); [Coup de Pique](coup_de_pique.md) method 1 or 3; [Left Foot Variation](left_foot_variation.md) |
+|  |  |
+| **Commenced Facing DW** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 3; [Left Foot Variation](left_foot_variation.md) |
+|  |  |
+| **Commenced Facing Wall** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Banderillas](banderillas.md); [Twist Turn](twist_turn.md) (at a corner); [Coup de Pique](coup_de_pique.md) method 1 or 3 |
+|  |  |
+| **Commenced Facing DW against LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 3 |
+|  |  |
+| **Commenced Facing against LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Coup de Pique](coup_de_pique.md) method 1 or 3 |
+|  |  |
+| **Commenced Facing DC against LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 3 |
 
 ### Follows to this Figure
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing Centre**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html); [Open Telemark](open_telemark.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Fallaway Reverse Turn](fallaway_reverse.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td>Gold</td> <td> [Chasse Cape](chasse_cape.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DC**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html); [Open Telemark](open_telemark.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Fallaway Reverse Turn](fallaway_reverse.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td>Gold</td> <td> [Chasse Cape](chasse_cape.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing LOD**</td> <td></td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html); [Open Telemark](open_telemark.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Fallaway Reverse Turn](fallaway_reverse.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td>Gold</td> <td> [Syncopated Separation](syncopated_separation.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html); [Open Telemark](open_telemark.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Fallaway Reverse Turn](fallaway_reverse.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing Wall**</td> <td></td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to L](chasse_to_right.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Promenade](promenade.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html); [Sixteen](sixteen.html); [Promenade &amp; Counter Promenade](promenade_counter.html); [Open Telemark](open_telemark.html) </td> </tr> <tr> <td>Silver</td> <td> [La Passe](la_passe.html); [Banderillas](banderillas.html); [Twist Turn](twist_turn.html); [Fallaway Reverse Turn](fallaway_reverse.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td>Gold</td> <td> [Travelling Spins from PP](spins_promenade.html); [Travelling Spins from CPP](spins_counter_promenade.html); [Fregolina](fregolina_farol.html); [Twists](twists.html) </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DW against LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing against LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DC against LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Ecart](ecart.html); [Separation](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Attack](attack.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> </tbody></table>
+ | **Ended Facing Centre** |  |
+|---|---|
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md); [Open Telemark](open_telemark.md) |
+| Silver | [Banderillas](banderillas.md); [Fallaway Reverse Turn](fallaway_reverse.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+| Gold | [Chasse Cape](chasse_cape.md) |
+|  |  |
+| **Ended Facing DC** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md); [Open Telemark](open_telemark.md) |
+| Silver | [Banderillas](banderillas.md); [Fallaway Reverse Turn](fallaway_reverse.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+| Gold | [Chasse Cape](chasse_cape.md) |
+|  |  |
+| **Ended Facing LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md); [Open Telemark](open_telemark.md) |
+| Silver | [Banderillas](banderillas.md); [Fallaway Reverse Turn](fallaway_reverse.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+| Gold | [Syncopated Separation](syncopated_separation.md) |
+|  |  |
+| **Ended Facing DW** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md); [Open Telemark](open_telemark.md) |
+| Silver | [Banderillas](banderillas.md); [Fallaway Reverse Turn](fallaway_reverse.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+|  |  |
+| **Ended Facing Wall** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to L](chasse_to_right.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Promenade](promenade.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md); [Sixteen](sixteen.md); [Promenade &amp; Counter Promenade](promenade_counter.md); [Open Telemark](open_telemark.md) |
+| Silver | [La Passe](la_passe.md); [Banderillas](banderillas.md); [Twist Turn](twist_turn.md); [Fallaway Reverse Turn](fallaway_reverse.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+| Gold | [Travelling Spins from PP](spins_promenade.md); [Travelling Spins from CPP](spins_counter_promenade.md); [Fregolina](fregolina_farol.md); [Twists](twists.md) |
+|  |  |
+| **Ended Facing DW against LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md) |
+| Silver | [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+|  |  |
+| **Ended Facing against LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md) |
+| Silver | [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+|  |  |
+| **Ended Facing DC against LOD** |  |
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Ecart](ecart.md); [Separation](separation.md) |
+| Bronze | [Attack](attack.md) |
+| Silver | [Banderillas](banderillas.md); [Coup de Pique](coup_de_pique.md) method 1 or 2 |

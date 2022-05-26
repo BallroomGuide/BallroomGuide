@@ -5,26 +5,104 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td> </td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to RF</td> <td> </td> </tr> <tr> <td>3</td> <td>LF fwd, part weight</td> <td> </td> <td rowspan="3">Fwd Chasse</td> </tr> <tr> <td>4</td> <td>RF closes halfway to LF</td> <td> </td> </tr> <tr> <td>5</td> <td>LF diag fwd</td> <td>1/8 to R over 3-5</td> </tr> <tr> <td>6</td> <td>RF fwd, part weight</td> <td> </td> <td rowspan="3">Fwd Chasse</td> </tr> <tr> <td>7</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>8</td> <td>RF fwd</td> <td>1/4 to R over 6-8</td> </tr> <tr> <td>9</td> <td>LF back</td> <td> </td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>10</td> <td>Replace weight to RF</td> <td> </td> </tr> <tr> <td>11</td> <td>LF fwd, part weight</td> <td> </td> <td rowspan="3">Fwd Chasse</td> </tr> <tr> <td>12</td> <td>RF closes halfway to LF</td> <td> </td> </tr> <tr> <td>13</td> <td>LF diag fwd</td> <td>1/8 to R over 11-13</td> </tr> <tr> <td>14</td> <td>RF fwd, small step, part weight</td> <td> </td> <td rowspan="3">Compact Chasse</td> </tr> <tr> <td>15</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>16</td> <td>RF fwd, small step</td> <td>1/4 to R over 12-14</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | LF back |  | Rock Step |
+| 2 | Replace weight to RF |  |
+| 3 | LF fwd, part weight |  | Fwd Chasse |
+| 4 | RF closes halfway to LF |  |
+| 5 | LF diag fwd | 1/8 to R over 3-5 |
+| 6 | RF fwd, part weight |  | Fwd Chasse |
+| 7 | LF closes halfway to RF |  |
+| 8 | RF fwd | 1/4 to R over 6-8 |
+| 9 | LF back |  | Rock Step |
+| 10 | Replace weight to RF |  |
+| 11 | LF fwd, part weight |  | Fwd Chasse |
+| 12 | RF closes halfway to LF |  |
+| 13 | LF diag fwd | 1/8 to R over 11-13 |
+| 14 | RF fwd, small step, part weight |  | Compact Chasse |
+| 15 | LF closes halfway to RF |  |
+| 16 | RF fwd, small step | 1/4 to R over 12-14 |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>7</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">End in Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>9</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>10</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>11</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>12</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>13</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">BF</td> </tr> <tr> <td>14</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>15</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>16</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">End in Open</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Open | BF |
+| 2 | 2 | Q | Open | BF |
+| 3 | 3 | Q | Tandem | B |
+| 4 | a | a | Tandem | B |
+| 5 | 4 | Q |  | BF |
+| 6 | 1 | Q |  | B |
+| 7 | a | a |  | B |
+| 8 | 2 | Q | End in Open | BF |
+| 9 | 3 | Q | Open | BF |
+| 10 | 4 | Q | Open | BF |
+| 11 | 1 | Q | Tandem | B |
+| 12 | a | a | Tandem | B |
+| 13 | 2 | Q |  | BF |
+| 14 | 3 | Q |  | B |
+| 15 | a | a |  | B |
+| 16 | 4 | Q | End in Open | BF |
 
 1\) Steps 1-8 or 9-16 may be omitted  
- 2) Steps 1-2 or 9-10 may be replaced by a [Kick Ball Change](../technique/j_kick_ball_change.html), [Point Ball Change](../technique/j_point_ball_change.html), or [Hesitation Ball Change](../technique/j_hesitation_ball_change.html)
+ 2) Steps 1-2 or 9-10 may be replaced by a [Kick Ball Change](../technique/j_kick_ball_change.md), [Point Ball Change](../technique/j_point_ball_change.md), or [Hesitation Ball Change](../technique/j_hesitation_ball_change.md)
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td> </td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to LF</td> <td> </td> </tr> <tr> <td>3</td> <td>RF fwd, part weight</td> <td>3/8 to L</td> <td rowspan="3">Fwd Chasse, turned to L then to R</td> </tr> <tr> <td>4</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>5</td> <td>RF diag back</td> <td>3/8 to R</td> </tr> <tr> <td>6</td> <td>LF diag back, part weight</td> <td> </td> <td rowspan="3">Bwd Chasse</td> </tr> <tr> <td>7</td> <td>RF closes halfway to LF</td> <td> </td> </tr> <tr> <td>8</td> <td>LF back</td> <td>3/8 to R over 6-8</td> </tr> <tr> <td>9</td> <td>RF back</td> <td> </td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>10</td> <td>Replace weight to LF</td> <td> </td> </tr> <tr> <td>11</td> <td>RF fwd, part weight</td> <td>3/8 to L</td> <td rowspan="3">Fwd Chasse, turned to L then to R</td> </tr> <tr> <td>12</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>13</td> <td>RF diag back</td> <td>3/4 to R</td> </tr> <tr> <td>14</td> <td>LF to side &amp; slightly back</td> <td> </td> <td rowspan="3">Three Step Turn in place</td> </tr> <tr> <td>15</td> <td>Replace weight to RF</td> <td> </td> </tr> <tr> <td>16</td> <td>LF to side &amp; slightly back</td> <td>1 turn to R over 14-16</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | RF back |  | Rock Step |
+| 2 | Replace weight to LF |  |
+| 3 | RF fwd, part weight | 3/8 to L | Fwd Chasse, turned to L then to R |
+| 4 | LF closes halfway to RF |  |
+| 5 | RF diag back | 3/8 to R |
+| 6 | LF diag back, part weight |  | Bwd Chasse |
+| 7 | RF closes halfway to LF |  |
+| 8 | LF back | 3/8 to R over 6-8 |
+| 9 | RF back |  | Rock Step |
+| 10 | Replace weight to LF |  |
+| 11 | RF fwd, part weight | 3/8 to L | Fwd Chasse, turned to L then to R |
+| 12 | LF closes halfway to RF |  |
+| 13 | RF diag back | 3/4 to R |
+| 14 | LF to side &amp; slightly back |  | Three Step Turn in place |
+| 15 | Replace weight to RF |  |
+| 16 | LF to side &amp; slightly back | 1 turn to R over 14-16 |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>7</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">End in Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>9</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>10</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>11</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>12</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>13</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">BF</td> </tr> <tr> <td>14</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>15</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>16</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">End in Open</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Open | BF |
+| 2 | 2 | Q | Open | BF |
+| 3 | 3 | Q | Tandem | B |
+| 4 | a | a | Tandem | B |
+| 5 | 4 | Q |  | BF |
+| 6 | 1 | Q |  | B |
+| 7 | a | a |  | B |
+| 8 | 2 | Q | End in Open | BF |
+| 9 | 3 | Q | Open | BF |
+| 10 | 4 | Q | Open | BF |
+| 11 | 1 | Q | Tandem | B |
+| 12 | a | a | Tandem | B |
+| 13 | 2 | Q |  | BF |
+| 14 | 3 | Q |  | B |
+| 15 | a | a |  | B |
+| 16 | 4 | Q | End in Open | BF |
 
 1\) Steps 1-8 or 9-16 may be omitted  
- 2) Steps 1-2 or 9-10 may be replaced by a [Kick Ball Change](../technique/j_kick_ball_change.html), [Point Ball Change](../technique/j_point_ball_change.html), or [Hesitation Ball Change](../technique/j_hesitation_ball_change.html)
+ 2) Steps 1-2 or 9-10 may be replaced by a [Kick Ball Change](../technique/j_kick_ball_change.md), [Point Ball Change](../technique/j_point_ball_change.md), or [Hesitation Ball Change](../technique/j_hesitation_ball_change.md)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Fallaway Throwaway](fallaway_throwaway.html); [Change of Places R to L](change_RL.html); [Change of Places L to Right](change_LR.html); [Change of Hands Behind the Back](behind_back.html); [Hip Bump](hip_bump.html) </td> </tr> <tr> <td>Bronze</td> <td> [American Spin](american_spin.html); [Stop and Go](stop_go.html); [Throwaway Whip](whip_throwaway.html) </td> </tr> <tr> <td>Silver</td> <td> [Windmill](windmill.html); [Spanish Arms](spanish_arms.html); [Rolling off the Arm](rolling_off_arm.html); [Simple Spin](simple_spin.html); [Miami Special](miami_special.html) </td> </tr> <tr> <td>Gold</td> <td> [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.html); [Overturned Change of Places L to R](overturned_change_of_places_left_right.html); [Shoulder Spin](shoulder_spin.html); [Chugging](chugging.html); [Catapult](catapult.html) </td> </tr> </tbody></table>
+ | **Commenced in Open Position** |  |
+|---|---|
+| PreBronze | [Fallaway Throwaway](fallaway_throwaway.md); [Change of Places R to L](change_RL.md); [Change of Places L to Right](change_LR.md); [Change of Hands Behind the Back](behind_back.md); [Hip Bump](hip_bump.md) |
+| Bronze | [American Spin](american_spin.md); [Stop and Go](stop_go.md); [Throwaway Whip](whip_throwaway.md) |
+| Silver | [Windmill](windmill.md); [Spanish Arms](spanish_arms.md); [Rolling off the Arm](rolling_off_arm.md); [Simple Spin](simple_spin.md); [Miami Special](miami_special.md) |
+| Gold | [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.md); [Overturned Change of Places L to R](overturned_change_of_places_left_right.md); [Shoulder Spin](shoulder_spin.md); [Chugging](chugging.md); [Catapult](catapult.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Open Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Link](link.html); [Change of Places L to R](change_LR.html); [Change of Hands Behind the Back](behind_back.html); [Hip Bump](hip_bump.html) </td> </tr> <tr> <td>Bronze</td> <td> [American Spin](american_spin.html); [Whip](whip.html); [Throwaway Whip](whip_throwaway.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Whip](reverse_whip.html); [Windmill](windmill.html); [Spanish Arms](spanish_arms.html); [Rolling off the Arm](rolling_off_arm.html); [Simple Spin](simple_spin.html); [Miami Special](miami_special.html) </td> </tr> <tr> <td>Gold</td> <td> [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.html); [Overturned Change of Places L to R](overturned_change_of_places_left_right.html); [Curly Whip](curly_whip.html); [Shoulder Spin](shoulder_spin.html); [Toe Heel Swivels](toe_heel.html); [Chugging](chugging.html); [Stalking Walks](stalking_walks.html) </td> </tr> </tbody></table>
+ | **Ended in Open Position** |  |
+|---|---|
+| PreBronze | [Link](link.md); [Change of Places L to R](change_LR.md); [Change of Hands Behind the Back](behind_back.md); [Hip Bump](hip_bump.md) |
+| Bronze | [American Spin](american_spin.md); [Whip](whip.md); [Throwaway Whip](whip_throwaway.md) |
+| Silver | [Reverse Whip](reverse_whip.md); [Windmill](windmill.md); [Spanish Arms](spanish_arms.md); [Rolling off the Arm](rolling_off_arm.md); [Simple Spin](simple_spin.md); [Miami Special](miami_special.md) |
+| Gold | [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.md); [Overturned Change of Places L to R](overturned_change_of_places_left_right.md); [Curly Whip](curly_whip.md); [Shoulder Spin](shoulder_spin.md); [Toe Heel Swivels](toe_heel.md); [Chugging](chugging.md); [Stalking Walks](stalking_walks.md) |

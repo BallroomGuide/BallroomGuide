@@ -1,4 +1,4 @@
-### [ Back to the Technique Page](../technique.html)
+### [ Back to the Technique Page](../technique.md)
 
  <header>Guapacha Timing (Silver)
 ------------------------

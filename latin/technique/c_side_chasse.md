@@ -1,9 +1,14 @@
-### [ Back to the Technique Page](../technique.html)
+### [ Back to the Technique Page](../technique.md)
 
  <header>Side Chasse (PreBronze)
 -----------------------
 
- </header> <table class="style1"> <tbody><tr> <td style="width:15%"></td> <td style="width:70%"></td> <td style="width:15%">Count</td> </tr> <tr> <td>1</td> <td>LF to side, small step. Knee commences to straighten</td> <td>4</td> </tr> <tr> <td>2</td> <td>Move RF toward LF (or close RF to LF). Knee slightly relaxed</td> <td>&amp;</td> </tr> <tr> <td>3</td> <td>LF to side. Knees straight, hips to left</td> <td>1</td> </tr> <tr> <td>**Footwork**</td> <td>Ball flat on each step</td> <td></td> </tr> </tbody></table>
+ </header> |  |  | Count |
+|---|---|---|
+| 1 | LF to side, small step. Knee commences to straighten | 4 |
+| 2 | Move RF toward LF (or close RF to LF). Knee slightly relaxed | &amp; |
+| 3 | LF to side. Knees straight, hips to left | 1 |
+| **Footwork** | Ball flat on each step |  |
 
 A Chasse to right would be the normal opposite, starting with RF
 
@@ -13,7 +18,7 @@ The 4th beat in each bar of music is divided into two equal parts, each part usi
    
  In its basic form, this chasse is a group of three steps taken in any forward, backward, or sideways direction, with the second step moving toward (or to) the other foot  
    
- Steps 1 and 2 of all Chasses have equal weight distribution (Exception: [Twist Chasse](c_twist_chasse.html))  
+ Steps 1 and 2 of all Chasses have equal weight distribution (Exception: [Twist Chasse](c_twist_chasse.md))  
    
  The chasse may also be danced in place or without turn  
    

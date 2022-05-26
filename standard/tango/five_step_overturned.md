@@ -5,22 +5,68 @@
 
 Commence in Closed Position, facing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd in CBMP</td> <td>Com to turn L</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>RF to side &amp; slightly back</td> <td>3/8 between 1-2</td> <td>Backing LOD</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>LF back in CBMP</td> <td>1/8 between 2-3</td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>4</td> <td>RF back &amp; slightly rightward</td> <td> </td> <td>Backing DC</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>5</td> <td>Place LF to side in PP without weight</td> <td>1/4 between 3-4, body turns less</td> <td>Facing DW</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd in CBMP | Com to turn L | Facing DC | DC |
+| 2 | RF to side &amp; slightly back | 3/8 between 1-2 | Backing LOD | DC |
+| 3 | LF back in CBMP | 1/8 between 2-3 | Backing DC | DC |
+| 4 | RF back &amp; slightly rightward |  | Backing DC | Centre |
+| 5 | Place LF to side in PP without weight | 1/4 between 3-4, body turns less | Facing DW |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">HF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BH</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td style="text-align:right">BH</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BH</td> </tr> <tr> <td>5</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:right">i/e of B</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Closed | HF |
+| 2 | 2 | Q | Closed | BH |
+| 3 | 3 | Q | OP | BH |
+| 4 | 4 | Q | Closed | BH |
+| 5 | 56 | S | PP | i/e of B |
 
 ### Lady
 
 Commence in Closed Position, backing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF back in CBMP</td> <td>Com to turn L</td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>LF to side &amp; slightly fwd</td> <td>3/8 between 1-2</td> <td>Facing LOD</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>RF fwd in CBMP</td> <td>1/8 between 2-3</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>4</td> <td>LF fwd &amp; slightly leftward</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>5</td> <td>Place RF to side in PP without weight</td> <td>Body turn to L</td> <td>Facing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF back in CBMP | Com to turn L | Backing DC | DC |
+| 2 | LF to side &amp; slightly fwd | 3/8 between 1-2 | Facing LOD | DC |
+| 3 | RF fwd in CBMP | 1/8 between 2-3 | Facing DC | DC |
+| 4 | LF fwd &amp; slightly leftward |  | Facing DC | Centre |
+| 5 | Place RF to side in PP without weight | Body turn to L | Facing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BH</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">WF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td style="text-align:right">HB</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BH</td> </tr> <tr> <td>5</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td style="text-align:right">i/e of B</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Closed | BH |
+| 2 | 2 | Q | Closed | WF |
+| 3 | 3 | Q | OP | HB |
+| 4 | 4 | Q | Closed | BH |
+| 5 | 56 | S | PP | i/e of B |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td>**Commenced Facing DC**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%; height: 23px;">PreBronze</td> <td style="height: 23px"> [RF Walk](walk_RF.html); [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td>Bronze</td> <td> [Open Promenade](open_promenade.html) </td> </tr> <tr> <td>Silver</td> <td> [Promenade Link](promenade_link.html); [Outside Swivel](outside_swivel.html); [Brush Tap](brush_tap.html) </td> </tr> <tr> <td>Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [RF Walk](walk_RF.html); [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Outside Swivel](outside_swivel.html); [Brush Tap](brush_tap.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html) </td> </tr> </tbody></table>
+ | **Commenced Facing DC** | **As described in the charts above** |
+|---|---|
+| PreBronze | [RF Walk](walk_RF.md); [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md) |
+| Silver | [Promenade Link](promenade_link.md); [Outside Swivel](outside_swivel.md); [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md) |
+|  |  |
+| **Commenced Facing LOD** |  |
+| PreBronze | [RF Walk](walk_RF.md); [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md) |
+| Silver | [Promenade Link](promenade_link.md); [Outside Swivel](outside_swivel.md); [Brush Tap](brush_tap.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Ready to Move LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Ready to Move DW**</td> <td>**If commenced Facing DC, then omit turn between steps 2-3**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Closed Promenade](closed_promenade.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Open Promenade](open_promenade.html); [Natural Twist Turn](twist_turn.html); [Natural Promenade Turn](promenade_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Promenade Link](promenade_link.html); [Back Open Promenade](back_open_promenade.html); [Fallaway Promenade](fallaway_promenade.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [The Chase](chase.html) </td> </tr> </tbody></table>
+ | **Ended Ready to Move LOD** |  |
+|---|---|
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |
+|  |  |
+| **Ended Ready to Move DW** | **If commenced Facing DC, then omit turn between steps 2-3** |
+| PreBronze | [Closed Promenade](closed_promenade.md) |
+| Bronze | [Open Promenade](open_promenade.md); [Natural Twist Turn](twist_turn.md); [Natural Promenade Turn](promenade_turn.md) |
+| Silver | [Promenade Link](promenade_link.md); [Back Open Promenade](back_open_promenade.md); [Fallaway Promenade](fallaway_promenade.md) |
+| Gold | [The Chase](chase.md) |

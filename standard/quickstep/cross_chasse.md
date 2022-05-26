@@ -5,9 +5,17 @@
 
 Commence in Closed Position, facing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF to side</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW against LOD</td> </tr> <tr> <td>3</td> <td>LF closes to RF</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd |  | Facing DW | DW |
+| 2 | RF to side |  | Facing DW | DW against LOD |
+| 3 | LF closes to RF |  | Facing DW | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Rise e/o 1</td> <td style="text-align:center"> </td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center">L</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center">L</td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed | Rise e/o 1 |  | HT |
+| 2 | 3 | Q | Closed | Up | L | T |
+| 3 | 4 | Q | Closed | Up. Lower e/o 3 | L | TH |
 
 **The following step will be taken forward in CBMP, OP**
 
@@ -15,16 +23,65 @@ Commence in Closed Position, facing DW
 
 Commence in Closed Position, backing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF to side</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">DW against LOD</td> </tr> <tr> <td>3</td> <td>LF closes to RF</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd |  | Backing DW | DW |
+| 2 | RF to side |  | Backing DW | DW against LOD |
+| 3 | LF closes to RF |  | Backing DW | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Rise e/o 1</td> <td style="text-align:center"> </td> <td style="text-align:right">TH</td> </tr> <tr> <td>2 </td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center">R</td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed | Rise e/o 1 |  | TH |
+| 2 | 3 | Q | Closed | Up | R | T |
+| 3 | 4 | Q | Closed | Up. Lower e/o 3 | R | TH |
 
 **The following step will be taken back in CBMP with the Man OP**
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DC**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn with Hesitation](hesitation.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Reverse Pivot](reverse_pivot.html); [Double Reverse Spin](double_reverse.html); [Change of Direction](change_direction.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to R](tipsy_to_R.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Facing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn with Hesitation](hesitation.html) (at a corner) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Reverse Pivot](reverse_pivot.html); [Double Reverse Spin](double_reverse.html); [Change of Direction](change_direction.html) (at a corner) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to R](tipsy_to_R.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Facing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn with Hesitation](hesitation.html) (at a corner) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Reverse Pivot](reverse_pivot.html); [Double Reverse Spin](double_reverse.html); [Change of Direction](change_direction.html) (at a corner) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to R](tipsy_to_R.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Preceding Step 2**</td> <td>**Facing DC**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn](natural_turn.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Preceding Step 2**</td> <td>**Facing LOD**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn](natural_turn.html) (at a corner) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Preceding Step 2**</td> <td>**Facing DW**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn](natural_turn.html) (at a corner) </td> </tr> </tbody></table>
+ | **Commenced Facing DC** |  |
+|---|---|
+| PreBronze | [Natural Turn with Hesitation](hesitation.md) |
+| Bronze | [Reverse Pivot](reverse_pivot.md); [Double Reverse Spin](double_reverse.md); [Change of Direction](change_direction.md) |
+| Gold | [Tipsy to R](tipsy_to_R.md) |
+|  |  |
+| **Commenced Facing LOD** |  |
+| PreBronze | [Natural Turn with Hesitation](hesitation.md) (at a corner) |
+| Bronze | [Reverse Pivot](reverse_pivot.md); [Double Reverse Spin](double_reverse.md); [Change of Direction](change_direction.md) (at a corner) |
+| Gold | [Tipsy to R](tipsy_to_R.md) |
+|  |  |
+| **Commenced Facing DW** | **As described in the charts above** |
+| PreBronze | [Natural Turn with Hesitation](hesitation.md) (at a corner) |
+| Bronze | [Reverse Pivot](reverse_pivot.md); [Double Reverse Spin](double_reverse.md); [Change of Direction](change_direction.md) (at a corner) |
+| Gold | [Tipsy to R](tipsy_to_R.md) |
+|  |  |
+| **Preceding Step 2** | **Facing DC** |
+| PreBronze | [Natural Turn](natural_turn.md) |
+|  |  |
+| **Preceding Step 2** | **Facing LOD** |
+| PreBronze | [Natural Turn](natural_turn.md) (at a corner) |
+|  |  |
+| **Preceding Step 2** | **Facing DW** |
+| PreBronze | [Natural Turn](natural_turn.md) (at a corner) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td>**Ended Facing DC**</td> <td> </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Forward Lock](forward_lock.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Quick Open Reverse](quick_open_reverse.html); [Fishtail](fishtail.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td>**Ended Facing LOD**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Quarter Turn to the R](quarter_turn.html); [Natural Turn](natural_turn.html); [Natural Pivot Turn](pivot_turn.html); [Forward Lock](forward_lock.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Fishtail](fishtail.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to L](tipsy_to_L.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**Along the Side of the Room**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Quarter Turn to R](quarter_turn.html); [Natural Turn](natural_turn.html); [Natural Turn with Hesitation](hesitation.html); [Natural Pivot Turn](pivot_turn.html); [Natural Spin Turn](spin_turn.html); [Forward Lock](forward_lock.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Fishtail](fishtail.html); [Running Right Turn](running_right_turn.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to L](tipsy_to_L.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**At a Corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn](natural_turn.html); [Natural Turn with Hesitation](hesitation.html); [Natural Pivot Turn](pivot_turn.html); [Natural Spin Turn](spin_turn.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Fishtail](fishtail.html); [Running Right Turn](running_right_turn.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Tipsy to L](tipsy_to_L.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** |  |
+|---|---|
+| Bronze | [Forward Lock](forward_lock.md) |
+| Silver | [Quick Open Reverse](quick_open_reverse.md); [Fishtail](fishtail.md) |
+|  |  |
+| **Ended Facing LOD** |  |
+| PreBronze | [Quarter Turn to the R](quarter_turn.md); [Natural Turn](natural_turn.md); [Natural Pivot Turn](pivot_turn.md); [Forward Lock](forward_lock.md) |
+| Silver | [Fishtail](fishtail.md) |
+| Gold | [Tipsy to L](tipsy_to_L.md) |
+|  |  |
+| **Ended Facing DW** | **Along the Side of the Room** |
+| PreBronze | [Quarter Turn to R](quarter_turn.md); [Natural Turn](natural_turn.md); [Natural Turn with Hesitation](hesitation.md); [Natural Pivot Turn](pivot_turn.md); [Natural Spin Turn](spin_turn.md); [Forward Lock](forward_lock.md) |
+| Silver | [Fishtail](fishtail.md); [Running Right Turn](running_right_turn.md) |
+| Gold | [Tipsy to L](tipsy_to_L.md) |
+|  |  |
+| **Ended Facing DW** | **At a Corner** |
+| PreBronze | [Natural Turn](natural_turn.md); [Natural Turn with Hesitation](hesitation.md); [Natural Pivot Turn](pivot_turn.md); [Natural Spin Turn](spin_turn.md) |
+| Silver | [Fishtail](fishtail.md); [Running Right Turn](running_right_turn.md) |
+| Gold | [Tipsy to L](tipsy_to_L.md) |

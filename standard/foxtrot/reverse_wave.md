@@ -5,9 +5,29 @@
 
 Commence in Closed Position, facing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td>Com to turn L</td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF to side</td> <td>3/8 between 1-2</td> <td>Backing Wall</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>LF back</td> <td>1/8 between 2-3</td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>4</td> <td>RF back</td> <td>1/8 between 3-4</td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>5</td> <td>LF back</td> <td> </td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>RF back</td> <td> </td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>LF back</td> <td>Com to turn R</td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>8</td> <td>RF to side, small step (Heel Pull)</td> <td>3/8 between 4-5</td> <td>Facing DC</td> <td style="text-align:center">DW</td> </tr> <tr> <td>9</td> <td>LF fwd</td> <td>Body turn to L</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd | Com to turn L | Facing DW | DW |
+| 2 | RF to side | 3/8 between 1-2 | Backing Wall | DW |
+| 3 | LF back | 1/8 between 2-3 | Backing DW | DW |
+| 4 | RF back | 1/8 between 3-4 | Backing LOD | LOD |
+| 5 | LF back |  | Backing LOD | LOD |
+| 6 | RF back |  | Backing LOD | LOD |
+| 7 | LF back | Com to turn R | Backing LOD | LOD |
+| 8 | RF to side, small step (Heel Pull) | 3/8 between 4-5 | Facing DC | DW |
+| 9 | LF fwd | Body turn to L | Facing DC | DC |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Rise e/o 1</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center">L</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center">L</td> <td style="text-align:right">TH</td> </tr> <tr> <td>4</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>5</td> <td style="text-align:center">7</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Rise e/o 5</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>6</td> <td style="text-align:center">8</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 6</td> <td style="text-align:center">R</td> <td style="text-align:right">TH</td> </tr> <tr> <td>7</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>8</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center">L</td> <td style="text-align:right">H to i/e of foot to Flat</td> </tr> <tr> <td>9</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed | Rise e/o 1 |  | HT |
+| 2 | 3 | Q | Closed | Up | L | T |
+| 3 | 4 | Q | Closed | Up. Lower e/o 3 | L | TH |
+| 4 | 56 | S | Closed |  |  | TH |
+| 5 | 7 | Q | Closed | Rise e/o 5 | R | T |
+| 6 | 8 | Q | Closed | Up. Lower e/o 6 | R | TH |
+| 7 | 12 | S | Closed |  |  | TH |
+| 8 | 34 | S | Closed |  | L | H to i/e of foot to Flat |
+| 9 | 56 | S | Closed |  |  | HT |
 
 1\) May be commenced facing LOD and turned 1/8 less between 1-2 to end at the normal alignment  
  2) The amount of turn between 7-8 may be decreased at a corner (c.f. following figures, below)  
@@ -17,9 +37,29 @@ Commence in Closed Position, facing DW
 
 Commence in Closed Position, backing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td>Com to turn L</td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>LF closes to RF (Heel Turn)</td> <td>1/2 between 1-2, body turns less</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>3</td> <td>RF fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>4</td> <td>LF fwd</td> <td>1/8 between 3-4</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>5</td> <td>RF fwd</td> <td> </td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>LF fwd</td> <td> </td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>RF fwd</td> <td>Com to turn R</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>8</td> <td>LF to side, then brush RF to LF</td> <td>3/8 between 4-5</td> <td>Backing DC</td> <td style="text-align:center">DW</td> </tr> <tr> <td>9</td> <td>RF back</td> <td>Body turn to L</td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF back | Com to turn L | Backing DW | DW |
+| 2 | LF closes to RF (Heel Turn) | 1/2 between 1-2, body turns less | Facing DW | Under Body |
+| 3 | RF fwd |  | Facing DW | DW |
+| 4 | LF fwd | 1/8 between 3-4 | Facing LOD | LOD |
+| 5 | RF fwd |  | Facing LOD | LOD |
+| 6 | LF fwd |  | Facing LOD | LOD |
+| 7 | RF fwd | Com to turn R | Facing LOD | LOD |
+| 8 | LF to side, then brush RF to LF | 3/8 between 4-5 | Backing DC | DW |
+| 9 | RF back | Body turn to L | Backing DC | DC |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Rise slightly e/o 1, NFR</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>2</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Cont to rise on 2</td> <td style="text-align:center">R</td> <td style="text-align:right">HT</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center">R</td> <td style="text-align:right">TH</td> </tr> <tr> <td>4</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>5</td> <td style="text-align:center">7</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Rise e/o 5</td> <td style="text-align:center">L</td> <td style="text-align:right">HT</td> </tr> <tr> <td>6</td> <td style="text-align:center">8</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 6</td> <td style="text-align:center">L</td> <td style="text-align:right">TH</td> </tr> <tr> <td>7</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>8</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center">R</td> <td style="text-align:right">TH</td> </tr> <tr> <td>9</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed | Rise slightly e/o 1, NFR |  | TH |
+| 2 | 3 | Q | Closed | Cont to rise on 2 | R | HT |
+| 3 | 4 | Q | Closed | Up. Lower e/o 3 | R | TH |
+| 4 | 56 | S | Closed |  |  | HT |
+| 5 | 7 | Q | Closed | Rise e/o 5 | L | HT |
+| 6 | 8 | Q | Closed | Up. Lower e/o 6 | L | TH |
+| 7 | 12 | S | Closed |  |  | HT |
+| 8 | 34 | S | Closed |  | R | TH |
+| 9 | 56 | S | Closed |  |  | TH |
 
 1\) May be commenced facing LOD and turned 1/8 less between 1-2 to end at the normal alignment  
  2) The amount of turn between 7-8 may be decreased at a corner (c.f. following figures, below)  
@@ -27,8 +67,37 @@ Commence in Closed Position, backing DW
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td>**Commenced Facing LOD**</td> <td>**Turning 1/8 less between steps 1-2**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Feather Step](feather_step.html); [Closed Impetus &amp; Feather Finish](closed_impetus.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Top Spin](top_spin.html) (at a corner); [Hover Feather](hover_feather.html); [Natural Telemark](natural_telemark.html) (at a corner) </td> </tr> <tr> <td> </td> <td> [Natural Twist Turn](twist_turn.html) (at a corner); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.html) (at a corner); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.html); [Natural Zig-Zag from PP](zig_zag.html); [Natural Hover Telemark](natural_hover_telemark.html) (at a corner) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Feather Step](feather_step.html); [Reverse Turn &amp; Feather Finish](reverse_turn.html); [Closed Impetus &amp; Feather Finish](closed_impetus.html) (at a corner) </td> </tr> <tr> <td>Bronze</td> <td> [Natural Weave](natural_weave.html); [Basic Weave](basic_weave.html) </td> </tr> <tr> <td>Silver</td> <td> [Feather Ending](feather_ending.html); [Top Spin](top_spin.html); [Hover Feather](hover_feather.html) (at a corner); [Natural Telemark](natural_telemark.html) (at a corner); [Weave from PP](weave_from_pp.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Twist Turn](twist_turn.html) (at a corner); [Natural Twist Turn with Weave Ending](twist_turn_weave.html); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.html); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.html); [Natural Zig-Zag from PP](zig_zag.html); [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html); [Natural Hover Telemark](natural_hover_telemark.html) (at a corner); [Bounce Fallaway with Weave Ending](bounce_fallaway.html) </td> </tr> </tbody></table>
+ | **Commenced Facing LOD** | **Turning 1/8 less between steps 1-2** |
+|---|---|
+| PreBronze | [Feather Step](feather_step.md); [Closed Impetus &amp; Feather Finish](closed_impetus.md) (at a corner) |
+| Silver | [Feather Ending](feather_ending.md); [Top Spin](top_spin.md) (at a corner); [Hover Feather](hover_feather.md); [Natural Telemark](natural_telemark.md) (at a corner) |
+|  | [Natural Twist Turn](twist_turn.md) (at a corner); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.md) (at a corner); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.md); [Natural Zig-Zag from PP](zig_zag.md); [Natural Hover Telemark](natural_hover_telemark.md) (at a corner) |
+|  |  |
+| **Commenced Facing DW** | **As described in the charts above** |
+| PreBronze | [Feather Step](feather_step.md); [Reverse Turn &amp; Feather Finish](reverse_turn.md); [Closed Impetus &amp; Feather Finish](closed_impetus.md) (at a corner) |
+| Bronze | [Natural Weave](natural_weave.md); [Basic Weave](basic_weave.md) |
+| Silver | [Feather Ending](feather_ending.md); [Top Spin](top_spin.md); [Hover Feather](hover_feather.md) (at a corner); [Natural Telemark](natural_telemark.md) (at a corner); [Weave from PP](weave_from_pp.md) |
+| Gold | [Natural Twist Turn](twist_turn.md) (at a corner); [Natural Twist Turn with Weave Ending](twist_turn_weave.md); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.md); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.md); [Natural Zig-Zag from PP](zig_zag.md); [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md); [Natural Hover Telemark](natural_hover_telemark.md) (at a corner); [Bounce Fallaway with Weave Ending](bounce_fallaway.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td>**Ended Facing DC**</td> <td>**Along the side of the room as described in the charts above, or into a corner having turn only 1/8 between 7-8**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Feather Step](feather_step.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing New LOD**</td> <td>**Into a corner, and having turned only 1/4 between 7-8**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Feather Step](feather_step.html); [Natural Turn](natural_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Natural Weave](natural_weave.html) </td> </tr> <tr> <td>Silver</td> <td> [Natural Twist Turn](twist_turn.html); [Natural Twist Turn with Weave Ending](twist_turn_weave.html); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.html); [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.html); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.html); [Natural Hover Telemark](natural_hover_telemark.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW of New LOD**</td> <td>**Into a corner, amounts of turn as described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn](natural_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Natural Weave](natural_weave.html) </td> </tr> <tr> <td>Silver</td> <td> [Natural Twist Turn](twist_turn.html); [Natural Twist Turn with Weave Ending](twist_turn_weave.html); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.html); [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.html); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.html); [Natural Hover Telemark](natural_hover_telemark.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 6**</td> <td>**Having danced only until step 6**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Impetus &amp; Feather Finish](closed_impetus.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Impetus](open_impetus.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 8**</td> <td>**Having danced only until step 8, and turning the body to the R to face LOD and rising on the final step**</td> </tr> <tr> <td>Silver</td> <td> [Hover Feather](hover_feather.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** | **Along the side of the room as described in the charts above, or into a corner having turn only 1/8 between 7-8** |
+|---|---|
+| PreBronze | [Feather Step](feather_step.md) |
+|  |  |
+| **Ended Facing New LOD** | **Into a corner, and having turned only 1/4 between 7-8** |
+| PreBronze | [Feather Step](feather_step.md); [Natural Turn](natural_turn.md) |
+| Bronze | [Natural Weave](natural_weave.md) |
+| Silver | [Natural Twist Turn](twist_turn.md); [Natural Twist Turn with Weave Ending](twist_turn_weave.md); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.md); [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.md); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.md); [Natural Hover Telemark](natural_hover_telemark.md) |
+|  |  |
+| **Ended Facing DW of New LOD** | **Into a corner, amounts of turn as described in the charts above** |
+| PreBronze | [Natural Turn](natural_turn.md) |
+| Bronze | [Natural Weave](natural_weave.md) |
+| Silver | [Natural Twist Turn](twist_turn.md); [Natural Twist Turn with Weave Ending](twist_turn_weave.md); [Natural Twist Turn with Closed Impetus &amp; Feather Finish Ending](twist_turn_closed_impetus.md); [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.md); [Curved Feather to Back Feather &amp; Feather Finish](curved_feather_back.md); [Natural Hover Telemark](natural_hover_telemark.md) |
+|  |  |
+| **Following Step 6** | **Having danced only until step 6** |
+| PreBronze | [Closed Impetus &amp; Feather Finish](closed_impetus.md) |
+| Silver | [Open Impetus](open_impetus.md) |
+|  |  |
+| **Following Step 8** | **Having danced only until step 8, and turning the body to the R to face LOD and rising on the final step** |
+| Silver | [Hover Feather](hover_feather.md) |

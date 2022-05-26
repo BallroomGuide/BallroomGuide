@@ -7,32 +7,90 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td>1/8 to L</td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to RF</td> <td> </td> </tr> <tr> <td>3</td> <td>LF diag fwd, part weight</td> <td> </td> <td rowspan="3">Diag Fwd Chasse</td> </tr> <tr> <td>4</td> <td>RF closes halfway to LF</td> <td> </td> </tr> <tr> <td>5</td> <td>LF diag fwd</td> <td>1/8 to L over 2-5</td> </tr> <tr> <td>6</td> <td>RF fwd, part weight</td> <td>1/8 to L between 5-6</td> <td rowspan="3">Fwd Lock</td> </tr> <tr> <td>7</td> <td>LF crosses behind RF</td> <td> </td> </tr> <tr> <td>8</td> <td>RF fwd</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | LF back | 1/8 to L | Rock Step |
+| 2 | Replace weight to RF |  |
+| 3 | LF diag fwd, part weight |  | Diag Fwd Chasse |
+| 4 | RF closes halfway to LF |  |
+| 5 | LF diag fwd | 1/8 to L over 2-5 |
+| 6 | RF fwd, part weight | 1/8 to L between 5-6 | Fwd Lock |
+| 7 | LF crosses behind RF |  |
+| 8 | RF fwd |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Fallaway</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">End in Tandem</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>7</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Fallaway | BF |
+| 2 | 2 | Q | Promenade | BF |
+| 3 | 3 | Q | Promenade | B |
+| 4 | a | a | Promenade | B |
+| 5 | 4 | Q | End in Tandem | BF |
+| 6 | 1 | Q | Tandem | B |
+| 7 | a | a | Tandem | B |
+| 8 | 2 | Q | Tandem | BF |
 
 1\) The Man and Lady may dance Fwd Runs over steps 6-8  
  2) If this figure is commenced in Open Position, move RF slightly back on step 2 and turn 1/4 to L over steps 3-5  
- 3) If commenced in Open Position, steps 1-2 may be replaced by a [Hesitation Ball Change](../technique/j_hesitation_ball_change.html), [Point Ball Change](../technique/j_point_ball_change.html), or [Kick Ball Change](../technique/j_kick_ball_change.html)
+ 3) If commenced in Open Position, steps 1-2 may be replaced by a [Hesitation Ball Change](../technique/j_hesitation_ball_change.md), [Point Ball Change](../technique/j_point_ball_change.md), or [Kick Ball Change](../technique/j_kick_ball_change.md)
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td>1/8 to R</td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to LF</td> <td> </td> </tr> <tr> <td>3</td> <td>RF fwd, small step, part weight</td> <td> </td> <td rowspan="3">Fwd Runs, then Spiral on 5</td> </tr> <tr> <td>4</td> <td>LF fwd, small step</td> <td> </td> </tr> <tr> <td>5</td> <td>RF fwd, small step, then turn ending with LF crossed in front</td> <td>7/8 to L</td> </tr> <tr> <td>6</td> <td>LF fwd, part weight</td> <td>1/8 to L on 6</td> <td rowspan="3">Fwd Lock, turned at the end</td> </tr> <tr> <td>7</td> <td>RF crosses behind LF</td> <td> </td> </tr> <tr> <td>8</td> <td>LF fwd, then turn to end back</td> <td>1/2 to R before step 1 of the following figure</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | RF back | 1/8 to R | Rock Step |
+| 2 | Replace weight to LF |  |
+| 3 | RF fwd, small step, part weight |  | Fwd Runs, then Spiral on 5 |
+| 4 | LF fwd, small step |  |
+| 5 | RF fwd, small step, then turn ending with LF crossed in front | 7/8 to L |
+| 6 | LF fwd, part weight | 1/8 to L on 6 | Fwd Lock, turned at the end |
+| 7 | RF crosses behind LF |  |
+| 8 | LF fwd, then turn to end back | 1/2 to R before step 1 of the following figure |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Fallaway</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">End in Tandem</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>7</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Tandem</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Fallaway | BF |
+| 2 | 2 | Q | Promenade | BF |
+| 3 | 3 | Q | Promenade | B |
+| 4 | a | a | Promenade | B |
+| 5 | 4 | Q | End in Tandem | BF |
+| 6 | 1 | Q | Tandem | B |
+| 7 | a | a | Tandem | B |
+| 8 | 2 | Q | Tandem | BF |
 
 1\) The Man and Lady may dance Fwd Runs over steps 6-8  
  2) If this figure is commenced in Open Position, omit all turn on step 1  
- 3) If commenced in Open Position, steps 1-2 may be replaced by a [Hesitation Ball Change](../technique/j_hesitation_ball_change.html), [Point Ball Change](../technique/j_point_ball_change.html), or [Kick Ball Change](../technique/j_kick_ball_change.html)
+ 3) If commenced in Open Position, steps 1-2 may be replaced by a [Hesitation Ball Change](../technique/j_hesitation_ball_change.md), [Point Ball Change](../technique/j_point_ball_change.md), or [Kick Ball Change](../technique/j_kick_ball_change.md)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](overturned_fallaway_throwaway.html); [Fallaway Rock](fallaway_rock.html); [Link](link.html) </td> </tr> <tr> <td>Bronze</td> <td> [Mooch](mooch.html); [Whip](whip.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Whip](reverse_whip.html) </td> </tr> <tr> <td>Gold</td> <td> [Toe Heel Swivels](toe_heel.html); [Stalking Walks](stalking_walks.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced in Open Position**</td> <td>**As per Note 2**</td> </tr> <tr> <td>PreBronze</td> <td> [Fallaway Throwaway](fallaway_throwaway.html); [Change of Places R to L](change_RL.html); [Change of Places L to Right](change_LR.html); [Change of Hands Behind the Back](behind_back.html); [Hip Bump](hip_bump.html) </td> </tr> <tr> <td>Bronze</td> <td> [American Spin](american_spin.html); [Stop and Go](stop_go.html); [Throwaway Whip](whip_throwaway.html) </td> </tr> <tr> <td>Silver</td> <td> [Windmill](windmill.html); [Spanish Arms](spanish_arms.html); [Rolling off the Arm](rolling_off_arm.html); [Simple Spin](simple_spin.html); [Miami Special](miami_special.html) </td> </tr> <tr> <td>Gold</td> <td> [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.html); [Overturned Change of Places L to R](overturned_change_of_places_left_right.html); [Shoulder Spin](shoulder_spin.html); [Chugging](chugging.html); [Catapult](catapult.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position** |  |
+|---|---|
+| PreBronze | [Basic in Place](overturned_fallaway_throwaway.md); [Fallaway Rock](fallaway_rock.md); [Link](link.md) |
+| Bronze | [Mooch](mooch.md); [Whip](whip.md) |
+| Silver | [Reverse Whip](reverse_whip.md) |
+| Gold | [Toe Heel Swivels](toe_heel.md); [Stalking Walks](stalking_walks.md) |
+|  |  |
+| **Commenced in Open Position** | **As per Note 2** |
+| PreBronze | [Fallaway Throwaway](fallaway_throwaway.md); [Change of Places R to L](change_RL.md); [Change of Places L to Right](change_LR.md); [Change of Hands Behind the Back](behind_back.md); [Hip Bump](hip_bump.md) |
+| Bronze | [American Spin](american_spin.md); [Stop and Go](stop_go.md); [Throwaway Whip](whip_throwaway.md) |
+| Silver | [Windmill](windmill.md); [Spanish Arms](spanish_arms.md); [Rolling off the Arm](rolling_off_arm.md); [Simple Spin](simple_spin.md); [Miami Special](miami_special.md) |
+| Gold | [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.md); [Overturned Change of Places L to R](overturned_change_of_places_left_right.md); [Shoulder Spin](shoulder_spin.md); [Chugging](chugging.md); [Catapult](catapult.md) |
 
 ### Preceding Figures to Step 3
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in PP**</td> <td> </td> </tr> <tr> <td>Bronze</td> <td> [Walks](walks.html) </td> </tr> <tr> <td>Gold</td> <td> [Toe Heel Swivels](toe_heel.html); [Stalking Walks](stalking_walks.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced in Open Position**</td> <td>**As per Note 2**</td> </tr> <tr> <td>Gold</td> <td> [Chicken Walks](chicken_walks.html) </td> </tr> </tbody></table>
+ | **Commenced in PP** |  |
+|---|---|
+| Bronze | [Walks](walks.md) |
+| Gold | [Toe Heel Swivels](toe_heel.md); [Stalking Walks](stalking_walks.md) |
+|  |  |
+| **Commenced in Open Position** | **As per Note 2** |
+| Gold | [Chicken Walks](chicken_walks.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Tandem Position**</td> <td>**Although this figure is ended in Tandem Position, the Lady will turn to Open Position before step 1 of the following figure**</td> </tr> <tr> <td>PreBronze</td> <td> [Link](link.html); [Change of Places L to R](change_LR.html); [Change of Hands Behind the Back](behind_back.html); [Hip Bump](hip_bump.html) </td> </tr> <tr> <td>Bronze</td> <td> [American Spin](american_spin.html); [Whip](whip.html); [Throwaway Whip](whip_throwaway.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Whip](reverse_whip.html); [Windmill](windmill.html); [Spanish Arms](spanish_arms.html); [Rolling off the Arm](rolling_off_arm.html); [Simple Spin](simple_spin.html); [Miami Special](miami_special.html) </td> </tr> <tr> <td>Gold</td> <td> [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.html); [Overturned Change of Places L to R](overturned_change_of_places_left_right.html); [Curly Whip](curly_whip.html); [Shoulder Spin](shoulder_spin.html); [Chugging](chugging.html); [Toe Heel Swivels](toe_heel.html); [Chicken Walks](chicken_walks.html); [Stalking Walks](stalking_walks.html) </td> </tr> </tbody></table>
+ | **Ended in Tandem Position** | **Although this figure is ended in Tandem Position, the Lady will turn to Open Position before step 1 of the following figure** |
+|---|---|
+| PreBronze | [Link](link.md); [Change of Places L to R](change_LR.md); [Change of Hands Behind the Back](behind_back.md); [Hip Bump](hip_bump.md) |
+| Bronze | [American Spin](american_spin.md); [Whip](whip.md); [Throwaway Whip](whip_throwaway.md) |
+| Silver | [Reverse Whip](reverse_whip.md); [Windmill](windmill.md); [Spanish Arms](spanish_arms.md); [Rolling off the Arm](rolling_off_arm.md); [Simple Spin](simple_spin.md); [Miami Special](miami_special.md) |
+| Gold | [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.md); [Overturned Change of Places L to R](overturned_change_of_places_left_right.md); [Curly Whip](curly_whip.md); [Shoulder Spin](shoulder_spin.md); [Chugging](chugging.md); [Toe Heel Swivels](toe_heel.md); [Chicken Walks](chicken_walks.md); [Stalking Walks](stalking_walks.md) |

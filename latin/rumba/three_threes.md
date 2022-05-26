@@ -12,19 +12,54 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF to side, part weight</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Close RF to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td>LF to side, part weight</td> <td>RSP</td> <td> </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>Close LF to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>10</td> <td>2</td> <td>RF back</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>11</td> <td>3</td> <td>LF to side</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>RF fwd toward Lady's R side</td> <td>Closed</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | Open |  |
+| 2 | 3 | Transfer weight to RF | Open |  |
+| 3 | 41 | Close LF to RF | Tandem |  |
+| 4 | 2 | RF to side, part weight | Tandem |  |
+| 5 | 3 | Transfer weight to LF | Tandem |  |
+| 6 | 41 | Close RF to LF | Tandem |  |
+| 7 | 2 | LF to side, part weight | RSP |  |
+| 8 | 3 | Transfer weight to RF | Tandem |  |
+| 9 | 41 | Close LF to RF | Tandem |  |
+| 10 | 2 | RF back | Tandem |  |
+| 11 | 3 | LF to side | Tandem |  |
+| 12 | 41 | RF fwd toward Lady's R side | Closed |  |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>Close LF to RF</td> <td>Tandem</td> <td>1/2 to R between 3-4</td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td>1 full turn to L</td> </tr> <tr> <td>7</td> <td>2</td> <td>RF diag back</td> <td>RSP</td> <td> </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>RF fwd &amp; across</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>10</td> <td>2</td> <td>LF fwd to end back &amp; slightly to side</td> <td>Tandem</td> <td> 1/2 to R between 9-10, then 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>11</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>LF fwd toward Man's R side</td> <td>Closed</td> <td>5/8 to R between 11-12</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back | Open |  |
+| 2 | 3 | Transfer weight to LF | Open |  |
+| 3 | 41 | RF fwd | Tandem |  |
+| 4 | 2 | Close LF to RF | Tandem | 1/2 to R between 3-4 |
+| 5 | 3 | Transfer weight to RF | Tandem |  |
+| 6 | 41 | Transfer weight to LF | Tandem | 1 full turn to L |
+| 7 | 2 | RF diag back | RSP |  |
+| 8 | 3 | Transfer weight to LF | Tandem |  |
+| 9 | 41 | RF fwd &amp; across | Tandem |  |
+| 10 | 2 | LF fwd to end back &amp; slightly to side | Tandem | 1/2 to R between 9-10, then 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 11 | 3 | Transfer weight to RF | Tandem |  |
+| 12 | 41 | LF fwd toward Man's R side | Closed | 5/8 to R between 11-12 |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Hockey Stick](hockey_stick.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> </tbody></table>
+ | **Commenced in Open Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [RF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Hockey Stick](hockey_stick.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl) |
+| Gold | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks); [Three Threes](three_threes.md); [Circular Hip Twist](circular_hip_twist.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position toward Partner's R Side**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Opening Out to R and L](opening_out_LR.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Spiral](spiral.html); [Rope Spinning](rope_spinning.html) </td> </tr> <tr> <td>Gold</td> <td> [Continuous Hip Twist](continuous_hip_twist.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position toward Partner's R Side** | **As described in the charts above** |
+|---|---|
+| Bronze | [Opening Out to R and L](opening_out_LR.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Spiral](spiral.md); [Rope Spinning](rope_spinning.md) |
+| Gold | [Continuous Hip Twist](continuous_hip_twist.md); [Circular Hip Twist](circular_hip_twist.md) |
 
  <header><a id="open">Three Threes with Open Ending</a>
 ----------------------------------------------
@@ -33,19 +68,55 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF to side, part weight</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Close RF to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td>LF to side, part weight</td> <td>RSP</td> <td> </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>Close LF to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>10</td> <td>2</td> <td>RF back</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>11</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>RF fwd</td> <td>Open</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | Open |  |
+| 2 | 3 | Transfer weight to RF | Open |  |
+| 3 | 41 | Close LF to RF | Tandem |  |
+| 4 | 2 | RF to side, part weight | Tandem |  |
+| 5 | 3 | Transfer weight to LF | Tandem |  |
+| 6 | 41 | Close RF to LF | Tandem |  |
+| 7 | 2 | LF to side, part weight | RSP |  |
+| 8 | 3 | Transfer weight to RF | Tandem |  |
+| 9 | 41 | Close LF to RF | Tandem |  |
+| 10 | 2 | RF back | Tandem |  |
+| 11 | 3 | Transfer weight to LF | Tandem |  |
+| 12 | 41 | RF fwd | Open |  |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>Close LF to RF</td> <td>Tandem</td> <td>1/2 to R between 3-4</td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td>1 full turn to L</td> </tr> <tr> <td>7</td> <td>2</td> <td>RF diag back</td> <td>RSP</td> <td> </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>RF fwd &amp; across</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>10</td> <td>2</td> <td>LF fwd to end back &amp; slightly to side</td> <td>Tandem</td> <td> 1/2 to R between 9-10, then 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>11</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>LF fwd, then turn to R</td> <td>Open</td> <td> 1/8 to R between 11-12, then 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) and an additional 1/8 before step 1 of the following figure </td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back | Open |  |
+| 2 | 3 | Transfer weight to LF | Open |  |
+| 3 | 41 | RF fwd | Tandem |  |
+| 4 | 2 | Close LF to RF | Tandem | 1/2 to R between 3-4 |
+| 5 | 3 | Transfer weight to RF | Tandem |  |
+| 6 | 41 | Transfer weight to LF | Tandem | 1 full turn to L |
+| 7 | 2 | RF diag back | RSP |  |
+| 8 | 3 | Transfer weight to LF | Tandem |  |
+| 9 | 41 | RF fwd &amp; across | Tandem |  |
+| 10 | 2 | LF fwd to end back &amp; slightly to side | Tandem | 1/2 to R between 9-10, then 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 11 | 3 | Transfer weight to RF | Tandem |  |
+| 12 | 41 | LF fwd, then turn to R | Open | 1/8 to R between 11-12, then 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) and an additional 1/8 before step 1 of the following figure |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Hockey Stick](hockey_stick.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> </tbody></table>
+ | **Commenced in Open Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [RF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Hockey Stick](hockey_stick.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl) |
+| Gold | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks); [Three Threes](three_threes.md); [Circular Hip Twist](circular_hip_twist.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [Three Alemanas](three_alemanas.html); [Three Threes](three_threes.html) </td> </tr> </tbody></table>
+ | **Ended in Open Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md) |
+| Bronze | [Alemana](alemana.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Curl](curl) |
+| Gold | [Three Alemanas](three_alemanas.md); [Three Threes](three_threes.md) |
 
  <header><a id="fan">Three Threes with Fan Ending</a>
 --------------------------------------------
@@ -54,16 +125,50 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF to side, part weight</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Close RF to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td>LF to side, part weight</td> <td>RSP</td> <td> </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>Close LF to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>10</td> <td>2</td> <td>RF back</td> <td> </td> <td> </td> </tr> <tr> <td>11</td> <td>3</td> <td>Transfer weight to LF</td> <td> </td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>RF to side</td> <td>Fan</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | Open |  |
+| 2 | 3 | Transfer weight to RF | Open |  |
+| 3 | 41 | Close LF to RF | Tandem |  |
+| 4 | 2 | RF to side, part weight | Tandem |  |
+| 5 | 3 | Transfer weight to LF | Tandem |  |
+| 6 | 41 | Close RF to LF | Tandem |  |
+| 7 | 2 | LF to side, part weight | RSP |  |
+| 8 | 3 | Transfer weight to RF | Tandem |  |
+| 9 | 41 | Close LF to RF | Tandem |  |
+| 10 | 2 | RF back |  |  |
+| 11 | 3 | Transfer weight to LF |  |  |
+| 12 | 41 | RF to side | Fan |  |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td>Open</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>Open</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>Close LF to RF</td> <td>Tandem</td> <td>1/2 to R between 3-4</td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td>1 full turn to L</td> </tr> <tr> <td>7</td> <td>2</td> <td>RF diag back</td> <td>RSP</td> <td> </td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td>RF fwd &amp; across</td> <td>Tandem</td> <td> 1 full turn to L ([Spiral Action](../technique/cr_spiral_action.html)) </td> </tr> <tr> <td>10</td> <td>2</td> <td>LF fwd</td> <td> </td> <td>1/8 to L</td> </tr> <tr> <td>11</td> <td>3</td> <td>RF fwd to end back &amp; slightly to side</td> <td> </td> <td> 3/8 to L ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>12</td> <td>41</td> <td>LF back</td> <td>Fan</td> <td>1/4 to L between 11-12</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back | Open |  |
+| 2 | 3 | Transfer weight to LF | Open |  |
+| 3 | 41 | RF fwd | Tandem |  |
+| 4 | 2 | Close LF to RF | Tandem | 1/2 to R between 3-4 |
+| 5 | 3 | Transfer weight to RF | Tandem |  |
+| 6 | 41 | Transfer weight to LF | Tandem | 1 full turn to L |
+| 7 | 2 | RF diag back | RSP |  |
+| 8 | 3 | Transfer weight to LF | Tandem |  |
+| 9 | 41 | RF fwd &amp; across | Tandem | 1 full turn to L ([Spiral Action](../technique/cr_spiral_action.md)) |
+| 10 | 2 | LF fwd |  | 1/8 to L |
+| 11 | 3 | RF fwd to end back &amp; slightly to side |  | 3/8 to L ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 12 | 41 | LF back | Fan | 1/4 to L between 11-12 |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [RF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Hockey Stick](hockey_stick.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html); [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> </tbody></table>
+ | **Commenced in Open Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [RF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Hockey Stick](hockey_stick.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl) |
+| Gold | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md); [Kiki Walks](kiki_walks); [Three Threes](three_threes.md); [Circular Hip Twist](circular_hip_twist.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Fan Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html); [Hockey Stick](hockey_stick.html) </td> </tr> <tr> <td>Gold</td> <td> [Sliding Doors](sliding_doors.html); [Fencing](fencing.html); [Three Alemanas](three_alemanas.html) </td> </tr> </tbody></table>
+ | **Ended in Fan Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Alemana](alemana.md); [Hockey Stick](hockey_stick.md) |
+| Gold | [Sliding Doors](sliding_doors.md); [Fencing](fencing.md); [Three Alemanas](three_alemanas.md) |

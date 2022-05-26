@@ -5,16 +5,53 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF fwd (Fwd Cucaracha)</td> <td>Fan</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td> </td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF back</td> <td> </td> <td>1/8 to R between 3-4</td> </tr> <tr> <td>5</td> <td>3</td> <td>LF to side</td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>RF fwd &amp; across toward Lady's L side</td> <td>Shadow</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>Shadow</td> <td>1/8 to R between 6-7</td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to RF</td> <td>Shadow</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td> LF behind RF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.html)) </td> <td>Tandem</td> <td> </td> </tr> <tr> <td>10</td> <td>2</td> <td>RF to side, part weight</td> <td>L Shadow</td> <td> </td> </tr> <tr> <td>11</td> <td>3</td> <td>Transfer weight to LF</td> <td>Tandem</td> <td>1/8 to L</td> </tr> <tr> <td>12</td> <td>41</td> <td>RF fwd &amp; across toward Lady's L side</td> <td>R Shadow</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd (Fwd Cucaracha) | Fan |  |
+| 2 | 3 | Transfer weight to RF |  |  |
+| 3 | 41 | Close LF to RF |  |  |
+| 4 | 2 | RF back |  | 1/8 to R between 3-4 |
+| 5 | 3 | LF to side |  |  |
+| 6 | 41 | RF fwd &amp; across toward Lady's L side | Shadow |  |
+| 7 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | Shadow | 1/8 to R between 6-7 |
+| 8 | 3 | Transfer weight to RF | Shadow |  |
+| 9 | 41 | LF behind RF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.md)) | Tandem |  |
+| 10 | 2 | RF to side, part weight | L Shadow |  |
+| 11 | 3 | Transfer weight to LF | Tandem | 1/8 to L |
+| 12 | 41 | RF fwd &amp; across toward Lady's L side | R Shadow |  |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>Close RF to LF</td> <td>Fan</td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>LF fwd</td> <td> </td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF fwd</td> <td> </td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>LF fwd</td> <td> </td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>RF to side &amp; slightly back</td> <td> </td> <td>1/8 to L between 4-5</td> </tr> <tr> <td>6</td> <td>41</td> <td>LF back</td> <td>Shadow</td> <td> </td> </tr> <tr> <td>7</td> <td>2</td> <td>RF back</td> <td>Shadow</td> <td>1/8 to R between 6-7</td> </tr> <tr> <td>8</td> <td>3</td> <td>Transfer weight to LF</td> <td>Shadow</td> <td> </td> </tr> <tr> <td>9</td> <td>41</td> <td> RF fwd &amp; across ([Pressed Fwd Walk](../technique/cr_pressed__fwd_walk.html)) </td> <td>Tandem</td> <td>1/8 to L between 8-9</td> </tr> <tr> <td>10</td> <td>2</td> <td>LF to side, part weight</td> <td>L Shadow</td> <td>1/8 to R between 9-10</td> </tr> <tr> <td>11</td> <td>3</td> <td>Transfer weight to RF</td> <td>Tandem</td> <td> </td> </tr> <tr> <td>12</td> <td>41</td> <td>LF back</td> <td>R Shadow</td> <td>1/8 to L between 11-12</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | Close RF to LF | Fan |  |
+| 2 | 3 | LF fwd |  |  |
+| 3 | 41 | RF fwd |  |  |
+| 4 | 2 | LF fwd |  |  |
+| 5 | 3 | RF to side &amp; slightly back |  | 1/8 to L between 4-5 |
+| 6 | 41 | LF back | Shadow |  |
+| 7 | 2 | RF back | Shadow | 1/8 to R between 6-7 |
+| 8 | 3 | Transfer weight to LF | Shadow |  |
+| 9 | 41 | RF fwd &amp; across ([Pressed Fwd Walk](../technique/cr_pressed__fwd_walk.md)) | Tandem | 1/8 to L between 8-9 |
+| 10 | 2 | LF to side, part weight | L Shadow | 1/8 to R between 9-10 |
+| 11 | 3 | Transfer weight to RF | Tandem |  |
+| 12 | 41 | LF back | R Shadow | 1/8 to L between 11-12 |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Fan Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [Kiki Walks](kiki_walks); [Three Threes](three_threes.html); [Continuous Hip Twist](continuous_hip_twist.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 7**</td> <td>**Commence the Sliding Doors from step 7**</td> </tr> <tr> <td>Gold</td> <td> [Sliding Doors](sliding_doors.html) </td> </tr> </tbody></table>
+ | **Commenced in Fan Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Fan](fan.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl) |
+| Gold | [Kiki Walks](kiki_walks); [Three Threes](three_threes.md); [Continuous Hip Twist](continuous_hip_twist.md); [Circular Hip Twist](circular_hip_twist.md) |
+|  |  |
+| **Preceding Step 7** | **Commence the Sliding Doors from step 7** |
+| Gold | [Sliding Doors](sliding_doors.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in R Shadow Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Spiral](spiral.html) </td> </tr> <tr> <td>Gold</td> <td> [Kiki Walks](kiki_walks.html); 7-12 [Sliding Doors](sliding_doors.html) </td> </tr> </tbody></table>
+ | **Ended in R Shadow Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Closed Hip Twist](closed_hip.md) |
+| Silver | [Spiral](spiral.md) |
+| Gold | [Kiki Walks](kiki_walks.md); 7-12 [Sliding Doors](sliding_doors.md) |

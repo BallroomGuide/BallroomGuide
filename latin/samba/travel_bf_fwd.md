@@ -6,9 +6,29 @@
 Commence in Closed Position with Closed Hold, Facing LOD  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td> </td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2</td> <td>RF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DW</td> <td style="text-align:center">Wall</td> </tr> <tr> <td>3</td> <td>Replace weight to LF</td> <td>1/8 to R</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>RF fwd</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>5</td> <td>LF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DC</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>6</td> <td>Replace weight to RF</td> <td>1/4 to L over 5-6</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>7</td> <td>LF fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>8</td> <td>RF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DW</td> <td style="text-align:center">Wall</td> </tr> <tr> <td>9</td> <td>Replace weight to LF</td> <td>1/4 to R over 8-9</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd |  | Facing LOD | LOD |
+| 2 | RF to side, part weight, toe turned out |  | Pointing DW | Wall |
+| 3 | Replace weight to LF | 1/8 to R | Facing DC | Under Body |
+| 4 | RF fwd |  | Facing DC | DC |
+| 5 | LF to side, part weight, toe turned out |  | Pointing DC | Centre |
+| 6 | Replace weight to RF | 1/4 to L over 5-6 | Facing DW | Under Body |
+| 7 | LF fwd |  | Facing DW | DW |
+| 8 | RF to side, part weight, toe turned out |  | Pointing DW | Wall |
+| 9 | Replace weight to LF | 1/4 to R over 8-9 | Facing DC | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">OP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>5</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>7</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">OP on R</td> <td style="text-align:right">BF</td> </tr> <tr> <td>8</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>9</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | Closed | BF |
+| 2 | a | a | Closed | i/e of T |
+| 3 | 2 | S | Closed | BF |
+| 4 | 1 | S | OP | BF |
+| 5 | a | a | Closed | i/e of T |
+| 6 | 2 | S | Closed | BF |
+| 7 | 1 | S | OP on R | BF |
+| 8 | a | a | Closed | i/e of T |
+| 9 | 2 | S | Closed | BF |
 
 1\) On steps 5 and 8 the L toe points DC, the R toe points DW, and the body faces LOD
 
@@ -17,24 +37,62 @@ Commence in Closed Position with Closed Hold, Facing LOD
 Commence in Closed Position with Closed Hold, Backing LOD  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td> </td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2</td> <td>LF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DW against LOD</td> <td style="text-align:center">Wall</td> </tr> <tr> <td>3</td> <td>Replace weight to RF</td> <td>1/8 to R</td> <td>Backing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>LF back</td> <td> </td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>5</td> <td>RF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DC against LOD</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>6</td> <td>Replace weight to LF</td> <td>1/4 to L over 5-6</td> <td>Backing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>7</td> <td>RF back</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>8</td> <td>LF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DW against LOD</td> <td style="text-align:center">Wall</td> </tr> <tr> <td>9</td> <td>Replace weight to RF</td> <td>1/4 to R over 8-9</td> <td>Backing DC</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF back |  | Backing LOD | LOD |
+| 2 | LF to side, part weight, toe turned out |  | Pointing DW against LOD | Wall |
+| 3 | Replace weight to RF | 1/8 to R | Backing DC | Under Body |
+| 4 | LF back |  | Backing DC | DC |
+| 5 | RF to side, part weight, toe turned out |  | Pointing DC against LOD | Centre |
+| 6 | Replace weight to LF | 1/4 to L over 5-6 | Backing DW | Under Body |
+| 7 | RF back |  | Backing DW | DW |
+| 8 | LF to side, part weight, toe turned out |  | Pointing DW against LOD | Wall |
+| 9 | Replace weight to RF | 1/4 to R over 8-9 | Backing DC | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2 </td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">OP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>5</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>6</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>7</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">OP on R</td> <td style="text-align:right">BF</td> </tr> <tr> <td>8</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>9</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | Closed | BF |
+| 2 | a | a | Closed | i/e of T |
+| 3 | 2 | S | Closed | BF |
+| 4 | 1 | S | OP | BF |
+| 5 | a | a | Closed | i/e of T |
+| 6 | 2 | S | Closed | BF |
+| 7 | 1 | S | OP on R | BF |
+| 8 | a | a | Closed | i/e of T |
+| 9 | 2 | S | Closed | BF |
 
 1\) On steps 5 and 8 the L toe points DW against LOD, the R toe points DW against LOD, and the body backs LOD
 
 ### Precedes to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing LOD**</td> <td></td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Natural Basic](natural_basic.html); [Reverse Basic](reverse_basic.html); [Side Basic to R](side_basic.html) (at a corner); [Whisk to R](whisk.html) (at a corner); [RF Stationary Samba Walk](stationary_samba_walks.html) (at a corner) </td> </tr> <tr> <td>Bronze</td> <td> [RF Solo Spot Volta](solo_spot_volta.html) (at a corner); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.html) (at a corner); 1-7 [Corta Jaca](corta_jaca.html); 1-3 [Closed Rocks](closed_rocks.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td>Silver</td> <td> [Argentine Crosses](argentine_crosses.html) (at a corner); [Maypole turning R](maypole.html) </td> </tr> </tbody></table>
+ | **Commenced Facing LOD** |  |
+|---|---|
+| PreBronze | 1-3 [Natural Basic](natural_basic.md); [Reverse Basic](reverse_basic.md); [Side Basic to R](side_basic.md) (at a corner); [Whisk to R](whisk.md) (at a corner); [RF Stationary Samba Walk](stationary_samba_walks.md) (at a corner) |
+| Bronze | [RF Solo Spot Volta](solo_spot_volta.md) (at a corner); [RF Continuous Solo Spot Volta](continuous_solo_spot_volta.md) (at a corner); 1-7 [Corta Jaca](corta_jaca.md); 1-3 [Closed Rocks](closed_rocks.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [Argentine Crosses](argentine_crosses.md) (at a corner); [Maypole turning R](maypole.md) |
 
 ### Follows to This Figure
 
 **The first step of the following figure will be taken OP**
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DC**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 4-6 [Reverse Basic](reverse_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Corta Jaca](corta_jaca.html); [Foot Change 1](foot_change_1_closed_to_shadow.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Maypole turning R](maypole.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width:30%">**Ended Facing DW of New LOD**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Basic](natural_basic.html); 4-6 [Reverse Basic](reverse_basic.html); [Progressive Basic](progressive_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Corta Jaca](corta_jaca.html); [Foot Change 1](foot_change_1_closed_to_shadow.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Maypole turning R](maypole.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [Natural Roll](natural_roll.html); [Promenade &amp; Counter Promenade Runs](p_cp_runs.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** |  |
+|---|---|
+| PreBronze | [Natural Basic](natural_basic.md); 4-6 [Reverse Basic](reverse_basic.md) |
+| Bronze | [Corta Jaca](corta_jaca.md); [Foot Change 1](foot_change_1_closed_to_shadow.md) |
+| Silver | [Maypole turning R](maypole.md) |
+|  |  |
+| **Ended Facing DW of New LOD** | **At a corner** |
+| PreBronze | [Natural Basic](natural_basic.md); 4-6 [Reverse Basic](reverse_basic.md); [Progressive Basic](progressive_basic.md) |
+| Bronze | [Corta Jaca](corta_jaca.md); [Foot Change 1](foot_change_1_closed_to_shadow.md) |
+| Silver | [Maypole turning R](maypole.md) |
+| Gold | [Natural Roll](natural_roll.md); [Promenade &amp; Counter Promenade Runs](p_cp_runs.md) |
 
 ### Follows to Step 6 of This Figure
 
 **The first step of the following figure will be taken OP**
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DW**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 4-6 [Natural Basic](natural_basic.html); [Reverse Basic](reverse_basic.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Foot Change 1](foot_change_1_closed_to_shadow.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Maypole turning L](maypole.html) </td> </tr> </tbody></table>
+ | **Ended Facing DW** |  |
+|---|---|
+| PreBronze | 4-6 [Natural Basic](natural_basic.md); [Reverse Basic](reverse_basic.md) |
+| Bronze | [Foot Change 1](foot_change_1_closed_to_shadow.md) |
+| Silver | [Maypole turning L](maypole.md) |

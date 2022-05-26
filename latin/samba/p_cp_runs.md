@@ -6,9 +6,29 @@
 Commence in Closed Position with Closed Hold, Facing DW  
  This figure does not use Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>LF to side &amp; slightly fwd</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>RF fwd &amp; across</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>LF fwd</td> <td>5/8 to R (Spiral)</td> <td>Facing Centre</td> <td style="text-align:center">DW</td> </tr> <tr> <td>5</td> <td>RF to side &amp; slightly fwd</td> <td>1/8 to R</td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>LF fwd &amp; across</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>RF fwd</td> <td>1/8 to R</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>8</td> <td>LF to side &amp; slightly fwd</td> <td>1/8 to R</td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>9</td> <td>RF fwd &amp; across</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF fwd |  | Facing DW | DW |
+| 2 | LF to side &amp; slightly fwd |  | Facing DW | LOD |
+| 3 | RF fwd &amp; across |  | Facing DW | LOD |
+| 4 | LF fwd | 5/8 to R (Spiral) | Facing Centre | DW |
+| 5 | RF to side &amp; slightly fwd | 1/8 to R | Facing DC | LOD |
+| 6 | LF fwd &amp; across |  | Facing DC | LOD |
+| 7 | RF fwd | 1/8 to R | Facing LOD | LOD |
+| 8 | LF to side &amp; slightly fwd | 1/8 to R | Facing DW | LOD |
+| 9 | RF fwd &amp; across |  | Facing DW | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">2</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">(2)e</td> <td style="text-align:center">3</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">1</td> <td style="text-align:center">Open CPP</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">a</td> <td style="text-align:center">2</td> <td style="text-align:center">Open CPP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">(2)e</td> <td style="text-align:center">3</td> <td style="text-align:center">Open CPP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>7</td> <td style="text-align:center">1</td> <td style="text-align:center">1</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">a</td> <td style="text-align:center">2</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>9</td> <td style="text-align:center">(2)e</td> <td style="text-align:center">3</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | 1 | Closed | B |
+| 2 | a | 2 | Open PP | BF |
+| 3 | (2)e | 3 | Open PP | BF |
+| 4 | 1 | 1 | Open CPP | B |
+| 5 | a | 2 | Open CPP | BF |
+| 6 | (2)e | 3 | Open CPP | BF |
+| 7 | 1 | 1 | Open PP | B |
+| 8 | a | 2 | Open PP | BF |
+| 9 | (2)e | 3 | Open PP | BF |
 
 1\) This figure uses 123 Rhythm, which means the third step of the bar is taken on the 6th quarter beat of the bar (whereas the fourth and eigth beats in a bar are counted *a*, the second and sixth are counted *e*)  
  2) The Rhythms QQS, SQQ, and SaS may be used; if SaS is used, Bounce Action is used
@@ -18,29 +38,65 @@ Commence in Closed Position with Closed Hold, Facing DW
 Commence in Closed Position with Closed Hold, Backing DW  
  This figure does not use Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF back &amp; slightly to side</td> <td> </td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF to side &amp; slightly fwd</td> <td>1/4 to R</td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>LF fwd &amp; across</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>RF fwd</td> <td>1/8 to R</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>5</td> <td>LF to side &amp; slightly fwd</td> <td>1/8 to R</td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>RF fwd &amp; across</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>LF fwd</td> <td>5/8 to R (Spiral)</td> <td>Facing Centre</td> <td style="text-align:center">DW</td> </tr> <tr> <td>8</td> <td>RF to side &amp; slightly fwd</td> <td>1/8 to R</td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>9</td> <td>LF fwd &amp; across</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF back &amp; slightly to side |  | Backing DW | DW |
+| 2 | RF to side &amp; slightly fwd | 1/4 to R | Facing DC | LOD |
+| 3 | LF fwd &amp; across |  | Facing DC | LOD |
+| 4 | RF fwd | 1/8 to R | Facing LOD | LOD |
+| 5 | LF to side &amp; slightly fwd | 1/8 to R | Facing DW | LOD |
+| 6 | RF fwd &amp; across |  | Facing DW | LOD |
+| 7 | LF fwd | 5/8 to R (Spiral) | Facing Centre | DW |
+| 8 | RF to side &amp; slightly fwd | 1/8 to R | Facing DC | LOD |
+| 9 | LF fwd &amp; across |  | Facing DC | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">2</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">(2)e</td> <td style="text-align:center">3</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">1</td> <td style="text-align:center">1</td> <td style="text-align:center">Open CPP</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">a</td> <td style="text-align:center">2</td> <td style="text-align:center">Open CPP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">(2)e</td> <td style="text-align:center">3</td> <td style="text-align:center">Open CPP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>7</td> <td style="text-align:center">1</td> <td style="text-align:center">1</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">a</td> <td style="text-align:center">2</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> <tr> <td>9</td> <td style="text-align:center">(2)e</td> <td style="text-align:center">3</td> <td style="text-align:center">Open PP</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | 1 | Closed | B |
+| 2 | a | 2 | Open PP | BF |
+| 3 | (2)e | 3 | Open PP | BF |
+| 4 | 1 | 1 | Open CPP | B |
+| 5 | a | 2 | Open CPP | BF |
+| 6 | (2)e | 3 | Open CPP | BF |
+| 7 | 1 | 1 | Open PP | B |
+| 8 | a | 2 | Open PP | BF |
+| 9 | (2)e | 3 | Open PP | BF |
 
 1\) This figure uses 123 Rhythm, which means the third step of the bar is taken on the 6th quarter beat of the bar  
  2) The Rhythms QQS, SQQ, and SaS may be used; if SaS is used, Bounce Action is used
 
 ### Precedes to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DW**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Natural Basic](natural_basic.html); 1-3 [Reverse Basic](reverse_basic.html); [Progressive Basic](progressive_basic.html) </td> </tr> <tr> <td>Bronze</td> <td> [Corta Jaca](corta_jaca.html); [Closed Rocks](closed_rocks.html); [Foot Change 2](foot_change_2_shadow_to_closed.html) </td> </tr> <tr> <td>Silver</td> <td> [Maypole turning L](maypole.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Roll](natural_roll.html) (at a corner) </td> </tr> </tbody></table>
+ | **Commenced Facing DW** |  |
+|---|---|
+| PreBronze | [Natural Basic](natural_basic.md); 1-3 [Reverse Basic](reverse_basic.md); [Progressive Basic](progressive_basic.md) |
+| Bronze | [Corta Jaca](corta_jaca.md); [Closed Rocks](closed_rocks.md); [Foot Change 2](foot_change_2_shadow_to_closed.md) |
+| Silver | [Maypole turning L](maypole.md) |
+| Gold | [Natural Roll](natural_roll.md) (at a corner) |
 
 ### Precedes to Step 4 of This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DW**</td> <td></td> </tr> <tr> <td>Gold</td> <td> [Promenade &amp; Counter Promenade Runs](p_cp_runs.html) </td> </tr> </tbody></table>
+ | **Commenced Facing DW** |  |
+|---|---|
+| Gold | [Promenade &amp; Counter Promenade Runs](p_cp_runs.md) |
 
 ### Precedes to Step 7 of This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing LOD**</td> <td></td> </tr> <tr> <td>Bronze</td> <td> [Open Rocks](open_rocks.html) </td> </tr> </tbody></table>
+ | **Commenced Facing LOD** |  |
+|---|---|
+| Bronze | [Open Rocks](open_rocks.md) |
 
 ### Follows to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DW**</td> <td></td> </tr> <tr> <td style="width: 30%">PreBronze</td> <td> [Criss Cross Bota Fogos](criss_cross_bf.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Criss Cross Voltas](criss_cross_volta.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [Three Step Turn](three_step_turn.html) </td> </tr> </tbody></table>
+ | **Ended Facing DW** |  |
+|---|---|
+| PreBronze | [Criss Cross Bota Fogos](criss_cross_bf.md) |
+| Bronze | [Criss Cross Voltas](criss_cross_volta.md) |
+| Gold | [Three Step Turn](three_step_turn.md) |
 
 ### Follows to Step 6 of This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DC**</td> <td> </td> </tr> <tr> <td style="width: 30%">PreBronze</td> <td> 4-6 [Criss Cross Bota Fogos](criss_cross_bf.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [8-14 Criss Cross Voltas](criss_cross_volta.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** |  |
+|---|---|
+| PreBronze | 4-6 [Criss Cross Bota Fogos](criss_cross_bf.md) |
+| Bronze | [8-14 Criss Cross Voltas](criss_cross_volta.md) |

@@ -5,20 +5,45 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF to side, part weight</td> <td> </td> <td> </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td>Closed</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF to side, part weight</td> <td> </td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to LF</td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>Close RF to LF</td> <td>Closed</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF to side, part weight |  |  |
+| 2 | 3 | Transfer weight to RF |  |  |
+| 3 | 41 | Close LF to RF | Closed |  |
+| 4 | 2 | RF to side, part weight |  |  |
+| 5 | 3 | Transfer weight to LF |  |  |
+| 6 | 41 | Close RF to LF | Closed |  |
 
-1\) Man's steps are a [LF Cucaracha](cucaracha.html) and then a [RF Cucaracha](cucaracha.html)
+1\) Man's steps are a [LF Cucaracha](cucaracha.md) and then a [RF Cucaracha](cucaracha.md)
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td> </td> <td>1/4 to R before 1</td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td> </td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF to side</td> <td>Closed</td> <td>1/4 to L between 2-3</td> </tr> <tr> <td>4</td> <td>2</td> <td>LF back</td> <td> </td> <td>1/4 to L between 3-4</td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>LF to side</td> <td>Closed</td> <td>1/4 to R between 5-6</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back |  | 1/4 to R before 1 |
+| 2 | 3 | Transfer weight to LF |  |  |
+| 3 | 41 | RF to side | Closed | 1/4 to L between 2-3 |
+| 4 | 2 | LF back |  | 1/4 to L between 3-4 |
+| 5 | 3 | Transfer weight to RF |  |  |
+| 6 | 41 | LF to side | Closed | 1/4 to R between 5-6 |
 
-1\) Lady's steps are a [Hand to Hand to RSP](hand_to_hand.html) and then a [Hand to Hand to LSP](hand_to_hand.html)
+1\) Lady's steps are a [Hand to Hand to RSP](hand_to_hand.md) and then a [Hand to Hand to LSP](hand_to_hand.md)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position toward Partner's R Side**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html); [Natural Top](natural_top.html); [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Silver</td> <td> [Rope Spinning](rope_spinning) </td> </tr> <tr> <td>Gold</td> <td> [Three Threes](three_threes.html); [Three Alemanas](three_alemanas.html); [Continuous Hip Twist](continuous_hip_twist.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position toward Partner's R Side** | **As described in the charts above** |
+|---|---|
+| Bronze | [Alemana](alemana.md); [Natural Top](natural_top.md); [Opening Out to R and L](opening_out_LR.md) |
+| Silver | [Rope Spinning](rope_spinning) |
+| Gold | [Three Threes](three_threes.md); [Three Alemanas](three_alemanas.md); [Continuous Hip Twist](continuous_hip_twist.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position toward Partner's R Side**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Opening Out to R and L](opening_out_LR.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Bronze</td> <td> [Spiral](spiral.html); [Rope Spinning](rope_spinning.html) </td> </tr> <tr> <td>Silver</td> <td> [Continuous Hip Twist](continuous_hip_twist.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td>**Dance only until step 3 of the Opening Out to R and L, then raise L hand to lead Lady to dance Spiral action underarm**</td> </tr> <tr> <td>Silver</td> <td> 4-6 [Aida](aida.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position toward Partner's R Side** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Opening Out to R and L](opening_out_LR.md); [Closed Hip Twist](closed_hip.md) |
+| Bronze | [Spiral](spiral.md); [Rope Spinning](rope_spinning.md) |
+| Silver | [Continuous Hip Twist](continuous_hip_twist.md); [Circular Hip Twist](circular_hip_twist.md) |
+|  |  |
+| **Following Step 3** | **Dance only until step 3 of the Opening Out to R and L, then raise L hand to lead Lady to dance Spiral action underarm** |
+| Silver | 4-6 [Aida](aida.md) |

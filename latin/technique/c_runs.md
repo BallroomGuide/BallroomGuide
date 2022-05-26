@@ -1,15 +1,16 @@
-### [ Back to the Technique Page](../technique.html)
+### [ Back to the Technique Page](../technique.md)
 
  <header>Forward and Backward Runs (PreBronze)
 -------------------------------------
 
- </header>These are three small steps forward or back and are part of the [There and Back](../cha_cha/there_and_back.html) and [Sweetheart](../cha_cha/sweetheart.html)  
+ </header>These are three small steps forward or back and are part of the [There and Back](../cha_cha/there_and_back.md) and [Sweetheart](../cha_cha/sweetheart.md)  
    
- Backward Runs may be used in place of 3-5 of [Open Basic](../cha_cha/open_basic.html), and Forward Runs in place of 8-10 (Lady normal opposite)  
+ Backward Runs may be used in place of 3-5 of [Open Basic](../cha_cha/open_basic.md), and Forward Runs in place of 8-10 (Lady normal opposite)  
    
- (Silver) Forward Runs may be used in place of the Forward Lock danced on 8-10 of [Hockey Stick](../cha_cha/hockey_stick.html) or [Spiral](../cha_cha/spiral.html) when ended in Left Side Position, or in place of the Forward Lock in [The Chase](../cha_cha/chase.html)
+ (Silver) Forward Runs may be used in place of the Forward Lock danced on 8-10 of [Hockey Stick](../cha_cha/hockey_stick.md) or [Spiral](../cha_cha/spiral.md) when ended in Left Side Position, or in place of the Forward Lock in [The Chase](../cha_cha/chase.md)
 
- <table> <tbody><tr> <td style="width:15%">**Footwork**</td> <td>Ball flat on each step</td> </tr> </tbody></table>
+ | **Footwork** | Ball flat on each step |
+|---|---|
 
 Knee commences to straighten on each step
 
@@ -19,7 +20,7 @@ The 4th beat in each bar of music is divided into two equal parts, each part usi
    
  In its basic form, this chasse is a group of three steps taken in any forward, backward, or sideways direction, with the second step moving toward (or to) the other foot  
    
- Steps 1 and 2 of all Chasses have equal weight distribution (Exception: [Twist Chasse](c_twist_chasse.html))  
+ Steps 1 and 2 of all Chasses have equal weight distribution (Exception: [Twist Chasse](c_twist_chasse.md))  
    
  The chasse may also be danced in place or without turn  
    

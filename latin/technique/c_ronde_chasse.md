@@ -1,11 +1,18 @@
-### [ Back to the Technique Page](../technique.html)
+### [ Back to the Technique Page](../technique.md)
 
  <header>Ronde Chasse (Silver)
 ---------------------
 
- </header> <table class="style1"> <tbody><tr> <td style="width:15%"></td> <td style="width:70%"></td> <td style="width:15%">Count</td> </tr> <tr> <td>1</td> <td>Circle LF outward with toe in contact with floor toward end of preceding beat of music, then place LF crossed behind RF (Latin Cross). Hips central</td> <td>4</td> </tr> <tr> <td>2</td> <td>RF fwd and slightly to side, small step. Right knee commences to straighten, hips slightly to right</td> <td>&amp;</td> </tr> <tr> <td>3</td> <td>LF to side. Knees straight, hips to left</td> <td>1</td> </tr> <tr> <td>**Footwork**</td> <td>1-3 Ball flat (Late lowering of heel on 1)</td> <td></td> </tr> </tbody></table>
+ </header> |  |  | Count |
+|---|---|---|
+| 1 | Circle LF outward with toe in contact with floor toward end of preceding beat of music, then place LF crossed behind RF (Latin Cross). Hips central | 4 |
+| 2 | RF fwd and slightly to side, small step. Right knee commences to straighten, hips slightly to right | &amp; |
+| 3 | LF to side. Knees straight, hips to left | 1 |
+| **Footwork** | 1-3 Ball flat (Late lowering of heel on 1) |  |
 
- <table> <tbody><tr> <td style="width:30%">Silver</td> <td> Man may dance a Ronde Chasse in place of 3-5 of [Alemana](../cha_cha/alemana.html) or [Hockey Stick](../cha_cha/hockey_stick.html), closing LF to RF on last step </td> </tr> <tr> <td>Gold</td> <td> Man dances a Ronde Chasse on 3-5 of [Hip Twist Spiral](../cha_cha/hip_spiral.html), and he may also use it in place of 3-5 of the [Closed Hip Twist](../cha_cha/closed_hip.html). The Ronde Chasse may be danced by Man and Lady in place of 3-5 of Man's [Closed Basic](../cha_cha/closed_basic.html) when in Right Side, Right Shadow, or Tandem Position, using the same foot as partner </td> </tr> </tbody></table>
+ | Silver | Man may dance a Ronde Chasse in place of 3-5 of [Alemana](../cha_cha/alemana.md) or [Hockey Stick](../cha_cha/hockey_stick.md), closing LF to RF on last step |
+|---|---|
+| Gold | Man dances a Ronde Chasse on 3-5 of [Hip Twist Spiral](../cha_cha/hip_spiral.md), and he may also use it in place of 3-5 of the [Closed Hip Twist](../cha_cha/closed_hip.md). The Ronde Chasse may be danced by Man and Lady in place of 3-5 of Man's [Closed Basic](../cha_cha/closed_basic.md) when in Right Side, Right Shadow, or Tandem Position, using the same foot as partner |
 
 ### Note about the Cha Cha Chasse
 
@@ -13,7 +20,7 @@ The 4th beat in each bar of music is divided into two equal parts, each part usi
    
  In its basic form, this chasse is a group of three steps taken in any forward, backward, or sideways direction, with the second step moving toward (or to) the other foot  
    
- Steps 1 and 2 of all Chasses have equal weight distribution (Exception: [Twist Chasse](c_twist_chasse.html))  
+ Steps 1 and 2 of all Chasses have equal weight distribution (Exception: [Twist Chasse](c_twist_chasse.md))  
    
  The chasse may also be danced in place or without turn  
    

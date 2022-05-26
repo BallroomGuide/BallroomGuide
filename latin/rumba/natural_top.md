@@ -5,7 +5,17 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:10%">**Footwork**</td> <td style="width:20%">**Position**</td> <td style="width:20%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.html)) </td> <td>T</td> <td>Closed</td> <td rowspan="9">Up to 2 complete turns to R gradually over 1-9</td> </tr> <tr> <td>2</td> <td>3</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>3</td> <td>41</td> <td> RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.html)) </td> <td>T</td> <td>Closed</td> </tr> <tr> <td>4</td> <td>2</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>5</td> <td>3</td> <td> RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.html)) </td> <td>T</td> <td>Closed</td> </tr> <tr> <td>6</td> <td>41</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>7</td> <td>2</td> <td> RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.html)) </td> <td>T</td> <td>Closed</td> </tr> <tr> <td>8</td> <td>3</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>9</td> <td>41</td> <td>RF fwd &amp; across toward Lady's R side</td> <td>BF</td> <td>Closed</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Footwork** | **Position** | **Turn** |
+|---|---|---|---|---|---|
+| 1 | 2 | RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.md)) | T | Closed | Up to 2 complete turns to R gradually over 1-9 |
+| 2 | 3 | LF to side | BF | Closed |
+| 3 | 41 | RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.md)) | T | Closed |
+| 4 | 2 | LF to side | BF | Closed |
+| 5 | 3 | RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.md)) | T | Closed |
+| 6 | 41 | LF to side | BF | Closed |
+| 7 | 2 | RF behind LF ([Pressed Back Walk](../technique/cr_pressed__bwd_walk.md)) | T | Closed |
+| 8 | 3 | LF to side | BF | Closed |
+| 9 | 41 | RF fwd &amp; across toward Lady's R side | BF | Closed |
 
 1\) The exact amount of turn made over the course of this figure may vary  
  2) Steps 1-6 of the Natural Top may be omitted without changing the preceding or following figures  
@@ -13,16 +23,43 @@
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:10%">**Footwork**</td> <td style="width:20%">**Position**</td> <td style="width:20%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> <td rowspan="9">Up to 2 complete turns to R gradually over 1-9</td> </tr> <tr> <td>2</td> <td>3</td> <td>RF fwd &amp; across</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>3</td> <td>41</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>4</td> <td>2</td> <td>RF fwd &amp; across</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>5</td> <td>3</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>6</td> <td>41</td> <td>RF fwd &amp; across</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>7</td> <td>2</td> <td>LF to side</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>8</td> <td>3</td> <td>RF fwd &amp; across</td> <td>BF</td> <td>Closed</td> </tr> <tr> <td>9</td> <td>41</td> <td>LF fwd toward Man's R side</td> <td>BF</td> <td>Closed</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Footwork** | **Position** | **Turn** |
+|---|---|---|---|---|---|
+| 1 | 2 | LF to side | BF | Closed | Up to 2 complete turns to R gradually over 1-9 |
+| 2 | 3 | RF fwd &amp; across | BF | Closed |
+| 3 | 41 | LF to side | BF | Closed |
+| 4 | 2 | RF fwd &amp; across | BF | Closed |
+| 5 | 3 | LF to side | BF | Closed |
+| 6 | 41 | RF fwd &amp; across | BF | Closed |
+| 7 | 2 | LF to side | BF | Closed |
+| 8 | 3 | RF fwd &amp; across | BF | Closed |
+| 9 | 41 | LF fwd toward Man's R side | BF | Closed |
 
 1\) The exact amount of turn made over the course of this figure may vary  
  2) Steps 1-10 of the Natural Top may be omitted without changing the preceding or following figures  
- 3) (Gold) The Lady may turn to L underarm over steps 4-5, taking RF fwd to end back &amp; slightly to side on step 4 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)), and transferring weight to LF on step 5, regaining Closed Hold. The precise amount of turn made depends on the amount made by the Man
+ 3) (Gold) The Lady may turn to L underarm over steps 4-5, taking RF fwd to end back &amp; slightly to side on step 4 ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)), and transferring weight to LF on step 5, regaining Closed Hold. The precise amount of turn made depends on the amount made by the Man
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Closed Basic](closed_basic.html); 1-3 [Alternative Basic](alternative_basic.html); 1-3 [Open Basic](open_basic.html); [Underarm Turn to L](underarm_turn.html); [Progressive Walks Back](progressive_walks.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-3 [Closed Basic](closed_basic.md); 1-3 [Alternative Basic](alternative_basic.md); 1-3 [Open Basic](open_basic.md); [Underarm Turn to L](underarm_turn.md); [Progressive Walks Back](progressive_walks.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position toward Partner's R Side**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Opening Out to R and L](opening_out_LR.html); [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Spiral](spiral.html); [Rope Spinning](rope_spinning.html) </td> </tr> <tr> <td>Gold</td> <td> [Continuous Hip Twist](continuous_hip_twist.html); [Circular Hip Twist](circular_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended to Side in Closed Position**</td> <td>**Man and Lady take step 9 to side without turn**</td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](alternative_basic.html); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Steps to L commenced with LF](side_step.html); [Side Steps to R commenced with LF](side_step.html); [LF Cuban Rock](cuban_rocks.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [LF Syncopated Cuban Rock](syncopated_cuban_rock.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended to Side in Open CPP**</td> <td>**Man and Lady take step 9 to side, Man turning 1/8 to R, Lady 1/8 to L**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 6**</td> <td>**Dance only until step 6 of the Natural Top**</td> </tr> <tr> <td>Bronze</td> <td> 4-6 [Hockey Stick](hockey_stick.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position toward Partner's R Side** | **As described in the charts above** |
+|---|---|
+| Bronze | [Opening Out to R and L](opening_out_LR.md); [Closed Hip Twist](closed_hip.md) |
+| Silver | [Spiral](spiral.md); [Rope Spinning](rope_spinning.md) |
+| Gold | [Continuous Hip Twist](continuous_hip_twist.md); [Circular Hip Twist](circular_hip_twist.md) |
+|  |  |
+| **Ended to Side in Closed Position** | **Man and Lady take step 9 to side without turn** |
+| PreBronze | [Basic in Place](alternative_basic.md); [Closed Basic](closed_basic); [Alternative Basic](alternative_basic); [LF Cucaracha](cucaracha.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Steps to L commenced with LF](side_step.md); [Side Steps to R commenced with LF](side_step.md); [LF Cuban Rock](cuban_rocks.md) |
+| Bronze | [Fan](fan.md) |
+| Silver | [LF Syncopated Cuban Rock](syncopated_cuban_rock.md) |
+|  |  |
+| **Ended to Side in Open CPP** | **Man and Lady take step 9 to side, Man turning 1/8 to R, Lady 1/8 to L** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |
+|  |  |
+| **Following Step 6** | **Dance only until step 6 of the Natural Top** |
+| Bronze | 4-6 [Hockey Stick](hockey_stick.md) |

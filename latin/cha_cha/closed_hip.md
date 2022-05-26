@@ -5,20 +5,53 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>RSP</td> <td>1/8 to R before 1</td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>RSP</td> <td> </td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Ronde Chasse](../technique/c_ronde_chasse.html), LRL </td> <td>OP to PP</td> <td>1/8 to L between 4-5</td> </tr> <tr> <td>6</td> <td>2</td> <td>RF back</td> <td> </td> <td> </td> </tr> <tr> <td>7</td> <td>3</td> <td>Transfer weight to LF</td> <td> </td> <td> </td> </tr> <tr> <td>8-10</td> <td>4&amp;1</td> <td> [Hip Twist Chasse](../technique/c_twist_chasse.html), RLR </td> <td>Fan</td> <td>1/8 to R between 9-10</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | RSP | 1/8 to R before 1 |
+| 2 | 3 | Transfer weight to RF | RSP |  |
+| 3-5 | 4&amp;1 | [Ronde Chasse](../technique/c_ronde_chasse.md), LRL | OP to PP | 1/8 to L between 4-5 |
+| 6 | 2 | RF back |  |  |
+| 7 | 3 | Transfer weight to LF |  |  |
+| 8-10 | 4&amp;1 | [Hip Twist Chasse](../technique/c_twist_chasse.md), RLR | Fan | 1/8 to R between 9-10 |
 
 1\) Step 1 may be replaced with a Side Cucaracha
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back in RSP</td> <td>RSP</td> <td> 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)), then an additional 1/4 on LF before 1 </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>RSP</td> <td></td> </tr> <tr> <td>3-5</td> <td>4&amp;1</td> <td> [Hip Twist Chasse](../technique/c_twist_chasse.html), RLR </td> <td>OP to PP</td> <td>1/2 to L between 2-3, then 1/4 to R over 3-5</td> </tr> <tr> <td>6</td> <td>2</td> <td>LF fwd</td> <td> </td> <td> </td> </tr> <tr> <td>7</td> <td>3</td> <td>RF fwd, turning to end RF back &amp; slightly to side</td> <td> </td> <td> 3/8 to L ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>8-10</td> <td>4&amp;1</td> <td> [Back Lock](../technique/c_lock.html#bwd), LRL </td> <td>Fan</td> <td>1/8 to L between 7-8</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back in RSP | RSP | 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)), then an additional 1/4 on LF before 1 |
+| 2 | 3 | Transfer weight to LF | RSP |  |
+| 3-5 | 4&amp;1 | [Hip Twist Chasse](../technique/c_twist_chasse.md), RLR | OP to PP | 1/2 to L between 2-3, then 1/4 to R over 3-5 |
+| 6 | 2 | LF fwd |  |  |
+| 7 | 3 | RF fwd, turning to end RF back &amp; slightly to side |  | 3/8 to L ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 8-10 | 4&amp;1 | [Back Lock](../technique/c_lock.md#bwd), LRL | Fan | 1/8 to L between 7-8 |
 
-1\) (Gold) Step 7 may be overturned, turning 7/8 to L ([Spiral Action](../technique/cr_spiral_action.html)) to follow with a [Runaway Chasse](../technique/c_runaway_chasse.html)
+1\) (Gold) Step 7 may be overturned, turning 7/8 to L ([Spiral Action](../technique/cr_spiral_action.md)) to follow with a [Runaway Chasse](../technique/c_runaway_chasse.md)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Natural Top](natural_top.html); [Alemana](alemana.html) </td> </tr> <tr> <td>Silver</td> <td> [Rope Spinning](rope_spinning.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Natural Top](natural_top.md); [Alemana](alemana.md) |
+| Silver | [Rope Spinning](rope_spinning.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Fan Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html); [Hockey Stick](hockey_stick.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended in Open Position**</td> <td>**Man turns 1/8 to L between 7-8 to dance a Forward Lock without turn on steps 8-10**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Three Cha Chas Fwd](three_cha_chas_fwd_back.html#fwd) (from step 4) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Curl](curl.html); [Chase](chase.html) </td> </tr> <tr> <td>Gold</td> <td> [Turkish Towel](turkish_towel.html); [Sweetheart](sweetheart.html); [Follow my Leader](follow_leader.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Open CPP**</td> <td>**Lady turns an additional 1/8 to L between 7-8, both Man and Lady taking 8-10 diagonally fwd in Open CPP without turn**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady to L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.html#lsp) (from step 4) </td> </tr> <tr> <td>Silver</td> <td> [LF Cuban Break](cuban_breaks.html); [Split Cuban Break commenced with LF](cuban_breaks.html#split) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Contact Position**</td> <td>**Man dances a chasse to the right and slightly fwd on 8-10, turning 1/4 to R throughout. Lady crosses LF behind R (Latin Cross) on 8, RF to side on 9, and LF behind R (Latin Cross) on 10, turning 1/4 to R throughout. Closed Hold throughout**</td> </tr> <tr> <td>Silver</td> <td> [Reverse Top](reverse_top.html) (from step 6) </td> </tr> </tbody></table>
+ | **Ended in Fan Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Alemana](alemana.md); [Hockey Stick](hockey_stick.md) |
+|  |  |
+| **Ended in Open Position** | **Man turns 1/8 to L between 7-8 to dance a Forward Lock without turn on steps 8-10** |
+| PreBronze | [Open Basic](open_basic.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Three Cha Chas Fwd](three_cha_chas_fwd_back.md#fwd) (from step 4) |
+| Bronze | [Alemana](alemana.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Curl](curl.md); [Chase](chase.md) |
+| Gold | [Turkish Towel](turkish_towel.md); [Sweetheart](sweetheart.md); [Follow my Leader](follow_leader.md) |
+|  |  |
+| **Ended in Open CPP** | **Lady turns an additional 1/8 to L between 7-8, both Man and Lady taking 8-10 diagonally fwd in Open CPP without turn** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady to L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |
+| Bronze | [Three Cha Chas in LSP](three_cha_chas_in_RSP_LSP.md#lsp) (from step 4) |
+| Silver | [LF Cuban Break](cuban_breaks.md); [Split Cuban Break commenced with LF](cuban_breaks.md#split) |
+|  |  |
+| **Ended in Contact Position** | **Man dances a chasse to the right and slightly fwd on 8-10, turning 1/4 to R throughout. Lady crosses LF behind R (Latin Cross) on 8, RF to side on 9, and LF behind R (Latin Cross) on 10, turning 1/4 to R throughout. Closed Hold throughout** |
+| Silver | [Reverse Top](reverse_top.md) (from step 6) |

@@ -5,21 +5,64 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td> LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.html)) </td> <td>RSP</td> <td>1/8 to R before 1</td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to RF</td> <td>RSP</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>Close LF to RF</td> <td>Closed</td> <td> </td> </tr> <tr> <td>4</td> <td>2</td> <td>RF back</td> <td> </td> <td> </td> </tr> <tr> <td>5</td> <td>3</td> <td>Transfer weight to LF</td> <td> </td> <td> </td> </tr> <tr> <td>6</td> <td>41</td> <td>RF to side</td> <td>Fan</td> <td>1/8 to L</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF fwd ([Checked Fwd Walk](../technique/cr_checked_fwd_walk.md)) | RSP | 1/8 to R before 1 |
+| 2 | 3 | Transfer weight to RF | RSP |  |
+| 3 | 41 | Close LF to RF | Closed |  |
+| 4 | 2 | RF back |  |  |
+| 5 | 3 | Transfer weight to LF |  |  |
+| 6 | 41 | RF to side | Fan | 1/8 to L |
 
-1\) The Man's steps are similar to those of the [Closed Hip Twist](closed_hip.html)  
- 2) Step 1-2 may be danced as steps 1-2 of a [LF Cucaracha](cucaracha.html)
+1\) The Man's steps are similar to those of the [Closed Hip Twist](closed_hip.md)  
+ 2) Step 1-2 may be danced as steps 1-2 of a [LF Cucaracha](cucaracha.md)
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF back</td> <td>RSP</td> <td> 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)), then an additional 1/4 on LF before 1 </td> </tr> <tr> <td>2</td> <td>3</td> <td>Transfer weight to LF</td> <td>RSP</td> <td> </td> </tr> <tr> <td>3</td> <td>41</td> <td>RF to side, then turn underarm ending with LF crossed in front</td> <td>Closed</td> <td> 1/2 to L between 2-3, then an additional 5/8 ([Spiral Action](../technique/cr_spiral_action.html)) </td> </tr> <tr> <td>4</td> <td>2</td> <td>LF fwd</td> <td> </td> <td>1/8 to L</td> </tr> <tr> <td>5</td> <td>3</td> <td>RF fwd to end back &amp; slightly to side</td> <td> </td> <td> 3/8 to L ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> </tr> <tr> <td>6</td> <td>41</td> <td>LF back</td> <td>Fan</td> <td>4/8 to L between 5-6</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF back | RSP | 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)), then an additional 1/4 on LF before 1 |
+| 2 | 3 | Transfer weight to LF | RSP |  |
+| 3 | 41 | RF to side, then turn underarm ending with LF crossed in front | Closed | 1/2 to L between 2-3, then an additional 5/8 ([Spiral Action](../technique/cr_spiral_action.md)) |
+| 4 | 2 | LF fwd |  | 1/8 to L |
+| 5 | 3 | RF fwd to end back &amp; slightly to side |  | 3/8 to L ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) |
+| 6 | 41 | LF back | Fan | 4/8 to L between 5-6 |
 
-1\) The Lady's steps are similar to those of the [Closed Hip Twist](closed_hip.html)
+1\) The Lady's steps are similar to those of the [Closed Hip Twist](closed_hip.md)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position toward Partner's R Side**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html); [Natural Top](natural_top.html); [Opening Out to R and L](opening_out_LR.html) </td> </tr> <tr> <td>Silver</td> <td> [Rope Spinning](rope_spinning) </td> </tr> <tr> <td>Gold</td> <td> [Three Threes](three_threes.html); [Three Alemanas](three_alemanas.html); [Continuous Hip Twist](continuous_hip_twist.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced in Shadow Position**</td> <td>**Lady omits the Fwd Walk Turning before step 1**</td> </tr> <tr> <td>Gold</td> <td> [Sliding Doors](sliding_doors.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 4**</td> <td>**Commence the Spiral from step 4, the Lady having danced a Spiral Action at the end of the previous step**</td> </tr> <tr> <td>Silver</td> <td> 1-6 [Reverse Top](reverse_top.html) </td> </tr> <tr> <td>Gold</td> <td> 1-9 [Circular Hip Twist](circular_hip_twist.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position toward Partner's R Side** | **As described in the charts above** |
+|---|---|
+| Bronze | [Alemana](alemana.md); [Natural Top](natural_top.md); [Opening Out to R and L](opening_out_LR.md) |
+| Silver | [Rope Spinning](rope_spinning) |
+| Gold | [Three Threes](three_threes.md); [Three Alemanas](three_alemanas.md); [Continuous Hip Twist](continuous_hip_twist.md) |
+|  |  |
+| **Commenced in Shadow Position** | **Lady omits the Fwd Walk Turning before step 1** |
+| Gold | [Sliding Doors](sliding_doors.md) |
+|  |  |
+| **Preceding Step 4** | **Commence the Spiral from step 4, the Lady having danced a Spiral Action at the end of the previous step** |
+| Silver | 1-6 [Reverse Top](reverse_top.md) |
+| Gold | 1-9 [Circular Hip Twist](circular_hip_twist.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Fan Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html); [Hockey Stick](hockey_stick.html) </td> </tr> <tr> <td>Gold</td> <td> [Sliding Doors](sliding_doors.html); [Fencing](fencing.html); [Three Alemanas](three_alemanas.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Open Position**</td> <td>**Man turns 1/4 to L between steps 5-6 and steps RF fwd on 6**</td> </tr> <tr> <td>PreBronze</td> <td> [Open Basic](open_basic.html); [Progressive Walks Forward](progressive_walks.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html) </td> </tr> <tr> <td>Bronze</td> <td> [Alemana](alemana.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Curl](curl) </td> </tr> <tr> <td>Gold</td> <td> [Three Alemanas](three_alemanas.html); [Three Threes](three_threes.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Open CPP**</td> <td>**Man and Lady turn an additional 1/8 to L between steps 5-6, stepping diag fwd on step 6**</td> </tr> <tr> <td>PreBronze</td> <td> [New York to LSP](new_york.html); [Spot Turn to R (Lady L)](spot_turn.html); [Underarm Turn to L](underarm_turn.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended in Contact Position**</td> <td>**Man turns 3/8 to L over steps 5-6 to end RF to side &amp; slightly fwd. Lady turns an additional 1/8 between steps 5-6 to end LF behind RF (Latin Cross)**</td> </tr> <tr> <td>Silver</td> <td> 4-9 [Reverse Top](reverse_top.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 3**</td> <td>**Dancing only until the end of step 3 (including the Lady's Spiral action)**</td> </tr> <tr> <td>Silver</td> <td> [Aida](aida.html) </td> </tr> </tbody></table>
+ | **Ended in Fan Position** | **As described in the charts above** |
+|---|---|
+| Bronze | [Alemana](alemana.md); [Hockey Stick](hockey_stick.md) |
+| Gold | [Sliding Doors](sliding_doors.md); [Fencing](fencing.md); [Three Alemanas](three_alemanas.md) |
+|  |  |
+| **Ended in Open Position** | **Man turns 1/4 to L between steps 5-6 and steps RF fwd on 6** |
+| PreBronze | [Open Basic](open_basic.md); [Progressive Walks Forward](progressive_walks.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md) |
+| Bronze | [Alemana](alemana.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Curl](curl) |
+| Gold | [Three Alemanas](three_alemanas.md); [Three Threes](three_threes.md) |
+|  |  |
+| **Ended in Open CPP** | **Man and Lady turn an additional 1/8 to L between steps 5-6, stepping diag fwd on step 6** |
+| PreBronze | [New York to LSP](new_york.md); [Spot Turn to R (Lady L)](spot_turn.md); [Underarm Turn to L](underarm_turn.md) |
+|  |  |
+| **Ended in Contact Position** | **Man turns 3/8 to L over steps 5-6 to end RF to side &amp; slightly fwd. Lady turns an additional 1/8 between steps 5-6 to end LF behind RF (Latin Cross)** |
+| Silver | 4-9 [Reverse Top](reverse_top.md) |
+|  |  |
+| **Following Step 3** | **Dancing only until the end of step 3 (including the Lady's Spiral action)** |
+| Silver | [Aida](aida.md) |

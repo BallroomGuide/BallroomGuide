@@ -5,36 +5,85 @@
 
 Commence in Closed Position, facing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>LF fwd, L side leading</td> <td>Body turns to R</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>RF fwd in CBMP</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF fwd |  | Facing DC | DC |
+| 2 | LF fwd, L side leading | Body turns to R | Facing DC | DC |
+| 3 | RF fwd in CBMP |  | Facing DC | DC |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Rise e/o 1</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td>Up. Lower e/o 3</td> <td style="text-align:center">R</td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed | Rise e/o 1 |  | HT |
+| 2 | 3 | Q | Closed | Up | R | T |
+| 3 | 4 | Q | OP | Up. Lower e/o 3 | R | TH |
 
 1\) Body turns to face LOD on step 2, and will return to being in line with the feet on step 1 of the following figure  
- 2) When the Feather Step is commenced with the Man moving back and turning L, it is called the [Feather Finish](reverse_turn.html)  
- 3) When the Feather Step is commenced in PP (Silver), it is called the [Feather Ending](feather_ending.html)  
- 4) When only the second and third steps of the Feather Step are used (Silver), it is called the [Hover Feather](hover_feather.html)  
- 5) When the Feather Step is curved strongly to the R (Gold), it is called the [Curved Feather](curved_feather_back.html)  
- 6) When the Man and Lady dance each other's steps (Gold), it is called the [Back Feather](curved_feather_back.html)
+ 2) When the Feather Step is commenced with the Man moving back and turning L, it is called the [Feather Finish](reverse_turn.md)  
+ 3) When the Feather Step is commenced in PP (Silver), it is called the [Feather Ending](feather_ending.md)  
+ 4) When only the second and third steps of the Feather Step are used (Silver), it is called the [Hover Feather](hover_feather.md)  
+ 5) When the Feather Step is curved strongly to the R (Gold), it is called the [Curved Feather](curved_feather_back.md)  
+ 6) When the Man and Lady dance each other's steps (Gold), it is called the [Back Feather](curved_feather_back.md)
 
 ### Lady
 
 Commence in Closed Position, backing DC
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td> </td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>RF back R side leading</td> <td>Body turns to R</td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>LF back in CBMP</td> <td> </td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF back |  | Backing DC | DC |
+| 2 | RF back R side leading | Body turns to R | Backing DC | DC |
+| 3 | LF back in CBMP |  | Backing DC | DC |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td>Rise e/o 1, NFR</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>2</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up, NFR</td> <td style="text-align:center">L</td> <td style="text-align:right">TH</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td>Up, NFR. Lower e/o 3</td> <td style="text-align:center">L</td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed | Rise e/o 1, NFR |  | TH |
+| 2 | 3 | Q | Closed | Up, NFR | L | TH |
+| 3 | 4 | Q | OP | Up, NFR. Lower e/o 3 | L | TH |
 
 1\) Body turns to back LOD on step 2, and will return to being in line with the feet on step 1 of the following figure  
- 2) When the Feather Step is commenced with the Lady moving forward and turning L, it is called the [Feather Finish](reverse_turn.html)  
- 3) When the Feather Step is commenced in PP (Silver), it is called the [Feather Ending](feather_ending.html)  
- 4) When only the second and third steps of the Feather Step are used (Silver), it is called the [Hover Feather](hover_feather.html)  
- 5) When the Feather Step is curved strongly to the R (Gold), it is called the [Curved Feather](curved_feather_back.html)  
- 6) When the Man and Lady dance each other's steps (Gold), it is called the [Back Feather](curved_feather_back.html)
+ 2) When the Feather Step is commenced with the Lady moving forward and turning L, it is called the [Feather Finish](reverse_turn.md)  
+ 3) When the Feather Step is commenced in PP (Silver), it is called the [Feather Ending](feather_ending.md)  
+ 4) When only the second and third steps of the Feather Step are used (Silver), it is called the [Hover Feather](hover_feather.md)  
+ 5) When the Feather Step is curved strongly to the R (Gold), it is called the [Curved Feather](curved_feather_back.md)  
+ 6) When the Man and Lady dance each other's steps (Gold), it is called the [Back Feather](curved_feather_back.md)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DC**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Natural Turn](natural_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html) </td> </tr> <tr> <td>Silver</td> <td> [Hover Telemark](hover_telemark.html); [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Facing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Three Step](three_step.html); [Natural Turn](natural_turn.html) (at a corner) </td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Wave](reverse_wave.html) (at a corner) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing DW**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Three Step](three_step.html); [Natural Turn](natural_turn.html) (at a corner) </td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [Closed Telemark](closed_telemark.html); [Hover Telemark](hover_telemark.html) (at a corner); [Reverse Wave](reverse_wave.html) (at a corner) </td> </tr> </tbody></table>
+ | **Commenced Facing DC** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Natural Turn](natural_turn.md) |
+| Bronze | [Change of Direction](change_direction.md) |
+| Silver | [Hover Telemark](hover_telemark.md); [Reverse Wave](reverse_wave.md) |
+|  |  |
+| **Commenced Facing LOD** |  |
+| PreBronze | [Three Step](three_step.md); [Natural Turn](natural_turn.md) (at a corner) |
+| Bronze | [Change of Direction](change_direction.md) (at a corner) |
+| Silver | [Reverse Wave](reverse_wave.md) (at a corner) |
+|  |  |
+| **Commenced Facing DW** |  |
+| PreBronze | [Three Step](three_step.md); [Natural Turn](natural_turn.md) (at a corner) |
+| Bronze | [Change of Direction](change_direction.md) (at a corner) |
+| Silver | [Closed Telemark](closed_telemark.md); [Hover Telemark](hover_telemark.md) (at a corner); [Reverse Wave](reverse_wave.md) (at a corner) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td>**Ended Facing DC**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Reverse Turn &amp; Feather Finish](reverse_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [Closed Telemark](closed_telemark.html); [Open Telemark](open_telemark.html); [Outside Swivel](outside_swivel.html); [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td style="width:30%">Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html); [Bounce Fallaway with Weave Ending](bounce_fallaway.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td>**Ended Facing LOD**</td> <td> </td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Three Step](three_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html); [1-4 of Reverse Turn](reverse_turn.html) to Basic Weave </td> </tr> <tr> <td>Silver</td> <td> [Outside Swivel](outside_swivel.html); [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**Along the side of the floor**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Three Step](three_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html); [1-4 of Reverse Turn](reverse_turn.html) to Basic Weave </td> </tr> <tr> <td>Silver</td> <td> [Top Spin](top_spin.html); [Hover Telemark](hover_telemark.html); [Outside Swivel](outside_swivel.html); [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**Into a corner**</td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html); [1-4 of Reverse Turn](reverse_turn.html) to Basic Weave </td> </tr> <tr> <td>Silver</td> <td> [Top Spin](top_spin.html); [Hover Telemark](hover_telemark.html); [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td>Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Reverse Turn &amp; Feather Finish](reverse_turn.md) |
+| Silver | [Closed Telemark](closed_telemark.md); [Open Telemark](open_telemark.md); [Outside Swivel](outside_swivel.md); [Reverse Wave](reverse_wave.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md); [Bounce Fallaway with Weave Ending](bounce_fallaway.md) |
+|  |  |
+| **Ended Facing LOD** |  |
+| PreBronze | [Three Step](three_step.md) |
+| Bronze | [Change of Direction](change_direction.md); [1-4 of Reverse Turn](reverse_turn.md) to Basic Weave |
+| Silver | [Outside Swivel](outside_swivel.md); [Reverse Wave](reverse_wave.md) |
+|  |  |
+| **Ended Facing DW** | **Along the side of the floor** |
+| PreBronze | [Three Step](three_step.md) |
+| Bronze | [Change of Direction](change_direction.md); [1-4 of Reverse Turn](reverse_turn.md) to Basic Weave |
+| Silver | [Top Spin](top_spin.md); [Hover Telemark](hover_telemark.md); [Outside Swivel](outside_swivel.md); [Reverse Wave](reverse_wave.md) |
+|  |  |
+| **Ended Facing DW** | **Into a corner** |
+| Bronze | [Change of Direction](change_direction.md); [1-4 of Reverse Turn](reverse_turn.md) to Basic Weave |
+| Silver | [Top Spin](top_spin.md); [Hover Telemark](hover_telemark.md); [Reverse Wave](reverse_wave.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md) |

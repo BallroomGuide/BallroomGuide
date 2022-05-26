@@ -1,9 +1,12 @@
 <?php
 
-include "vendor/autoload.php";
+include __DIR__ . "/vendor/autoload.php";
 use League\HTMLToMarkdown\HtmlConverter;
+use League\HTMLToMarkdown\Converter\TableConverter;
+
 
 $converter = new HtmlConverter();
+$converter->getEnvironment()->addConverter(new TableConverter());
 
 $json = json_decode(file_get_contents(__DIR__ . '/source.json'), true);
 
@@ -20,6 +23,8 @@ foreach($json as $dance => $pages) {
         
 
         $markdown = $converter->convert($content);
+
+        $markdown = str_replace('.html', '.md', $markdown);
 
         file_put_contents(__DIR__ . '/../'. $path, $markdown);
 

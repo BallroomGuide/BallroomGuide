@@ -5,9 +5,17 @@
 
 Commence in Closed Position, facing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td>Com to turn L</td> <td style="text-align:center">Facing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>RF diag fwd, R side leading</td> <td>1/8 between 1-2</td> <td style="text-align:center">Pointing LOD</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>LF closes to RF without weight</td> <td>1/8 between 2-3</td> <td style="text-align:center">Facing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd | Com to turn L | Facing DW | DW |
+| 2 | RF diag fwd, R side leading | 1/8 between 1-2 | Pointing LOD | DW |
+| 3 | LF closes to RF without weight | 1/8 between 2-3 | Facing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of TH</td> </tr> <tr> <td>3</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed |  |  | HT |
+| 2 | 34 | S | Closed |  |  | i/e of TH |
+| 3 | 56 | S | Closed |  |  | i/e of T |
 
 1\) At a corner, amount of turn may be increased by 1/8 or 1/4 to end facing new LOD or DC of new LOD
 
@@ -15,16 +23,40 @@ Commence in Closed Position, facing DW
 
 Commence in Closed Position, backing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td>Com to turn L</td> <td style="text-align:center">Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>2</td> <td>LF diag back, L side leading</td> <td>1/4 over 1-3</td> <td style="text-align:center">Backing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>3</td> <td>Closed RF to LF without weight</td> <td> </td> <td style="text-align:center">Backing DC</td> <td style="text-align:center"> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF back | Com to turn L | Backing DW | DW |
+| 2 | LF diag back, L side leading | 1/4 over 1-3 | Backing DW | DW |
+| 3 | Closed RF to LF without weight |  | Backing DC |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>2</td> <td style="text-align:center">34</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of TH</td> </tr> <tr> <td>3</td> <td style="text-align:center">56</td> <td style="text-align:center">S</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | Closed |  |  | TH |
+| 2 | 34 | S | Closed |  |  | i/e of TH |
+| 3 | 56 | S | Closed |  |  | i/e of T |
 
 1\) At a corner, amount of turn may be increased by 1/8 or 1/4 to end facing new LOD or DC of new LOD
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td>**Commenced Facing LOD**</td> <td> </td> </tr> <tr> <td>Bronze</td> <td> [Reverse Pivot](reverse_pivot.html); [Double Reverse Spin](double_reverse.html); [Change of Direction](change_direction.html) (at a corner) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Facing DW**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Reverse Pivot](reverse_pivot.html); [Double Reverse Spin](double_reverse.html); [Change of Direction](change_direction.html) (at a corner) </td> </tr> </tbody></table>
+ | **Commenced Facing LOD** |  |
+|---|---|
+| Bronze | [Reverse Pivot](reverse_pivot.md); [Double Reverse Spin](double_reverse.md); [Change of Direction](change_direction.md) (at a corner) |
+|  |  |
+| **Commenced Facing DW** | **As described in the charts above** |
+| Bronze | [Reverse Pivot](reverse_pivot.md); [Double Reverse Spin](double_reverse.md); [Change of Direction](change_direction.md) (at a corner) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DC**</td> <td>**As described in the charts above, or at a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Chasse Reverse Turn](chasse_reverse.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Progressive Chasse to R](chasse_right.html); [Double Reverse Spin](double_reverse.html); [Cross Chasse](cross_chasse.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Closed Telemark](closed_telemark.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing New LOD**</td> <td>**At a corner**</td> </tr> <tr> <td>Bronze</td> <td> [Progressive Chasse to R](chasse_right.html); [Double Reverse Spin](double_reverse.html); [Cross Chasse](cross_chasse.html); [Change of Direction](change_direction.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW of New LOD**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Cross Chasse](cross_chasse.html); [Change of Direction](change_direction.html) </td> </tr> <tr> <td>Gold</td> <td> [Cross Swivel](cross_swivel.html) </td> </tr> </tbody></table>
+ | **Ended Facing DC** | **As described in the charts above, or at a corner** |
+|---|---|
+| PreBronze | [Chasse Reverse Turn](chasse_reverse.md) |
+| Bronze | [Progressive Chasse to R](chasse_right.md); [Double Reverse Spin](double_reverse.md); [Cross Chasse](cross_chasse.md) |
+| Silver | [Closed Telemark](closed_telemark.md) |
+|  |  |
+| **Ended Facing New LOD** | **At a corner** |
+| Bronze | [Progressive Chasse to R](chasse_right.md); [Double Reverse Spin](double_reverse.md); [Cross Chasse](cross_chasse.md); [Change of Direction](change_direction.md) |
+|  |  |
+| **Ended Facing DW of New LOD** | **At a corner** |
+| Bronze | [Cross Chasse](cross_chasse.md); [Change of Direction](change_direction.md) |
+| Gold | [Cross Swivel](cross_swivel.md) |

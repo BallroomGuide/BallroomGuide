@@ -5,21 +5,64 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> <td rowspan="13">Up to three complete turns to L over 1-13</td> </tr> <tr> <td>2</td> <td>3</td> <td>Swivel on Toe of LF to cross in front of RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>3</td> <td>4</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>4</td> <td>&amp;</td> <td>Swivel on Toe of LF to cross in front of RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>5</td> <td>1</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>6</td> <td>2</td> <td>Swivel on Toe of LF to cross in front of RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>7</td> <td>3</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>8</td> <td>4</td> <td>Swivel on Toe of LF to cross in front of RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>9</td> <td>&amp;</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>10</td> <td>1</td> <td>Swivel on Toe of LF to cross in front of RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>11</td> <td>2</td> <td>RF to side &amp; slightly fwd</td> <td>Contact</td> </tr> <tr> <td>12</td> <td>3</td> <td>Swivel on Toe of LF to cross in front of RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>13</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), RLR </td> <td>Closed</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | RF to side &amp; slightly fwd | Contact | Up to three complete turns to L over 1-13 |
+| 2 | 3 | Swivel on Toe of LF to cross in front of RF (Latin Cross) | Contact |
+| 3 | 4 | RF to side &amp; slightly fwd | Contact |
+| 4 | &amp; | Swivel on Toe of LF to cross in front of RF (Latin Cross) | Contact |
+| 5 | 1 | RF to side &amp; slightly fwd | Contact |
+| 6 | 2 | Swivel on Toe of LF to cross in front of RF (Latin Cross) | Contact |
+| 7 | 3 | RF to side &amp; slightly fwd | Contact |
+| 8 | 4 | Swivel on Toe of LF to cross in front of RF (Latin Cross) | Contact |
+| 9 | &amp; | RF to side &amp; slightly fwd | Contact |
+| 10 | 1 | Swivel on Toe of LF to cross in front of RF (Latin Cross) | Contact |
+| 11 | 2 | RF to side &amp; slightly fwd | Contact |
+| 12 | 3 | Swivel on Toe of LF to cross in front of RF (Latin Cross) | Contact |
+| 13 | 4&amp;1 | [Side Chasse](../technique/c_side_chasse.md), RLR | Closed |
 
 1\) The exact amount of turn made over the course of this figure may vary
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">****Step<span style="color:white">\_</span>\#****</td> <td style="width:10%">**Count**</td> <td style="width:30%">**Steps**</td> <td style="width:20%">**Position**</td> <td style="width:30%">**Turn**</td> </tr> <tr> <td>1</td> <td>2</td> <td>LF behind RF (Latin Cross)</td> <td>Contact</td> <td rowspan="13">Up to three complete turns to L over 1-13</td> </tr> <tr> <td>2</td> <td>3</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>3</td> <td>4</td> <td>LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>4</td> <td>&amp;</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>5</td> <td>1</td> <td>LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>6</td> <td>2</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>7</td> <td>3</td> <td>LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>8</td> <td>4</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>9</td> <td>&amp;</td> <td>LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>10</td> <td>1</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>11</td> <td>2</td> <td>LF behind RF (Latin Cross)</td> <td>Contact</td> </tr> <tr> <td>12</td> <td>3</td> <td>RF back &amp; slightly to side</td> <td>Contact</td> </tr> <tr> <td>13-15</td> <td>4&amp;1</td> <td> [Side Chasse](../technique/c_side_chasse.html), LRL </td> <td>Closed</td> </tr> </tbody></table>
+ | ****Step<span style="color:white">\_</span>\#**** | **Count** | **Steps** | **Position** | **Turn** |
+|---|---|---|---|---|
+| 1 | 2 | LF behind RF (Latin Cross) | Contact | Up to three complete turns to L over 1-13 |
+| 2 | 3 | RF back &amp; slightly to side | Contact |
+| 3 | 4 | LF behind RF (Latin Cross) | Contact |
+| 4 | &amp; | RF back &amp; slightly to side | Contact |
+| 5 | 1 | LF behind RF (Latin Cross) | Contact |
+| 6 | 2 | RF back &amp; slightly to side | Contact |
+| 7 | 3 | LF behind RF (Latin Cross) | Contact |
+| 8 | 4 | RF back &amp; slightly to side | Contact |
+| 9 | &amp; | LF behind RF (Latin Cross) | Contact |
+| 10 | 1 | RF back &amp; slightly to side | Contact |
+| 11 | 2 | LF behind RF (Latin Cross) | Contact |
+| 12 | 3 | RF back &amp; slightly to side | Contact |
+| 13-15 | 4&amp;1 | [Side Chasse](../technique/c_side_chasse.md), LRL | Closed |
 
 1\) The exact amount of turn made over the course of this figure may vary  
- 2) When following step 10 with the [Aida](aida.html) or the [Spiral](spiral.html), turn 5/8 to L on step 10 (Spiral Action)
+ 2) When following step 10 with the [Aida](aida.md) or the [Spiral](spiral.md), turn 5/8 to L on step 10 (Spiral Action)
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Contact Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-5 [Closed Basic](cross_basic.html); 1-5 [Time Step](time_step.html) </td> </tr> <tr> <td>Silver</td> <td> 1-5 [Cross Basic](cross_basic.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Preceding Step 6**</td> <td>**Commence the Reverse Top from step 6**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Basic](cross_basic.html); [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Closed Hip Twist](closed_hip.html) </td> </tr> <tr> <td>Silver</td> <td> [Open Hip Twist](open_hip.html); [Spiral](spiral.html); [Curl](curl.html); [Cross Basic](cross_basic.html) </td> </tr> </tbody></table>
+ | **Commenced in Contact Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-5 [Closed Basic](cross_basic.md); 1-5 [Time Step](time_step.md) |
+| Silver | 1-5 [Cross Basic](cross_basic.md) |
+|  |  |
+| **Preceding Step 6** | **Commence the Reverse Top from step 6** |
+| PreBronze | [Closed Basic](cross_basic.md); [Time Step](time_step.md) |
+| Bronze | [Closed Hip Twist](closed_hip.md) |
+| Silver | [Open Hip Twist](open_hip.md); [Spiral](spiral.md); [Curl](curl.md); [Cross Basic](cross_basic.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> [Closed Basic](closed_basic.html); [Basic in Place](basic_in_place.html); [L Side Shoulder to Shoulder](shoulder_to_shoulder.html); [Hand to Hand to RSP](hand_to_hand.html); [Side Step to L commenced with LF](side_step.html); [Side Step to R commenced with LF](side_step.html); [There and Back](there_and_back.html); [Time Step](time_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Fan](fan.html) </td> </tr> <tr> <td>Silver</td> <td> [Cross Basic](cross_basic.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Following Step 10**</td> <td>**Having danced only until step 10 of the Reverse Top**</td> </tr> <tr> <td>Silver</td> <td> [Opening Out from Reverse Top](opening_reverse.html); [Aida](aida.html); [Spiral](spiral.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position** | **As described in the charts above** |
+|---|---|
+| PreBronze | [Closed Basic](closed_basic.md); [Basic in Place](basic_in_place.md); [L Side Shoulder to Shoulder](shoulder_to_shoulder.md); [Hand to Hand to RSP](hand_to_hand.md); [Side Step to L commenced with LF](side_step.md); [Side Step to R commenced with LF](side_step.md); [There and Back](there_and_back.md); [Time Step](time_step.md) |
+| Bronze | [Fan](fan.md) |
+| Silver | [Cross Basic](cross_basic.md) |
+|  |  |
+| **Following Step 10** | **Having danced only until step 10 of the Reverse Top** |
+| Silver | [Opening Out from Reverse Top](opening_reverse.md); [Aida](aida.md); [Spiral](spiral.md) |

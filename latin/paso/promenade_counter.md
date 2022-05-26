@@ -5,9 +5,27 @@
 
 Commence in Closed Position with Closed Hold, facing Wall
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>Appel on RF</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>LF to side</td> <td>1/8 to L</td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>RF fwd &amp; across</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>LF fwd to end to side &amp; slightly back</td> <td> 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> <td>Backing LOD</td> <td style="text-align:center">DW</td> </tr> <tr> <td>5</td> <td>RF to side</td> <td>3/8 to R</td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>LF fwd &amp; across</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>RF fwd</td> <td>1/8 to R</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>8</td> <td>LF to side</td> <td>1/8 to R</td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | Appel on RF |  | Facing Wall | Under Body |
+| 2 | LF to side | 1/8 to L | Facing DW | LOD |
+| 3 | RF fwd &amp; across |  | Facing DW | LOD |
+| 4 | LF fwd to end to side &amp; slightly back | 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) | Backing LOD | DW |
+| 5 | RF to side | 3/8 to R | Facing DC | LOD |
+| 6 | LF fwd &amp; across |  | Facing DC | LOD |
+| 7 | RF fwd | 1/8 to R | Facing LOD | LOD |
+| 8 | LF to side | 1/8 to R | Facing DW | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**Shape**</td> <td style="width:20%;text-align:center">**Elevation**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">WF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Promenade</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Promenade</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Closed</td> <td style="text-align:center">CPP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">5</td> <td style="text-align:center">Counter Promenade</td> <td style="text-align:center">CPP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">6</td> <td style="text-align:center">Counter Promenade</td> <td style="text-align:center">CPP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>7</td> <td style="text-align:center">7</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>8</td> <td style="text-align:center">8</td> <td style="text-align:center">Promenade</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Shape** | **Elevation** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  | Medium | WF |
+| 2 | 2 | Promenade | PP | Medium | HF |
+| 3 | 3 | Promenade | PP | Medium | HF |
+| 4 | 4 | Closed | CPP | Medium | B |
+| 5 | 5 | Counter Promenade | CPP | Medium | BF |
+| 6 | 6 | Counter Promenade | CPP | Medium | HF |
+| 7 | 7 | Closed |  | Medium | HF |
+| 8 | 8 | Promenade | PP | Medium | HF |
 
 1\) This figure may be underturned at a corner or along the side of the room, turning only 1/4 on step 5 and/or omitting turn on step 8
 
@@ -15,22 +33,73 @@ Commence in Closed Position with Closed Hold, facing Wall
 
 Commence in Closed Position with Closed Hold, backing Wall
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>Appel on LF</td> <td> </td> <td>Backing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>RF to side</td> <td>1/8 to R</td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>LF fwd &amp; across</td> <td> </td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>4</td> <td>RF fwd</td> <td>1/8 to R</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>5</td> <td>LF to side</td> <td>1/8 to R</td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>RF fwd &amp; across</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>LF to side &amp; slightly back</td> <td> 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.html)) </td> <td>Backing LOD</td> <td style="text-align:center">DW</td> </tr> <tr> <td>8</td> <td>RF to side</td> <td>3/8 to R</td> <td>Facing DC</td> <td style="text-align:center">LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | Appel on LF |  | Backing Wall | Under Body |
+| 2 | RF to side | 1/8 to R | Facing DC | LOD |
+| 3 | LF fwd &amp; across |  | Facing DC | LOD |
+| 4 | RF fwd | 1/8 to R | Facing LOD | LOD |
+| 5 | LF to side | 1/8 to R | Facing DW | LOD |
+| 6 | RF fwd &amp; across |  | Facing DW | LOD |
+| 7 | LF to side &amp; slightly back | 3/8 to R ([Fwd Walk Turning](../technique/cr_fwd_walk_turning.md)) | Backing LOD | DW |
+| 8 | RF to side | 3/8 to R | Facing DC | LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:20%;text-align:center">**Shape**</td> <td style="width:20%;text-align:center">**Elevation**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">WF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Promenade</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Promenade</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Closed</td> <td style="text-align:center">CPP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>5</td> <td style="text-align:center">5</td> <td style="text-align:center">Closed</td> <td style="text-align:center">CPP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>6</td> <td style="text-align:center">6</td> <td style="text-align:center">OP</td> <td style="text-align:center">CPP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">HF</td> </tr> <tr> <td>7</td> <td style="text-align:center">7</td> <td style="text-align:center">Closed</td> <td style="text-align:center"> </td> <td style="text-align:center">Medium</td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">8</td> <td style="text-align:center">Closed</td> <td style="text-align:center">PP</td> <td style="text-align:center">Medium</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Shape** | **Elevation** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  | Medium | WF |
+| 2 | 2 | Promenade | PP | Medium | HF |
+| 3 | 3 | Promenade | PP | Medium | HF |
+| 4 | 4 | Closed | CPP | Medium | HF |
+| 5 | 5 | Closed | CPP | Medium | HF |
+| 6 | 6 | OP | CPP | Medium | HF |
+| 7 | 7 | Closed |  | Medium | B |
+| 8 | 8 | Closed | PP | Medium | BF |
 
 1\) This figure may be underturned at a corner or along the side of the room, omitting turn on step 5 and/or turning only 1/4 on step 8
 
 ### Precedes to this Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing Wall**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to R](chasse_to_right.html); [Chasse to L](chasse_to_left.html); [Drag](drag.html); [Promenade Link](promenade_link_close.html); [Separation](separation.html); [Separation with Caping Walk Ending](separation.html) </td> </tr> <tr> <td>Bronze</td> <td> [Separation with Fallaway Ending](separation.html); [Attack](attack.html); [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td>Silver</td> <td> [Banderillas](banderillas.html); [Twist Turn](twist_turn.html) (at a corner); [Coup de Pique](coup_de_pique.html) method 1 or 3 </td> </tr> </tbody></table>
+ | **Commenced Facing Wall** |  |
+|---|---|
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to R](chasse_to_right.md); [Chasse to L](chasse_to_left.md); [Drag](drag.md); [Promenade Link](promenade_link_close.md); [Separation](separation.md); [Separation with Caping Walk Ending](separation.md) |
+| Bronze | [Separation with Fallaway Ending](separation.md); [Attack](attack.md); [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Banderillas](banderillas.md); [Twist Turn](twist_turn.md) (at a corner); [Coup de Pique](coup_de_pique.md) method 1 or 3 |
 
 ### Precedes to Step 3 of this Figure
 
 **Commenced in Promenade Position**
 
- <table> <tbody><tr> <td style="width:30%">**Ready to Move LOD**</td> <td> </td> </tr> <tr> <td style="width: 30%">PreBronze</td> <td> [Sur Place](sur_place.html); [Basic Forward](basic.html); [Basic Backward](basic_backward.html); [Chasse to L](chasse_to_left.html); [Ecart](ecart.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Promenade and Counter Promenade](promenade_counter.html); [Open Telemark](open_telemark.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [Travelling Spins from PP](spins_promenade.html); [Travelling Spins from CPP](spins_counter_promenade.html) </td> </tr> </tbody></table>
+ | **Ready to Move LOD** |  |
+|---|---|
+| PreBronze | [Sur Place](sur_place.md); [Basic Forward](basic.md); [Basic Backward](basic_backward.md); [Chasse to L](chasse_to_left.md); [Ecart](ecart.md) |
+| Bronze | [Promenade and Counter Promenade](promenade_counter.md); [Open Telemark](open_telemark.md) |
+| Gold | [Travelling Spins from PP](spins_promenade.md); [Travelling Spins from CPP](spins_counter_promenade.md) |
 
 ### Follows to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Ready to Move to Centre**</td> <td>**As described in Note 1**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 3-4 [Promenade Link](promenade_link_close.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width: 30%">**Ready to Move DC**</td> <td>**As described in Note 1**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 3-4 [Promenade Link](promenade_link_close.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width: 30%">**Ready to Move LOD**</td> <td></td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 3-4 [Promenade Link](promenade_link_close.html); 3-8 [Promenade](promenade.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Huit](huit.html); 3-16 [Sixteen](sixteen.html); 3-8 [Promenade &amp; Counter Promenade](promenade_counter.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> 3-16 [La Passe](la_passe.html); 3-8 [Twist Turn](twist_turn.html); [Coup de Pique](coup_de_pique.html) method 1 or 2; [Spanish Line in Inverted CPP](spanish_lines.html) </td> </tr> <tr> <td style="width: 30%">Gold</td> <td> 3-8 [Travelling Spins from PP](spins_promenade.html); 3-10 [Travelling Spins from CPP](spins_counter_promenade.html); 3-28 [Fregolina](fregolina_farol.html); 3-15 [Twists](twists.html) </td> </tr> <tr> <td style="width: 30%"> </td> <td> </td> </tr> <tr> <td style="width: 30%">**Ready to Move DW of New LOD**</td> <td>**As described in Note 1**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 3-4 [Promenade Link](promenade_link_close.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> <tr> <td style="width: 30%"> </td> <td></td> </tr> <tr> <td style="width: 30%">**Ready to Move to Wall of New LOD**</td> <td>**At a corner**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 3-4 [Promenade Link](promenade_link_close.html) </td> </tr> <tr> <td style="width: 30%">Bronze</td> <td> [Huit](huit.html); [Grand Cricle](grand_circle.html) </td> </tr> <tr> <td style="width: 30%">Silver</td> <td> [Coup de Pique](coup_de_pique.html) method 1 or 2 </td> </tr> </tbody></table>
+ | **Ready to Move to Centre** | **As described in Note 1** |
+|---|---|
+| PreBronze | 3-4 [Promenade Link](promenade_link_close.md) |
+| Bronze | [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+|  |  |
+| **Ready to Move DC** | **As described in Note 1** |
+| PreBronze | 3-4 [Promenade Link](promenade_link_close.md) |
+| Bronze | [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+|  |  |
+| **Ready to Move LOD** |  |
+| PreBronze | 3-4 [Promenade Link](promenade_link_close.md); 3-8 [Promenade](promenade.md) |
+| Bronze | [Huit](huit.md); 3-16 [Sixteen](sixteen.md); 3-8 [Promenade &amp; Counter Promenade](promenade_counter.md); [Grand Cricle](grand_circle.md) |
+| Silver | 3-16 [La Passe](la_passe.md); 3-8 [Twist Turn](twist_turn.md); [Coup de Pique](coup_de_pique.md) method 1 or 2; [Spanish Line in Inverted CPP](spanish_lines.md) |
+| Gold | 3-8 [Travelling Spins from PP](spins_promenade.md); 3-10 [Travelling Spins from CPP](spins_counter_promenade.md); 3-28 [Fregolina](fregolina_farol.md); 3-15 [Twists](twists.md) |
+|  |  |
+| **Ready to Move DW of New LOD** | **As described in Note 1** |
+| PreBronze | 3-4 [Promenade Link](promenade_link_close.md) |
+| Bronze | [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Coup de Pique](coup_de_pique.md) method 1 or 2 |
+|  |  |
+| **Ready to Move to Wall of New LOD** | **At a corner** |
+| PreBronze | 3-4 [Promenade Link](promenade_link_close.md) |
+| Bronze | [Huit](huit.md); [Grand Cricle](grand_circle.md) |
+| Silver | [Coup de Pique](coup_de_pique.md) method 1 or 2 |

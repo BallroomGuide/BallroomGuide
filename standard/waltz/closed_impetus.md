@@ -5,22 +5,57 @@
 
 Commence in Closed Position, backing LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td>Com to turn R</td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2</td> <td>RF closes to LF (Heel Turn)</td> <td>3/8 between 1-2</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>3</td> <td>LF to side &amp; slightly back</td> <td>1/4 between 2-3</td> <td>Backing DC against LOD</td> <td style="text-align:center">Centre</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF back | Com to turn R | Backing LOD | LOD |
+| 2 | RF closes to LF (Heel Turn) | 3/8 between 1-2 | Facing DC | Under Body |
+| 3 | LF to side &amp; slightly back | 1/4 between 2-3 | Backing DC against LOD | Centre |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>2 </td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Rise e/o 2</td> <td style="text-align:center">L</td> <td style="text-align:right">HT</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  |  | TH |
+| 2 | 2 | Closed | Rise e/o 2 | L | HT |
+| 3 | 3 | Closed | Up. Lower e/o 3 |  | TH |
 
 ### Lady
 
 Commence in Closed Position, facing LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd</td> <td>Com to turn R</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2</td> <td>LF to side, then brush RF to LF</td> <td>3/8 between 1-2</td> <td>Backing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>RF diag fwd</td> <td>1/4 between 2-3</td> <td>Facing DC against LOD</td> <td style="text-align:center">Centre </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF fwd | Com to turn R | Facing LOD | LOD |
+| 2 | LF to side, then brush RF to LF | 3/8 between 1-2 | Backing DC | LOD |
+| 3 | RF diag fwd | 1/4 between 2-3 | Facing DC against LOD | Centre |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td> </td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Rise e/o 2</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed |  |  | HT |
+| 2 | 2 | Closed | Rise e/o 2 | R | T |
+| 3 | 3 | Closed | Up. Lower e/o 3 |  | TH |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Backing LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 1-3 [Natural Turn ](natural_turn.html) </td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Back Lock](back_lock.html); [Progressive Chasse to R](chasse_right.html) </td> </tr> <tr> <td style="width:30%"> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Backing DW**</td> <td>**Turn only 1/8 between steps 2-3 to end at the correct alignment**</td> </tr> <tr> <td style="width:30%">Bronze</td> <td> [Reverse Corte](reverse_corte.html); [Back Lock](back_lock.html); [Progressive Chasse to R](chasse_right.html) </td> </tr> <tr> <td style="width:30%">Silver</td> <td> [Drag Hesitation](drag_hesitation.html) </td> </tr> </tbody></table>
+ | **Commenced Backing LOD** | **As described in the charts above** |
+|---|---|
+| PreBronze | 1-3 [Natural Turn ](natural_turn.md) |
+| Bronze | [Back Lock](back_lock.md); [Progressive Chasse to R](chasse_right.md) |
+|  |  |
+| **Commenced Backing DW** | **Turn only 1/8 between steps 2-3 to end at the correct alignment** |
+| Bronze | [Reverse Corte](reverse_corte.md); [Back Lock](back_lock.md); [Progressive Chasse to R](chasse_right.md) |
+| Silver | [Drag Hesitation](drag_hesitation.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td>**Ended Backing DC against LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> 4-6 [Reverse Turn](reverse_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Reverse Corte](reverse_corte.html); [Reverse Pivot](reverse_pivot.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Backing DC**</td> <td>**At a corner**</td> </tr> <tr> <td>PreBronze</td> <td> 4-6 [Reverse Turn](reverse_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Reverse Corte](reverse_corte.html); [Reverse Pivot](reverse_pivot.html) </td> </tr> <tr> <td>Silver</td> <td> [Turning Lock to L](turning_lock.html) </td> </tr> <tr> <td>Gold</td> <td> [Hover Corte](hover_corte.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Backing LOD of new LOD**</td> <td>**Having commenced backing DW at a corner and dancing the full amount of turn**</td> </tr> <tr> <td>Gold</td> <td> [Left Whisk](left_whisk.html); [Turning Lock to R](turning_lock_right.html); [Hover Corte](hover_corte.html) </td> </tr> </tbody></table>
+ | **Ended Backing DC against LOD** | **As described in the charts above** |
+|---|---|
+| PreBronze | 4-6 [Reverse Turn](reverse_turn.md) |
+| Bronze | [Reverse Corte](reverse_corte.md); [Reverse Pivot](reverse_pivot.md) |
+|  |  |
+| **Ended Backing DC** | **At a corner** |
+| PreBronze | 4-6 [Reverse Turn](reverse_turn.md) |
+| Bronze | [Reverse Corte](reverse_corte.md); [Reverse Pivot](reverse_pivot.md) |
+| Silver | [Turning Lock to L](turning_lock.md) |
+| Gold | [Hover Corte](hover_corte.md) |
+|  |  |
+| **Ended Backing LOD of new LOD** | **Having commenced backing DW at a corner and dancing the full amount of turn** |
+| Gold | [Left Whisk](left_whisk.md); [Turning Lock to R](turning_lock_right.md); [Hover Corte](hover_corte.md) |

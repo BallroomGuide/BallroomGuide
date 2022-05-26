@@ -7,24 +7,80 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td>1/8 to L</td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to RF</td> <td> </td> </tr> <tr> <td>3</td> <td>LF crosses in front of RF, part weight</td> <td> </td> <td rowspan="3">Fwd Chasse turned into Latin Cross</td> </tr> <tr> <td>4</td> <td>RF to side &amp; slightly back</td> <td> </td> </tr> <tr> <td>5</td> <td>LF crosses in front of RF</td> <td>1/4 to L over 3-5</td> </tr> <tr> <td>6</td> <td>RF fwd &amp; slightly to side</td> <td> </td> <td>Fwd Walk</td> </tr> <tr> <td>7</td> <td>LF crosses in front of RF (Latin Cross)</td> <td>5/8 to L over 6-7</td> <td>Swivel into Latin Cross</td> </tr> <tr> <td>8</td> <td>RF to side, part weight</td> <td> </td> <td rowspan="3">Side Chasse</td> </tr> <tr> <td>9</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>10</td> <td>RF to side</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | LF back | 1/8 to L | Rock Step |
+| 2 | Replace weight to RF |  |
+| 3 | LF crosses in front of RF, part weight |  | Fwd Chasse turned into Latin Cross |
+| 4 | RF to side &amp; slightly back |  |
+| 5 | LF crosses in front of RF | 1/4 to L over 3-5 |
+| 6 | RF fwd &amp; slightly to side |  | Fwd Walk |
+| 7 | LF crosses in front of RF (Latin Cross) | 5/8 to L over 6-7 | Swivel into Latin Cross |
+| 8 | RF to side, part weight |  | Side Chasse |
+| 9 | LF closes halfway to RF |  |
+| 10 | RF to side |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Fallaway</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>8</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>9</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>10</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Fallaway | BF |
+| 2 | 2 | Q | Promenade | BF |
+| 3 | 3 | Q |  | B |
+| 4 | a | a |  | B |
+| 5 | 4 | Q | Closed | BF |
+| 6 | 1 | Q | Closed | BF |
+| 7 | 2 | Q | Closed | BF |
+| 8 | 3 | Q | Closed | B |
+| 9 | a | a | Closed | B |
+| 10 | 4 | Q | Closed | BF |
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td>1/8 to R</td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to LF</td> <td> </td> </tr> <tr> <td>3</td> <td>RF to side, part weight</td> <td> </td> <td rowspan="3">Side Chasse</td> </tr> <tr> <td>4</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>5</td> <td>RF to side &amp; slightly back</td> <td>1/2 to L over 3-5</td> </tr> <tr> <td>6</td> <td>LF crosses behind RF</td> <td> </td> <td>Latin Cross</td> </tr> <tr> <td>7</td> <td>RF back</td> <td>5/8 to L over 6-7</td> <td>Bwd Walk</td> </tr> <tr> <td>8</td> <td>LF to side, part weight</td> <td> </td> <td rowspan="3">Side Chasse</td> </tr> <tr> <td>9</td> <td>RF closes halfway to RF</td> <td> </td> </tr> <tr> <td>10</td> <td>LF to side</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | RF back | 1/8 to R | Rock Step |
+| 2 | Replace weight to LF |  |
+| 3 | RF to side, part weight |  | Side Chasse |
+| 4 | LF closes halfway to RF |  |
+| 5 | RF to side &amp; slightly back | 1/2 to L over 3-5 |
+| 6 | LF crosses behind RF |  | Latin Cross |
+| 7 | RF back | 5/8 to L over 6-7 | Bwd Walk |
+| 8 | LF to side, part weight |  | Side Chasse |
+| 9 | RF closes halfway to RF |  |
+| 10 | LF to side |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Fallaway</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">T</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>8</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>9</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>10</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Fallaway | BF |
+| 2 | 2 | Q | Promenade | BF |
+| 3 | 3 | Q |  | B |
+| 4 | a | a |  | B |
+| 5 | 4 | Q | Closed | BF |
+| 6 | 1 | Q | Closed | T |
+| 7 | 2 | Q | Closed | BF |
+| 8 | 3 | Q | Closed | B |
+| 9 | a | a | Closed | B |
+| 10 | 4 | Q | Closed | BF |
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](overturned_fallaway_throwaway.html); [Fallaway Rock](fallaway_rock.html); [Link](link.html) </td> </tr> <tr> <td>Bronze</td> <td> [Mooch](mooch.html); [Whip](whip.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Whip](reverse_whip.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position** |  |
+|---|---|
+| PreBronze | [Basic in Place](overturned_fallaway_throwaway.md); [Fallaway Rock](fallaway_rock.md); [Link](link.md) |
+| Bronze | [Mooch](mooch.md); [Whip](whip.md) |
+| Silver | [Reverse Whip](reverse_whip.md) |
 
 ### Preceding Figures to Step 3
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in PP**</td> <td> </td> </tr> <tr> <td>Bronze</td> <td> [Walks](walks.html) </td> </tr> <tr> <td>Gold</td> <td> [Toe Heel Swivels](toe_heel.html); [Stalking Walks](stalking_walks.html) </td> </tr> </tbody></table>
+ | **Commenced in PP** |  |
+|---|---|
+| Bronze | [Walks](walks.md) |
+| Gold | [Toe Heel Swivels](toe_heel.md); [Stalking Walks](stalking_walks.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](basic.html); [Fallaway Rock](fallaway_rock.html); [Fallaway Throwaway](fallaway_throwaway.html); [Change of Places R to L](change_RL.html) </td> </tr> <tr> <td>Bronze</td> <td> [Walks](walks.html); [Mooch](mooch.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Whip](reverse_whip.html) </td> </tr> <tr> <td>Gold</td> <td> [Stalking Walks](stalking_walks.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position** |  |
+|---|---|
+| PreBronze | [Basic in Place](basic.md); [Fallaway Rock](fallaway_rock.md); [Fallaway Throwaway](fallaway_throwaway.md); [Change of Places R to L](change_RL.md) |
+| Bronze | [Walks](walks.md); [Mooch](mooch.md) |
+| Silver | [Reverse Whip](reverse_whip.md) |
+| Gold | [Stalking Walks](stalking_walks.md) |

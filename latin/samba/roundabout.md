@@ -12,11 +12,27 @@
 Commence in R Contra Position with Closed Hold, Facing DW  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF crosses in front of LF (Latin Cross)</td> <td>1/4 to R</td> <td>Facing DW against LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>LF to side, part weight, toe turned out</td> <td>1/8 to R</td> <td>Pointing DW against LOD</td> <td style="text-align:center">Wall</td> </tr> <tr> <td>3</td> <td>RF crosses in front of LF (Latin Cross)</td> <td>1/4 to R</td> <td>Facing Centre</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>LF to side, part weight, toe turned out</td> <td>1/8 to R</td> <td>Pointing to Centre</td> <td style="text-align:center">DC against LOD</td> </tr> <tr> <td>5</td> <td>RF crosses in front of LF (Latin Cross)</td> <td>1/4 to R</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>6</td> <td>LF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DW</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>Replace wieght to RF</td> <td>1/4 to R over 6-7</td> <td>Facing DW against LOD</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF crosses in front of LF (Latin Cross) | 1/4 to R | Facing DW against LOD | Under Body |
+| 2 | LF to side, part weight, toe turned out | 1/8 to R | Pointing DW against LOD | Wall |
+| 3 | RF crosses in front of LF (Latin Cross) | 1/4 to R | Facing Centre | Under Body |
+| 4 | LF to side, part weight, toe turned out | 1/8 to R | Pointing to Centre | DC against LOD |
+| 5 | RF crosses in front of LF (Latin Cross) | 1/4 to R | Facing DW | Under Body |
+| 6 | LF to side, part weight, toe turned out |  | Pointing DW | LOD |
+| 7 | Replace wieght to RF | 1/4 to R over 6-7 | Facing DW against LOD | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | R Contra | BF |
+| 2 | a | a | R Contra | i/e of T |
+| 3 | 2 | S | R Contra | BF |
+| 4 | a | a | R Contra | i/e of T |
+| 5 | 1 | S | R Contra | BF |
+| 6 | a | a |  | i/e of T |
+| 7 | 2 | S | L Contra | BF |
 
-1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.html)  
+1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.md)  
  2) On step 2 the body faces against LOD; on step 4 the body faces DC; on step 6 the body faces Wall  
  3) The amount of turn, alignment, and direction during the roundabout may vary
 
@@ -25,21 +41,41 @@ Commence in R Contra Position with Closed Hold, Facing DW
 Commence in R Contra Position with Closed Hold, Facing DC against LOD  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF crosses in front of LF (Latin Cross)</td> <td>1/4 to R</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>LF to side, part weight, toe turned out</td> <td>1/8 to R</td> <td>Pointing DC</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>3</td> <td>RF crosses in front of LF (Latin Cross)</td> <td>1/4 to R</td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>LF to side, part weight, toe turned out</td> <td>1/8 to R</td> <td>Pointing to Wall</td> <td style="text-align:center">DW</td> </tr> <tr> <td>5</td> <td>RF crosses in front of LF (Latin Cross)</td> <td>1/4 to R</td> <td>Facing DC against LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>6</td> <td>LF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DC against LOD</td> <td style="text-align:center">Against LOD</td> </tr> <tr> <td>7</td> <td>Replace wieght to RF</td> <td>1/4 to R over 6-7</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF crosses in front of LF (Latin Cross) | 1/4 to R | Facing DC | Under Body |
+| 2 | LF to side, part weight, toe turned out | 1/8 to R | Pointing DC | Centre |
+| 3 | RF crosses in front of LF (Latin Cross) | 1/4 to R | Facing Wall | Under Body |
+| 4 | LF to side, part weight, toe turned out | 1/8 to R | Pointing to Wall | DW |
+| 5 | RF crosses in front of LF (Latin Cross) | 1/4 to R | Facing DC against LOD | Under Body |
+| 6 | LF to side, part weight, toe turned out |  | Pointing DC against LOD | Against LOD |
+| 7 | Replace wieght to RF | 1/4 to R over 6-7 | Facing DC | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | R Contra | BF |
+| 2 | a | a | R Contra | i/e of T |
+| 3 | 2 | S | R Contra | BF |
+| 4 | a | a | R Contra | i/e of T |
+| 5 | 1 | S | R Contra | BF |
+| 6 | a | a |  | i/e of T |
+| 7 | 2 | S | L Contra | BF |
 
-1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.html)  
+1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.md)  
  2) On step 2 the body faces LOD; on step 4 the body faces DW against LOD; on step 6 the body faces Centre  
  3) The amount of turn, alignment, and direction during the roundabout may vary
 
 ### Precedes to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DC**</td> <td></td> </tr> <tr> <td>Gold</td> <td> [Roundabout to L](roundabout.html); [Foot Change 6](foot_change_6_pp_cpp_to_contra.html) </td> </tr> </tbody></table>
+ | **Commenced Facing DC** |  |
+|---|---|
+| Gold | [Roundabout to L](roundabout.md); [Foot Change 6](foot_change_6_pp_cpp_to_contra.md) |
 
 ### Follows to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DW**</td> <td></td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [Roundabout to L](roundabout.html); [Foot Change 7](foot_change_7_contra_to_pp_cpp.html) </td> </tr> </tbody></table>
+ | **Ended Facing DW** |  |
+|---|---|
+| Gold | [Roundabout to L](roundabout.md); [Foot Change 7](foot_change_7_contra_to_pp_cpp.md) |
 
 <a id="left">Roundabout to Left</a>
 -----------------------------------
@@ -49,11 +85,27 @@ Commence in R Contra Position with Closed Hold, Facing DC against LOD
 Commence in R Contra Position with Closed Hold, Facing DW against LOD  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF crosses in front of RF (Latin Cross)</td> <td>1/4 to L</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>RF to side, part weight, toe turned out</td> <td>1/8 to L</td> <td>Pointing DW</td> <td style="text-align:center">Wall</td> </tr> <tr> <td>3</td> <td>LF crosses in front of RF (Latin Cross)</td> <td>1/4 to L</td> <td>Facing Centre</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>RF to side, part weight, toe turned out</td> <td>1/8 to L</td> <td>Pointing Centre</td> <td style="text-align:center">DC</td> </tr> <tr> <td>5</td> <td>LF crosses in front of RF (Latin Cross)</td> <td>1/4 to L</td> <td>Facing DW against LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>6</td> <td>RF to side, part weight, toe turned out</td> <td> </td> <td>Facing Wall</td> <td style="text-align:center"> Against LOD</td> </tr> <tr> <td>7</td> <td>Replace wieght to LF</td> <td>1/4 to L over 6-7</td> <td>Facing DW</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF crosses in front of RF (Latin Cross) | 1/4 to L | Facing DW | Under Body |
+| 2 | RF to side, part weight, toe turned out | 1/8 to L | Pointing DW | Wall |
+| 3 | LF crosses in front of RF (Latin Cross) | 1/4 to L | Facing Centre | Under Body |
+| 4 | RF to side, part weight, toe turned out | 1/8 to L | Pointing Centre | DC |
+| 5 | LF crosses in front of RF (Latin Cross) | 1/4 to L | Facing DW against LOD | Under Body |
+| 6 | RF to side, part weight, toe turned out |  | Facing Wall | Against LOD |
+| 7 | Replace wieght to LF | 1/4 to L over 6-7 | Facing DW | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | L Contra | BF |
+| 2 | a | a | L Contra | i/e of T |
+| 3 | 2 | S | L Contra | BF |
+| 4 | a | a | L Contra | i/e of T |
+| 5 | 1 | S | L Contra | BF |
+| 6 | a | a |  | i/e of T |
+| 7 | 2 | S | R Contra | BF |
 
-1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.html)  
+1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.md)  
  2) On step 2 the body faces LOD; on step 4 the body faces DC against LOD; on step 6 the body faces Wall  
  3) The amount of turn, alignment, and direction during the roundabout may vary
 
@@ -62,18 +114,38 @@ Commence in R Contra Position with Closed Hold, Facing DW against LOD
 Commence in R Contra Position with Closed Hold, Facing DC  
  This figure uses Bounce Action
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF crosses in front of RF (Latin Cross)</td> <td>1/4 to L</td> <td>Facing DC against LOD</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>2</td> <td>RF to side, part weight, toe turned out</td> <td>1/8 to L</td> <td>Pointing DC against LOD</td> <td style="text-align:center">Centre</td> </tr> <tr> <td>3</td> <td>LF crosses in front of RF (Latin Cross)</td> <td>1/4 to L</td> <td>Facing Wall</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>4</td> <td>RF to side, part weight, toe turned out</td> <td>1/8 to L</td> <td>Pointing to Wall</td> <td style="text-align:center">DW against LOD</td> </tr> <tr> <td>5</td> <td>LF crosses in front of RF (Latin Cross)</td> <td>1/4 to L</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> <tr> <td>6</td> <td>RF to side, part weight, toe turned out</td> <td> </td> <td>Pointing DC</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>7</td> <td>Replace wieght to LF</td> <td>1/4 to L over 6-7</td> <td>Facing DC</td> <td style="text-align:center">Under Body</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF crosses in front of RF (Latin Cross) | 1/4 to L | Facing DC against LOD | Under Body |
+| 2 | RF to side, part weight, toe turned out | 1/8 to L | Pointing DC against LOD | Centre |
+| 3 | LF crosses in front of RF (Latin Cross) | 1/4 to L | Facing Wall | Under Body |
+| 4 | RF to side, part weight, toe turned out | 1/8 to L | Pointing to Wall | DW against LOD |
+| 5 | LF crosses in front of RF (Latin Cross) | 1/4 to L | Facing DC | Under Body |
+| 6 | RF to side, part weight, toe turned out |  | Pointing DC | LOD |
+| 7 | Replace wieght to LF | 1/4 to L over 6-7 | Facing DC | Under Body |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>3</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>5</td> <td style="text-align:center">1</td> <td style="text-align:center">S</td> <td style="text-align:center">L Contra</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center"> </td> <td style="text-align:right">i/e of T</td> </tr> <tr> <td>7</td> <td style="text-align:center">2</td> <td style="text-align:center">S</td> <td style="text-align:center">R Contra</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | S | L Contra | BF |
+| 2 | a | a | L Contra | i/e of T |
+| 3 | 2 | S | L Contra | BF |
+| 4 | a | a | L Contra | i/e of T |
+| 5 | 1 | S | L Contra | BF |
+| 6 | a | a |  | i/e of T |
+| 7 | 2 | S | R Contra | BF |
 
-1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.html)  
+1\) Steps 6-7 are steps 2-3 of a [Bota Fogo](shadow_bota_fogos.md)  
  2) On step 2 the body faces against LOD; on step 4 the body faces DW; on step 6 the body faces Centre  
  3) The amount of turn, alignment, and direction during the roundabout may vary
 
 ### Precedes to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Facing DC**</td> <td></td> </tr> <tr> <td>Gold</td> <td> [Roundabout to R](roundabout.html); [Foot Change 6](foot_change_6_pp_cpp_to_contra.html) </td> </tr> </tbody></table>
+ | **Commenced Facing DC** |  |
+|---|---|
+| Gold | [Roundabout to R](roundabout.md); [Foot Change 6](foot_change_6_pp_cpp_to_contra.md) |
 
 ### Follows to This Figure
 
- <table> <tbody><tr> <td style="width:30%">**Ended Facing DW**</td> <td></td> </tr> <tr> <td style="width: 30%">Gold</td> <td> [Roundabout to R](roundabout.html); [Foot Change 7](foot_change_7_contra_to_pp_cpp.html) </td> </tr> </tbody></table>
+ | **Ended Facing DW** |  |
+|---|---|
+| Gold | [Roundabout to R](roundabout.md); [Foot Change 7](foot_change_7_contra_to_pp_cpp.md) |

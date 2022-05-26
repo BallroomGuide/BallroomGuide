@@ -5,11 +5,27 @@
 
 Commence in Promenade Position, feet facing LOD, body facing DW
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>RF fwd and across in CBMP</td> <td>Com to turn L</td> <td>Facing LOD</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>LF fwd</td> <td>1/8 between 1-2</td> <td>Facing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>RF to side &amp; slightly back</td> <td>1/4 between 2-3</td> <td>Backing DW</td> <td style="text-align:center">DC</td> </tr> <tr> <td>4</td> <td>LF back in CBMP</td> <td>1/8 between 3-4, body turns less</td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>5</td> <td>RF back</td> <td>Com to turn L</td> <td>Backing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>LF to side &amp; slightly fwd</td> <td>3/8 between 5-6, body turns less</td> <td>Pointing DW</td> <td style="text-align:center">DW</td> </tr> <tr> <td>7</td> <td>RF fwd in CBMP</td> <td> </td> <td>Facing DW</td> <td style="text-align:center">DW</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF fwd and across in CBMP | Com to turn L | Facing LOD | DC |
+| 2 | LF fwd | 1/8 between 1-2 | Facing DC | DC |
+| 3 | RF to side &amp; slightly back | 1/4 between 2-3 | Backing DW | DC |
+| 4 | LF back in CBMP | 1/8 between 3-4, body turns less | Backing LOD | LOD |
+| 5 | RF back | Com to turn L | Backing LOD | LOD |
+| 6 | LF to side &amp; slightly fwd | 3/8 between 5-6, body turns less | Pointing DW | DW |
+| 7 | RF fwd in CBMP |  | Facing DW | DW |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td>Rise e/o 1</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center">L</td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">5</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td>Up</td> <td style="text-align:center">L</td> <td style="text-align:right">T</td> </tr> <tr> <td>5</td> <td style="text-align:center">6</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>6</td> <td style="text-align:center">7</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>7</td> <td style="text-align:center">8</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td>Up. Lower e/o 7</td> <td style="text-align:center">R</td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | PP | Rise e/o 1 |  | HT |
+| 2 | 3 | Q | Closed | Up |  | T |
+| 3 | 4 | Q | Closed | Up | L | T |
+| 4 | 5 | Q | OP | Up | L | T |
+| 5 | 6 | Q | Closed | Up |  | T |
+| 6 | 7 | Q | Closed | Up | R | T |
+| 7 | 8 | Q | OP | Up. Lower e/o 7 | R | TH |
 
-1\) Steps 4-7 are known as the Weave Ending, which is used in the following figures: [Natural Weave](natural_weave.html), [Basic Weave](basic_weave.html), [Weave from PP](weave_from_pp.html), and [Bounce Fallaway with Weave Ending](bounce_fallaway.html)  
+1\) Steps 4-7 are known as the Weave Ending, which is used in the following figures: [Natural Weave](natural_weave.md), [Basic Weave](basic_weave.md), [Weave from PP](weave_from_pp.md), and [Bounce Fallaway with Weave Ending](bounce_fallaway.md)  
  2) Steps 3 and 4 may be repeated once (this is known as the *Extended Weave*)  
  3) This figure may be commenced moving toward Centre, making 1/8 less turn between steps 2-3  
  4) Step 3 may turn an additional 1/8 so that steps 4 and 5 are taken backing and moving DC, turning then only 1/4 between 5-6 to return to a normal alignment  
@@ -19,11 +35,27 @@ Commence in Promenade Position, feet facing LOD, body facing DW
 
 Commence in Promenade Position, feet facing Centre, body facing DC against LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd and across in PP and CBMP</td> <td>Com to turn L</td> <td>Facing Centre</td> <td style="text-align:center">DC</td> </tr> <tr> <td>2</td> <td>RF to side &amp; slightly back</td> <td>3/8 between 1-2</td> <td>Backing DC</td> <td style="text-align:center">DC</td> </tr> <tr> <td>3</td> <td>LF to side &amp; slightly fwd</td> <td>3/8 between 2-3, body turns less</td> <td>Pointing to LOD</td> <td style="text-align:center">DC</td> </tr> <tr> <td>4</td> <td>RF fwd in CBMP</td> <td> </td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>5</td> <td>LF fwd</td> <td>Com to turn L</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>6</td> <td>RF to side</td> <td>1/4 between 5-6</td> <td>Backing wall</td> <td style="text-align:center">DW</td> </tr> <tr> <td>7</td> <td>LF back in CBMP</td> <td>1/8 between 6-7, body turns less</td> <td>Backing DW</td> <td style="text-align:center">DW</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd and across in PP and CBMP | Com to turn L | Facing Centre | DC |
+| 2 | RF to side &amp; slightly back | 3/8 between 1-2 | Backing DC | DC |
+| 3 | LF to side &amp; slightly fwd | 3/8 between 2-3, body turns less | Pointing to LOD | DC |
+| 4 | RF fwd in CBMP |  | Facing LOD | LOD |
+| 5 | LF fwd | Com to turn L | Facing LOD | LOD |
+| 6 | RF to side | 1/4 between 5-6 | Backing wall | DW |
+| 7 | LF back in CBMP | 1/8 between 6-7, body turns less | Backing DW | DW |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:10%;text-align:center">**Rhythm**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:30%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td style="text-align:center">PP</td> <td>Rise e/o 1</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">5</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td>Up</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>5</td> <td style="text-align:center">6</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up</td> <td style="text-align:center"></td> <td style="text-align:right">T</td> </tr> <tr> <td>6</td> <td style="text-align:center">7</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td>Up, NFR</td> <td style="text-align:center">L</td> <td style="text-align:right">TH</td> </tr> <tr> <td>7</td> <td style="text-align:center">8</td> <td style="text-align:center">Q</td> <td style="text-align:center">OP</td> <td>Up, NFR. Lower e/o 7</td> <td style="text-align:center">L</td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|---|
+| 1 | 12 | S | PP | Rise e/o 1 |  | HT |
+| 2 | 3 | Q | Closed | Up |  | T |
+| 3 | 4 | Q | Closed | Up | R | T |
+| 4 | 5 | Q | OP | Up | R | T |
+| 5 | 6 | Q | Closed | Up |  | T |
+| 6 | 7 | Q | Closed | Up, NFR | L | TH |
+| 7 | 8 | Q | OP | Up, NFR. Lower e/o 7 | L | TH |
 
-1\) Steps 4-7 are known as the Weave Ending, which is used in the following figures: [Natural Weave](natural_weave.html), [Basic Weave](basic_weave.html), [Weave from PP](weave_from_pp.html), and [Bounce Fallaway with Weave Ending](bounce_fallaway.html)  
+1\) Steps 4-7 are known as the Weave Ending, which is used in the following figures: [Natural Weave](natural_weave.md), [Basic Weave](basic_weave.md), [Weave from PP](weave_from_pp.md), and [Bounce Fallaway with Weave Ending](bounce_fallaway.md)  
  2) Steps 3 and 4 may be repeated once (this is known as the *Extended Weave*)  
  3) This figure may be commenced moving toward Centre, making 1/8 less turn between steps 2-3  
  4) Step 3 may turn an additional 1/8 so that steps 4 and 5 are taken backing and moving DC, turning then only 1/4 between 5-6 to return to a normal alignment  
@@ -31,8 +63,24 @@ Commence in Promenade Position, feet facing Centre, body facing DC against LOD
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Moving Centre**</td> <td> </td> </tr> <tr> <td>Silver</td> <td> [Outside Swivel](outside_swivel.html); [Open Impetus](open_impetus.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Commenced Moving DC**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Silver</td> <td> [Hover Telemark](hover_telemark.html) ended in PP; [Outside Swivel](outside_swivel.html); [Open Impetus](open_impetus.html) </td> </tr> <tr> <td>Gold</td> <td> [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.html) </td> </tr> </tbody></table>
+ | **Commenced Moving Centre** |  |
+|---|---|
+| Silver | [Outside Swivel](outside_swivel.md); [Open Impetus](open_impetus.md) |
+| Gold | [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.md) |
+|  |  |
+| **Commenced Moving DC** | **As described in the charts above** |
+| Silver | [Hover Telemark](hover_telemark.md) ended in PP; [Outside Swivel](outside_swivel.md); [Open Impetus](open_impetus.md) |
+| Gold | [Natural Twist Turn with Open Impetus Ending](twist_turn_open_impetus.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td>**Ended Facing DW**</td> <td>**At the side of the floor**</td> </tr> <tr> <td style="width:30%">PreBronze</td> <td> [Three Step](three_step.html) </td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html); [1-4 of Reverse Turn](reverse_turn.html) to Basic Weave </td> </tr> <tr> <td>Silver</td> <td> [Top Spin](top_spin.html); [Hover Telemark](hover_telemark.html); [Outside Swivel](outside_swivel.html); [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td style="width:30%">**Ended Facing DW**</td> <td>**Into a corner**</td> </tr> <tr> <td>Bronze</td> <td> [Change of Direction](change_direction.html); [1-4 of Reverse Turn](reverse_turn.html) to Basic Weave </td> </tr> <tr> <td>Silver</td> <td> [Top Spin](top_spin.html); [Hover Telemark](hover_telemark.html); [Reverse Wave](reverse_wave.html) </td> </tr> <tr> <td>Gold</td> <td> [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.html) </td> </tr> </tbody></table>
+ | **Ended Facing DW** | **At the side of the floor** |
+|---|---|
+| PreBronze | [Three Step](three_step.md) |
+| Bronze | [Change of Direction](change_direction.md); [1-4 of Reverse Turn](reverse_turn.md) to Basic Weave |
+| Silver | [Top Spin](top_spin.md); [Hover Telemark](hover_telemark.md); [Outside Swivel](outside_swivel.md); [Reverse Wave](reverse_wave.md) |
+|  |  |
+| **Ended Facing DW** | **Into a corner** |
+| Bronze | [Change of Direction](change_direction.md); [1-4 of Reverse Turn](reverse_turn.md) to Basic Weave |
+| Silver | [Top Spin](top_spin.md); [Hover Telemark](hover_telemark.md); [Reverse Wave](reverse_wave.md) |
+| Gold | [Fallaway Reverse &amp; Slip Pivot](fallaway_reverse.md) |

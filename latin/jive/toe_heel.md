@@ -5,26 +5,96 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>LF back</td> <td> </td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to RF</td> <td> </td> </tr> <tr> <td>3</td> <td>Swivel on RF and close L Toe to RF without weight</td> <td>1/8 to R</td> <td>Tap</td> </tr> <tr> <td>4</td> <td>Swivel on RF and place L Heel to side without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>5</td> <td>Swivel on RF and step LF fwd &amp; across</td> <td>1/4 to R</td> <td>Fwd Step</td> </tr> <tr> <td>6</td> <td>Swivel on LF and close R Toe to LF without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>7</td> <td>Swivel on LF and place R Heel to side without weight</td> <td>1/4 to R</td> <td>Tap</td> </tr> <tr> <td>8</td> <td>Swivel on LF and step RF fwd &amp; across</td> <td>1/4 to L</td> <td>Fwd Step</td> </tr> <tr> <td>9</td> <td>Swivel on RF and close L Toe to RF without weight</td> <td>1/4 to R</td> <td>Tap</td> </tr> <tr> <td>10</td> <td>Swivel on RF and place L Heel to side without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>11</td> <td>Swivel on RF and step LF fwd &amp; across</td> <td>1/4 to R</td> <td>Fwd Step</td> </tr> <tr> <td>12</td> <td>Swivel on LF and close R Toe to LF without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>13</td> <td>Swivel on LF and place R Heel to side without weight</td> <td>1/4 to R</td> <td>Tap</td> </tr> <tr> <td>14</td> <td>Swivel on LF and step RF fwd &amp; across</td> <td>1/4 to L</td> <td>Fwd Step</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | LF back |  | Rock Step |
+| 2 | Replace weight to RF |  |
+| 3 | Swivel on RF and close L Toe to RF without weight | 1/8 to R | Tap |
+| 4 | Swivel on RF and place L Heel to side without weight | 1/4 to L | Tap |
+| 5 | Swivel on RF and step LF fwd &amp; across | 1/4 to R | Fwd Step |
+| 6 | Swivel on LF and close R Toe to LF without weight | 1/4 to L | Tap |
+| 7 | Swivel on LF and place R Heel to side without weight | 1/4 to R | Tap |
+| 8 | Swivel on LF and step RF fwd &amp; across | 1/4 to L | Fwd Step |
+| 9 | Swivel on RF and close L Toe to RF without weight | 1/4 to R | Tap |
+| 10 | Swivel on RF and place L Heel to side without weight | 1/4 to L | Tap |
+| 11 | Swivel on RF and step LF fwd &amp; across | 1/4 to R | Fwd Step |
+| 12 | Swivel on LF and close R Toe to LF without weight | 1/4 to L | Tap |
+| 13 | Swivel on LF and place R Heel to side without weight | 1/4 to R | Tap |
+| 14 | Swivel on LF and step RF fwd &amp; across | 1/4 to L | Fwd Step |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>5</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td>Counter Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>7</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>8</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td>Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>9</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>10</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>11</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>12</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>13</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>14</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Open | BF |
+| 2 | 2 | Q | Open | BF |
+| 3 | 3 | Q | Counter Promenade | T |
+| 4 | 4 | Q | Promenade | H |
+| 5 | 12 | S | Counter Promenade | BF |
+| 6 | 3 | Q | Promenade | T |
+| 7 | 4 | Q | Counter Promenade | H |
+| 8 | 12 | S | Promenade | BF |
+| 9 | 3 | Q | Counter Promenade | T |
+| 10 | 4 | Q | Promenade | H |
+| 11 | 1 | Q | Counter Promenade | BF |
+| 12 | 2 | Q | Promenade | T |
+| 13 | 3 | Q | Counter Promenade | H |
+| 14 | 4 | Q | Promenade | BF |
 
 1\) Steps 3-8 may be omitted  
  2) Steps 9-14 may be omitted
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>RF back</td> <td>1/8 to R</td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to LF</td> <td> </td> </tr> <tr> <td>3</td> <td>Swivel on LF and close R Toe to LF without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>4</td> <td>Swivel on LF and place R Heel to side without weight</td> <td>1/4 to R</td> <td>Tap</td> </tr> <tr> <td>5</td> <td>Swivel on LF and step RF fwd &amp; across</td> <td>1/4 to L</td> <td>Fwd Step</td> </tr> <tr> <td>6</td> <td>Swivel on RF and close L Toe to RF without weight</td> <td>1/4 to R</td> <td>Tap</td> </tr> <tr> <td>7</td> <td>Swivel on RF and place L Heel to side without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>8</td> <td>Swivel on RF and step LF fwd &amp; across</td> <td>1/4 to R</td> <td>Fwd Step</td> </tr> <tr> <td>9</td> <td>Swivel on LF and close R Toe to LF without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>10</td> <td>Swivel on LF and place R Heel to side without weight</td> <td>1/4 to R</td> <td>Tap</td> </tr> <tr> <td>11</td> <td>Swivel on LF and step RF fwd &amp; across</td> <td>1/4 to L</td> <td>Fwd Step</td> </tr> <tr> <td>12</td> <td>Swivel on RF and close L Toe to RF without weight</td> <td>1/4 to R</td> <td>Tap</td> </tr> <tr> <td>13</td> <td>Swivel on RF and place L Heel to side without weight</td> <td>1/4 to L</td> <td>Tap</td> </tr> <tr> <td>14</td> <td>Swivel on RF and step LF fwd &amp; across</td> <td>1/4 to R</td> <td>Fwd Step</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | RF back | 1/8 to R | Rock Step |
+| 2 | Replace weight to LF |  |
+| 3 | Swivel on LF and close R Toe to LF without weight | 1/4 to L | Tap |
+| 4 | Swivel on LF and place R Heel to side without weight | 1/4 to R | Tap |
+| 5 | Swivel on LF and step RF fwd &amp; across | 1/4 to L | Fwd Step |
+| 6 | Swivel on RF and close L Toe to RF without weight | 1/4 to R | Tap |
+| 7 | Swivel on RF and place L Heel to side without weight | 1/4 to L | Tap |
+| 8 | Swivel on RF and step LF fwd &amp; across | 1/4 to R | Fwd Step |
+| 9 | Swivel on LF and close R Toe to LF without weight | 1/4 to L | Tap |
+| 10 | Swivel on LF and place R Heel to side without weight | 1/4 to R | Tap |
+| 11 | Swivel on LF and step RF fwd &amp; across | 1/4 to L | Fwd Step |
+| 12 | Swivel on RF and close L Toe to RF without weight | 1/4 to R | Tap |
+| 13 | Swivel on RF and place L Heel to side without weight | 1/4 to L | Tap |
+| 14 | Swivel on RF and step LF fwd &amp; across | 1/4 to R | Fwd Step |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td>Open</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>4</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>5</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td>Counter Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>7</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>8</td> <td style="text-align:center">12</td> <td style="text-align:center">S</td> <td>Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>9</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>10</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>11</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">BF</td> </tr> <tr> <td>12</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">T</td> </tr> <tr> <td>13</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td>Counter Promenade</td> <td style="text-align:right">H</td> </tr> <tr> <td>14</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td>Promenade</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Open | BF |
+| 2 | 2 | Q | Open | BF |
+| 3 | 3 | Q | Counter Promenade | T |
+| 4 | 4 | Q | Promenade | H |
+| 5 | 12 | S | Counter Promenade | BF |
+| 6 | 3 | Q | Promenade | T |
+| 7 | 4 | Q | Counter Promenade | H |
+| 8 | 12 | S | Promenade | BF |
+| 9 | 3 | Q | Counter Promenade | T |
+| 10 | 4 | Q | Promenade | H |
+| 11 | 1 | Q | Counter Promenade | BF |
+| 12 | 2 | Q | Promenade | T |
+| 13 | 3 | Q | Counter Promenade | H |
+| 14 | 4 | Q | Promenade | BF |
 
 1\) Steps 3-8 may be omitted  
  2) Steps 9-14 may be omitted
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Open Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Fallaway Throwaway](fallaway_throwaway.html); [Change of Places R to L](change_RL.html); [Change of Places L to Right](change_LR.html); [Change of Hands Behind the Back](behind_back.html); [Hip Bump](hip_bump.html) </td> </tr> <tr> <td>Bronze</td> <td> [American Spin](american_spin.html); [Stop and Go](stop_go.html); [Throwaway Whip](whip_throwaway.html) </td> </tr> <tr> <td>Silver</td> <td> [Windmill](windmill.html); [Spanish Arms](spanish_arms.html); [Rolling off the Arm](rolling_off_arm.html); [Simple Spin](simple_spin.html); [Miami Special](miami_special.html) </td> </tr> <tr> <td>Gold</td> <td> [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.html); [Overturned Change of Places L to R](overturned_change_of_places_left_right.html); [Shoulder Spin](shoulder_spin.html); [Chugging](chugging.html); [Catapult](catapult.html) </td> </tr> </tbody></table>
+ | **Commenced in Open Position** |  |
+|---|---|
+| PreBronze | [Fallaway Throwaway](fallaway_throwaway.md); [Change of Places R to L](change_RL.md); [Change of Places L to Right](change_LR.md); [Change of Hands Behind the Back](behind_back.md); [Hip Bump](hip_bump.md) |
+| Bronze | [American Spin](american_spin.md); [Stop and Go](stop_go.md); [Throwaway Whip](whip_throwaway.md) |
+| Silver | [Windmill](windmill.md); [Spanish Arms](spanish_arms.md); [Rolling off the Arm](rolling_off_arm.md); [Simple Spin](simple_spin.md); [Miami Special](miami_special.md) |
+| Gold | [Overturned Fallaway Throwaway](overturned_fallaway_throwaway.md); [Overturned Change of Places L to R](overturned_change_of_places_left_right.md); [Shoulder Spin](shoulder_spin.md); [Chugging](chugging.md); [Catapult](catapult.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in PP**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> 3-8 [Fallaway Rock](fallaway_rock.html); 3-8 [Fallaway Throwaway](fallaway_throwaway.html); 3-8 [Change of Places R to L](change_RL.html) </td> </tr> <tr> <td>Bronze</td> <td> 3-10 [Whip](whip.html); 3-10 [Throwaway Whip](whip_throwaway.html) </td> </tr> <tr> <td>Silver</td> <td> 3-10 [Reverse Whip](reverse_whip.html); 3-8 [Windmill](windmill.html) </td> </tr> <tr> <td>Gold</td> <td> [Break](break.html); 3-17 [Stalking Walks](stalking_walks.html) </td> </tr> </tbody></table>
+ | **Ended in PP** |  |
+|---|---|
+| PreBronze | 3-8 [Fallaway Rock](fallaway_rock.md); 3-8 [Fallaway Throwaway](fallaway_throwaway.md); 3-8 [Change of Places R to L](change_RL.md) |
+| Bronze | 3-10 [Whip](whip.md); 3-10 [Throwaway Whip](whip_throwaway.md) |
+| Silver | 3-10 [Reverse Whip](reverse_whip.md); 3-8 [Windmill](windmill.md) |
+| Gold | [Break](break.md); 3-17 [Stalking Walks](stalking_walks.md) |

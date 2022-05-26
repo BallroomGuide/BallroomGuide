@@ -5,9 +5,17 @@
 
 Commence in Closed Position, backing LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td style="height: 23px">1</td> <td style="height: 23px">RF back</td> <td style="height: 23px">Com to turn L</td> <td style="height: 23px">Backing LOD</td> <td style="text-align:center; height: 23px;">LOD</td> </tr> <tr> <td>2 </td> <td>LF to side &amp; slightly fwd</td> <td>3/8 between 1-2</td> <td>Backing DC against LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>Transfer weight to RF</td> <td> </td> <td>Backing DC against LOD</td> <td style="text-align:center">Against LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | RF back | Com to turn L | Backing LOD | LOD |
+| 2 | LF to side &amp; slightly fwd | 3/8 between 1-2 | Backing DC against LOD | LOD |
+| 3 | Transfer weight to RF |  | Backing DC against LOD | Against LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td>Com to rise, NFR</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> <tr> <td>2 </td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center">R</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Up. Lower e/o 3</td> <td style="text-align:center"></td> <td style="text-align:right">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed | Com to rise, NFR |  | TH |
+| 2 | 2 | Closed | Cont to rise | R | T |
+| 3 | 3 | Closed | Up. Lower e/o 3 |  | TH |
 
 **The following step will be taken back in CBMP with the Lady Outside**
 
@@ -17,9 +25,17 @@ Commence in Closed Position, backing LOD
 
 Commence in Closed Position, facing LOD
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:38%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:16%">**Alignment**</td> <td style="width:16%;text-align:center">**Moving**</td> </tr> <tr> <td>1</td> <td>LF fwd</td> <td>Com to turn L</td> <td>Facing LOD</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>2 </td> <td>RF to side, then brush LF toward RF</td> <td>1/4 between 1-2</td> <td>Facing Centre</td> <td style="text-align:center">LOD</td> </tr> <tr> <td>3</td> <td>LF diag fwd</td> <td>1/8 between 2-3</td> <td>Facing DC against LOD</td> <td style="text-align:center">Against LOD</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Alignment** | **Moving** |
+|---|---|---|---|---|
+| 1 | LF fwd | Com to turn L | Facing LOD | LOD |
+| 2 | RF to side, then brush LF toward RF | 1/4 between 1-2 | Facing Centre | LOD |
+| 3 | LF diag fwd | 1/8 between 2-3 | Facing DC against LOD | Against LOD |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:10%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Position**</td> <td style="width:40%">**Rise &amp; Fall**</td> <td style="width:10%;text-align:center">**Sway**</td> <td style="width:10%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Closed</td> <td>Com to rise e/o 1</td> <td style="text-align:center"></td> <td style="text-align:right">HT</td> </tr> <tr> <td>2 </td> <td style="text-align:center">2</td> <td style="text-align:center">Closed</td> <td>Cont to rise</td> <td style="text-align:center">L</td> <td style="text-align:right">T</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Closed</td> <td>Cont to rise. Lower e/o 3</td> <td> </td> <td style="text-align:right;">TH</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Position** | **Rise &amp; Fall** | **Sway** | **Footwork** |
+|---|---|---|---|---|---|
+| 1 | 1 | Closed | Com to rise e/o 1 |  | HT |
+| 2 | 2 | Closed | Cont to rise | L | T |
+| 3 | 3 | Closed | Cont to rise. Lower e/o 3 |  | TH |
 
 **The following step will be taken forward in CBMP, OP**
 
@@ -27,8 +43,22 @@ Commence in Closed Position, facing LOD
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced Backing DC**</td> <td>**Turning only 1/4 between steps 1-2 (Lady 1/8)**</td> </tr> <tr> <td>PreBronze</td> <td> [Natural Spin Turn](spin_turn.html) </td> </tr> <tr> <td>Bronze</td> <td> [Closed Impetus](closed_impetus.html) (at a corner) </td> </tr> <tr> <td>Silver</td> <td> [Outside Spin](outside_spin.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Commenced Backing LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>PreBronze</td> <td> 1-3 [Reverse Turn](reverse_turn.html); [Natural Spin Turn](spin_turn.html) </td> </tr> <tr> <td>Silver</td> <td> [Outside Spin](outside_spin.html) (at a corner) </td> </tr> </tbody></table>
+ | **Commenced Backing DC** | **Turning only 1/4 between steps 1-2 (Lady 1/8)** |
+|---|---|
+| PreBronze | [Natural Spin Turn](spin_turn.md) |
+| Bronze | [Closed Impetus](closed_impetus.md) (at a corner) |
+| Silver | [Outside Spin](outside_spin.md) |
+|  |  |
+| **Commenced Backing LOD** | **As described in the charts above** |
+| PreBronze | 1-3 [Reverse Turn](reverse_turn.md); [Natural Spin Turn](spin_turn.md) |
+| Silver | [Outside Spin](outside_spin.md) (at a corner) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended Backing against LOD**</td> <td>**As described in the charts above**</td> </tr> <tr> <td>Bronze</td> <td> [Back Whisk](back_whisk.html) </td> </tr> <tr> <td>Silver</td> <td> [Outside Spin](outside_spin.html) </td> </tr> <tr> <td> </td> <td> </td> </tr> <tr> <td>**Ended Backing New Centre**</td> <td>**At a corner**</td> </tr> <tr> <td>Bronze</td> <td> [Outside Change](outside_change.html) </td> </tr> </tbody></table>
+ | **Ended Backing against LOD** | **As described in the charts above** |
+|---|---|
+| Bronze | [Back Whisk](back_whisk.md) |
+| Silver | [Outside Spin](outside_spin.md) |
+|  |  |
+| **Ended Backing New Centre** | **At a corner** |
+| Bronze | [Outside Change](outside_change.md) |

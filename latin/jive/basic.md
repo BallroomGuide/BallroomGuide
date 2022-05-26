@@ -5,24 +5,69 @@
 
 ### Man
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>Close LF to RF</td> <td> </td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to RF</td> <td> </td> </tr> <tr> <td>3</td> <td>LF to side, part weight</td> <td> </td> <td rowspan="3">Side Chasse</td> </tr> <tr> <td>4</td> <td>RF closes halfway to LF</td> <td> </td> </tr> <tr> <td>5</td> <td>LF to side</td> <td> </td> </tr> <tr> <td>6</td> <td>RF to side, part weight</td> <td> </td> <td rowspan="3">Side Chasse</td> </tr> <tr> <td>7</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>8</td> <td>RF to side</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | Close LF to RF |  | Rock Step |
+| 2 | Replace weight to RF |  |
+| 3 | LF to side, part weight |  | Side Chasse |
+| 4 | RF closes halfway to LF |  |
+| 5 | LF to side |  |
+| 6 | RF to side, part weight |  | Side Chasse |
+| 7 | LF closes halfway to RF |  |
+| 8 | RF to side |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>7</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Closed | BF |
+| 2 | 2 | Q | Closed | BF |
+| 3 | 3 | Q | Closed | B |
+| 4 | a | a | Closed | B |
+| 5 | 4 | Q | Closed | BF |
+| 6 | 1 | Q | Closed | B |
+| 7 | a | a | Closed | B |
+| 8 | 2 | Q | Closed | BF |
 
 1\) This figure is used primarily as an exercise to teach beginners rhythm
 
 ### Lady
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:40%">**Steps**</td> <td style="width:20%">**Turn**</td> <td style="width:30%">**Action**</td> </tr> <tr> <td>1</td> <td>Close RF to LF</td> <td> </td> <td rowspan="2">Rock Step</td> </tr> <tr> <td>2</td> <td>Replace weight to LF</td> <td> </td> </tr> <tr> <td>3</td> <td>RF to side, part weight</td> <td> </td> <td rowspan="3">Side Chasse</td> </tr> <tr> <td>4</td> <td>LF closes halfway to RF</td> <td> </td> </tr> <tr> <td>5</td> <td>RF to side</td> <td> </td> </tr> <tr> <td>6</td> <td>LF to side, part weight</td> <td> </td> <td rowspan="3">Side Chasse</td> </tr> <tr> <td>7</td> <td>RF closes halfway to LF</td> <td> </td> </tr> <tr> <td>8</td> <td>LF to side</td> <td> </td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Steps** | **Turn** | **Action** |
+|---|---|---|---|
+| 1 | Close RF to LF |  | Rock Step |
+| 2 | Replace weight to LF |  |
+| 3 | RF to side, part weight |  | Side Chasse |
+| 4 | LF closes halfway to RF |  |
+| 5 | RF to side |  |
+| 6 | LF to side, part weight |  | Side Chasse |
+| 7 | RF closes halfway to LF |  |
+| 8 | LF to side |  |
 
- <table class="style1"> <tbody><tr> <td style="width:10%">**Step<span style="color:white">\_</span>\#**</td> <td style="width:20%;text-align:center">**Timing**</td> <td style="width:20%;text-align:center">**Rhythm**</td> <td style="width:30%;text-align:center">**Position**</td> <td style="width:20%;text-align:right">**Footwork**</td> </tr> <tr> <td>1</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>2</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>3</td> <td style="text-align:center">3</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>4</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>5</td> <td style="text-align:center">4</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> <tr> <td>6</td> <td style="text-align:center">1</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>7</td> <td style="text-align:center">a</td> <td style="text-align:center">a</td> <td style="text-align:center">Closed</td> <td style="text-align:right">B</td> </tr> <tr> <td>8</td> <td style="text-align:center">2</td> <td style="text-align:center">Q</td> <td style="text-align:center">Closed</td> <td style="text-align:right">BF</td> </tr> </tbody></table>
+ | **Step<span style="color:white">\_</span>\#** | **Timing** | **Rhythm** | **Position** | **Footwork** |
+|---|---|---|---|---|
+| 1 | 1 | Q | Closed | BF |
+| 2 | 2 | Q | Closed | BF |
+| 3 | 3 | Q | Closed | B |
+| 4 | a | a | Closed | B |
+| 5 | 4 | Q | Closed | BF |
+| 6 | 1 | Q | Closed | B |
+| 7 | a | a | Closed | B |
+| 8 | 2 | Q | Closed | BF |
 
 1\) This figure is used primarily as an exercise to teach beginners rhythm
 
 ### Preceding Figures
 
- <table> <tbody><tr> <td style="width:30%">**Commenced in Closed Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](basic.html); [Fallaway Rock](fallaway_rock.html); [Link](link.html) </td> </tr> <tr> <td>Bronze</td> <td> [Mooch](mooch.html); [Whip](whip.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Whip](reverse_whip.html) </td> </tr> </tbody></table>
+ | **Commenced in Closed Position** |  |
+|---|---|
+| PreBronze | [Basic in Place](basic.md); [Fallaway Rock](fallaway_rock.md); [Link](link.md) |
+| Bronze | [Mooch](mooch.md); [Whip](whip.md) |
+| Silver | [Reverse Whip](reverse_whip.md) |
 
 ### Following Figures
 
- <table> <tbody><tr> <td style="width:30%">**Ended in Closed Position**</td> <td> </td> </tr> <tr> <td>PreBronze</td> <td> [Basic in Place](basic.html); [Fallaway Rock](fallaway_rock.html); [Fallaway Throwaway](fallaway_throwaway.html); [Change of Places R to L](change_RL.html) </td> </tr> <tr> <td>Bronze</td> <td> [Walks](walks.html); [Mooch](mooch.html) </td> </tr> <tr> <td>Silver</td> <td> [Reverse Whip](reverse_whip.html) </td> </tr> <tr> <td>Gold</td> <td> [Stalking Walks](stalking_walks.html) </td> </tr> </tbody></table>
+ | **Ended in Closed Position** |  |
+|---|---|
+| PreBronze | [Basic in Place](basic.md); [Fallaway Rock](fallaway_rock.md); [Fallaway Throwaway](fallaway_throwaway.md); [Change of Places R to L](change_RL.md) |
+| Bronze | [Walks](walks.md); [Mooch](mooch.md) |
+| Silver | [Reverse Whip](reverse_whip.md) |
+| Gold | [Stalking Walks](stalking_walks.md) |
